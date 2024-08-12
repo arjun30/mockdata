@@ -1,5 +1,5 @@
 {
-  "inbox_count": 5,
+  "inbox_count": 4,
   "inbox": [
     {
       "aps": {
@@ -113,40 +113,6 @@
         "status": "sent",
         "timestamp": "1723182976621",
         "trid": "140578-2141-726-0-240809112612",
-        "type": "Simple"
-      },
-      "smtSrc": "Smartech",
-      "smtUi": {
-        "flid": 1,
-        "lid": 1
-      }
-    },
-    {
-      "aps": {
-        "alert": {
-          "body": "Test Campaign8",
-          "subtitle": "",
-          "title": "Test Campaign 8"
-        },
-        "category": "SmartechPN",
-        "mutable-content": 1,
-        "sound": ""
-      },
-      "customPayload": {},
-      "expiry": 1723269070,
-      "payload": {
-        "actionButton": [],
-        "app_inbox_category": "TestAk",
-        "app_inbox_ttl": "2024-09-05T15:23:49",
-        "attrParams": null,
-        "carousel": [],
-        "deeplink": "",
-        "expiry": 1723269070,
-        "mediaurl": "",
-        "publishedDate": "2024-08-09T11:21:09",
-        "status": "sent",
-        "timestamp": "1723182670505",
-        "trid": "140578-2140-772-0-2024080911210919-T",
         "type": "Simple"
       },
       "smtSrc": "Smartech",
