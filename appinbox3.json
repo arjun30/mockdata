@@ -1,0 +1,127 @@
+{
+  "inbox_count": 3,
+  "inbox": [
+    {
+      "aps": {
+        "alert": {
+          "body": "11",
+          "subtitle": "",
+          "title": "TestCampaign 11"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "customPayload": {},
+      "payload": {
+        "actionButton": [],
+        "app_inbox_category": "CustomPNAI",
+        "app_inbox_ttl": "2024-09-06T08:10:42",
+        "attrParams": {
+          "__sta": "%7CUHIV",
+          "__stm_id": 2143,
+          "__stm_medium": "apn",
+          "__stm_source": "smartech"
+        },
+        "carousel": [],
+        "deeplink": "",
+        "mediaurl": "",
+        "pnMeta": {
+          "guid": "865C7EBD-F3B1-474F-8AA1-E3146CCAC87F"
+        },
+        "publishedDate": "2024-08-09T08:10:58",
+        "status": "sent",
+        "timestamp": "1723191130101",
+        "trid": "140578-2143-772-0-240809134101",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "Campaign",
+          "subtitle": "",
+          "title": "Test Nofification message"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "customPayload": {},
+      "payload": {
+        "actionButton": [],
+        "app_inbox_category": "CustomPNAI",
+        "app_inbox_ttl": "2024-09-06T08:10:42",
+        "attrParams": {
+          "__sta": "%7CUHIV",
+          "__stm_id": 2143,
+          "__stm_medium": "apn",
+          "__stm_source": "smartech"
+        },
+        "carousel": [],
+        "deeplink": "",
+        "mediaurl": "",
+        "pnMeta": {
+          "guid": "865C7EBD-F3B1-474F-8AA1-E3146CCAC87F"
+        },
+        "publishedDate": "2024-08-09T08:10:58",
+        "status": "sent",
+        "timestamp": "1723191130101",
+        "trid": "140578-2143-772-0-240809134102",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "Campaign 331",
+          "subtitle": "",
+          "title": "Test Nofification 321"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "customPayload": {},
+      "payload": {
+        "actionButton": [],
+        "app_inbox_category": "CustomPNAI",
+        "app_inbox_ttl": "2024-09-06T08:10:42",
+        "attrParams": {
+          "__sta": "%7CUHIV",
+          "__stm_id": 2143,
+          "__stm_medium": "apn",
+          "__stm_source": "smartech"
+        },
+        "carousel": [],
+        "deeplink": "",
+        "mediaurl": "",
+        "pnMeta": {
+          "guid": "865C7EBD-F3B1-474F-8AA1-E3146CCAC87F"
+        },
+        "publishedDate": "2024-08-09T08:10:58",
+        "status": "sent",
+        "timestamp": "1723191130101",
+        "trid": "140578-2143-772-0-2408091341034",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    }
+  ],
+  "message": "success",
+  "code": 200
+}
