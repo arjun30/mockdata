@@ -16,7 +16,7 @@
       "payload": {
         "actionButton": [],
         "app_inbox_category": "TestAk",
-        "app_inbox_ttl": null,
+        "app_inbox_ttl": "null",
         "carousel": [],
         "deeplink": "",
         "mediaurl": "",
