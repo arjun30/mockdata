@@ -80,41 +80,6 @@
         "flid": 1,
         "lid": 1
       }
-    },
-    {
-      "aps": {
-        "alert": {
-          "body": "9",
-          "subtitle": "",
-          "title": "Test campaign 9"
-        },
-        "category": "SmartechPN",
-        "mutable-content": 1,
-        "sound": ""
-      },
-      "customPayload": {},
-      "payload": {
-        "actionButton": [],
-        "app_inbox_category": "TestAk",
-        "app_inbox_ttl": "2024-09-06T05:55:53",
-        "attrParams": null,
-        "carousel": [],
-        "deeplink": "",
-        "mediaurl": "",
-        "pnMeta": {
-          "guid": "F1C60469-D2CA-4F30-8034-6764E743C5A2"
-        },
-        "publishedDate": "2024-08-09T05:56:08",
-        "status": "sent",
-        "timestamp": "1723182976621",
-        "trid": "140578-2141-726-0-240809112612",
-        "type": "Simple"
-      },
-      "smtSrc": "Smartech",
-      "smtUi": {
-        "flid": 1,
-        "lid": 1
-      }
     }
   ],
   "message": "success",
