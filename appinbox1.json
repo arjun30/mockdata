@@ -1,13 +1,12 @@
 {
   "inbox_count": 3,
   "inbox": [
-
     {
       "aps": {
         "alert": {
-          "body": "Newely added Node1",
+          "body": "Newely added Node4",
           "subtitle": "",
-          "title": "New node1"
+          "title": "New node4"
         },
         "category": "SmartechPN",
         "mutable-content": 1,
@@ -24,44 +23,10 @@
         "deeplink": "",
         "expiry": 1723613708,
         "mediaurl": "",
-        "publishedDate": "2024-08-14T05:05:08",
+        "publishedDate": "2024-08-18T05:05:08",
         "status": "sent",
         "timestamp": "1723527308936",
-        "trid": "140578-2148-785-0-202408131110508304-T",
-        "type": "Simple"
-      },
-      "smtSrc": "Smartech",
-      "smtUi": {
-        "flid": 1,
-        "lid": 1
-      }
-    },
-    {
-      "aps": {
-        "alert": {
-          "body": "Newely added Node3",
-          "subtitle": "",
-          "title": "New node3"
-        },
-        "category": "SmartechPN",
-        "mutable-content": 1,
-        "sound": ""
-      },
-      "customPayload": {},
-      "expiry": 1723613708,
-      "payload": {
-        "actionButton": [],
-        "app_inbox_category": "TestAk",
-        "app_inbox_ttl": "2024-09-10T10:53:35",
-        "attrParams": null,
-        "carousel": [],
-        "deeplink": "",
-        "expiry": 1723613708,
-        "mediaurl": "",
-        "publishedDate": "2024-08-14T05:05:08",
-        "status": "sent",
-        "timestamp": "1723527308936",
-        "trid": "140578-2148-785-0-2102408131110123",
+        "trid": "140578-2148-785-0-23412",
         "type": "Simple"
       },
       "smtSrc": "Smartech",
