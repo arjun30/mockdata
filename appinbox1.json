@@ -39,9 +39,9 @@
     {
       "aps": {
         "alert": {
-          "body": "Newely added Node2",
+          "body": "Newely added Node3",
           "subtitle": "",
-          "title": "New node2"
+          "title": "New node3"
         },
         "category": "SmartechPN",
         "mutable-content": 1,
@@ -61,7 +61,7 @@
         "publishedDate": "2024-08-14T05:05:08",
         "status": "sent",
         "timestamp": "1723527308936",
-        "trid": "140578-2148-785-0-2102408131110508304-T",
+        "trid": "140578-2148-785-0-2102408131110123",
         "type": "Simple"
       },
       "smtSrc": "Smartech",
