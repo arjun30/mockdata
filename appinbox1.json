@@ -68,7 +68,41 @@
         "flid": 1,
         "lid": 1
       }
-    }
+    },
+     {
+      "aps": {
+        "alert": {
+          "body": "Newely added Node16",
+          "subtitle": "",
+          "title": "New node16"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "customPayload": {},
+      "expiry": 1723613708,
+      "payload": {
+        "actionButton": [],
+        "app_inbox_category": "TestAk",
+        "app_inbox_ttl": "2024-09-30T10:53:35",
+        "attrParams": null,
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1723613708,
+        "mediaurl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/sp-filenames/special_chars_%40%23%24%25%26*().png",
+        "publishedDate": "2024-08-19T05:05:08",
+        "status": "sent",
+        "timestamp": "1723527308936",
+        "trid": "140578-2148-785-01-23412010768912",
+        "type": "Image"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    },
   ],
   "message": "success",
   "code": 200
