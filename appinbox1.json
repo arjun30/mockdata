@@ -102,6 +102,104 @@
         "flid": 1,
         "lid": 1
       }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "testing",
+          "subtitle": "",
+          "title": "test-how are you-2"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "customPayload": {
+
+      },
+      "expiry": 1729747212,
+      "payload": {
+        "actionButton": [],
+        "app_inbox_category": "TestAppInbox",
+        "app_inbox_ttl": "2024-10-24T05:36:24",
+        "attrParams": {
+          "__sta": "VVYYIYFVBQ%7CJUV",
+          "__stm_id": 235,
+          "__stm_medium": "apn",
+          "__stm_source": "smartech"
+        },
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1729747212,
+        "mediaurl": "",
+        "pnMeta": {
+          "guid": "B8FCE2C0-6CD8-4F53-91BA-F2E26961553B"
+        },
+        "publishedDate": "2024-09-26T05:37:03",
+        "status": "sent",
+        "timestamp": "1727329035252",
+        "trid": "175567-235-246-0-240926110707",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "testing",
+          "subtitle": "",
+          "title": "test-how are you-2"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "customPayload": {
+
+      },
+      "expiry": 1729747332,
+      "payload": {
+        "actionButton": [
+          {
+            "aTyp": "1",
+            "actionDeeplink": "/about_us_screen?__sta_linkid=31&__sta=%7CYUV&__stm_medium=apn&__stm_source=smartech&__stm_id=236",
+            "actionName": "Done",
+            "call_to_action": "deeplink",
+            "config": {
+
+            }
+          }
+        ],
+        "app_inbox_category": "TestAppInbox",
+        "app_inbox_ttl": "2024-10-24T05:36:24",
+        "attrParams": {
+          "__sta": "JHUUFIUTQB%7CYUV",
+          "__stm_id": 236,
+          "__stm_medium": "apn",
+          "__stm_source": "smartech"
+        },
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1729747332,
+        "mediaurl": "https://pnstage.netcore.co.in/netcoresdk-demo-files/image/demo-image-3.jpg",
+        "pnMeta": {
+          "guid": "B8FCE2C0-6CD8-4F53-91BA-F2E26961553B"
+        },
+        "publishedDate": "2024-09-26T05:40:36",
+        "status": "sent",
+        "timestamp": "1727329248369",
+        "trid": "175567-236-246-0-240926111039",
+        "type": "Image"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 21,
+        "lid": 21
+      }
     }
   ],
   "message": "success",
