@@ -1,205 +1,243 @@
 {
-  "inbox_count": 3,
+  "inbox_count": 7,
   "inbox": [
     {
-      "aps": {
-        "alert": {
-          "body": "Newely added Node14",
-          "subtitle": "",
-          "title": "New node14"
-        },
-        "category": "SmartechPN",
-        "mutable-content": 1,
-        "sound": ""
+      "actionButton": [],
+      "app_inbox_category": "TESTJR",
+      "app_inbox_ttl": "2024-10-17T05:31:27",
+      "attrParams": {
+        "__sta": "%7CIUUBI",
+        "__stm_id": 19331,
+        "__stm_medium": "apn",
+        "__stm_source": "smartech"
       },
-      "customPayload": {},
-      "expiry": 1723613708,
-      "payload": {
-        "actionButton": [],
-        "app_inbox_category": "TestAk",
-        "app_inbox_ttl": "2024-09-30T10:53:35",
-        "attrParams": null,
-        "carousel": [],
-        "deeplink": "",
-        "expiry": 1723613708,
-        "mediaurl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/sp-filenames/special-characters-%40%23%24%25%5E%26().png",
-        "publishedDate": "2024-09-19T05:05:08",
-        "status": "sent",
-        "timestamp": "1723527308936",
-        "trid": "140578-2148-785-01-23412010768912",
-        "type": "Image"
-      },
-      "smtSrc": "Smartech",
-      "smtUi": {
-        "flid": 1,
-        "lid": 1
-      }
-    },
-    {
-      "aps": {
-        "alert": {
-          "body": "Newely added Node15",
-          "subtitle": "",
-          "title": "New node15"
-        },
-        "category": "SmartechPN",
-        "mutable-content": 1,
-        "sound": ""
-      },
-      "customPayload": {},
-      "expiry": 1723613708,
-      "payload": {
-        "actionButton": [],
-        "app_inbox_category": "TestAk",
-        "app_inbox_ttl": "2024-09-30T10:53:35",
-        "attrParams": null,
-        "carousel": [],
-        "deeplink": "",
-        "expiry": 1723613708,
-        "mediaurl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/sp-filenames/image+file+with+spaces.png",
-        "publishedDate": "2024-09-19T05:05:08",
-        "status": "sent",
-        "timestamp": "1723527308936",
-        "trid": "140578-2148-785-01-23412010768911232",
-        "type": "Image"
-      },
-      "smtSrc": "Smartech",
-      "smtUi": {
-        "flid": 1,
-        "lid": 1
-      }
-    },
-     {
-      "aps": {
-        "alert": {
-          "body": "Newely added Node16",
-          "subtitle": "",
-          "title": "New node16"
-        },
-        "category": "SmartechPN",
-        "mutable-content": 1,
-        "sound": ""
-      },
-      "customPayload": {},
-      "expiry": 1723613708,
-      "payload": {
-        "actionButton": [],
-        "app_inbox_category": "TestAk",
-        "app_inbox_ttl": "2024-09-30T10:53:35",
-        "attrParams": null,
-        "carousel": [],
-        "deeplink": "",
-        "expiry": 1723613708,
-        "mediaurl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/sp-filenames/special_chars_%40%23%24%25%26*().png",
-        "publishedDate": "2024-09-19T05:05:08",
-        "status": "sent",
-        "timestamp": "1723527308936",
-        "trid": "140578-2148-785-01-234120107144268912",
-        "type": "Image"
-      },
-      "smtSrc": "Smartech",
-      "smtUi": {
-        "flid": 1,
-        "lid": 1
-      }
-    },
-    {
-      "aps": {
-        "alert": {
-          "body": "testing",
-          "subtitle": "",
-          "title": "test-how are you-2"
-        },
-        "category": "SmartechPN",
-        "mutable-content": 1,
-        "sound": ""
-      },
+      "carousel": [],
       "customPayload": {
 
       },
-      "expiry": 1729747212,
-      "payload": {
-        "actionButton": [],
-        "app_inbox_category": "TestAppInbox",
-        "app_inbox_ttl": "2024-10-24T05:36:24",
-        "attrParams": {
-          "__sta": "VVYYIYFVBQ%7CJUV",
-          "__stm_id": 235,
-          "__stm_medium": "apn",
-          "__stm_source": "smartech"
-        },
-        "carousel": [],
-        "deeplink": "",
-        "expiry": 1729747212,
-        "mediaurl": "",
-        "pnMeta": {
-          "guid": "B8FCE2C0-6CD8-4F53-91BA-F2E26961553B"
-        },
-        "publishedDate": "2024-09-26T05:37:03",
-        "status": "sent",
-        "timestamp": "1727329035252",
-        "trid": "175567-235-246-0-240926110707",
-        "type": "Simple"
+      "deeplink": "",
+      "expiry": 1729143120,
+      "image": "",
+      "message": "bye",
+      "pnMeta": {
+        "guid": "3f802a9f-7b6d-48a3-bd63-ec7725ef26d6"
+      },
+      "publishedDate": "2024-09-19T05:31:41",
+      "smtCustomPayload": {
+
       },
       "smtSrc": "Smartech",
-      "smtUi": {
-        "flid": 1,
-        "lid": 1
-      }
+      "sound": true,
+      "status": "sent",
+      "subtitle": "",
+      "timestamp": "1726723961055",
+      "title": "testsplit2",
+      "trid": "85711-19331-0-0-240919110217-A",
+      "type": "Simple"
     },
     {
-      "aps": {
-        "alert": {
-          "body": "testing",
-          "subtitle": "",
-          "title": "test-how are you-2"
-        },
-        "category": "SmartechPN",
-        "mutable-content": 1,
-        "sound": ""
+      "actionButton": [],
+      "app_inbox_category": "TestJR",
+      "app_inbox_ttl": "2024-10-11T06:33:14",
+      "attrParams": {
+        "__sta": "%7CITFBI",
+        "__stm_id": 19071,
+        "__stm_medium": "apn",
+        "__stm_source": "smartech"
       },
+      "carousel": [],
       "customPayload": {
 
       },
-      "expiry": 1729747332,
-      "payload": {
-        "actionButton": [
-          {
-            "aTyp": "1",
-            "actionDeeplink": "/about_us_screen?__sta_linkid=31&__sta=%7CYUV&__stm_medium=apn&__stm_source=smartech&__stm_id=236",
-            "actionName": "Done",
-            "call_to_action": "deeplink",
-            "config": {
+      "deeplink": "",
+      "expiry": 1728628351,
+      "image": "",
+      "message": "test",
+      "pnMeta": {
+        "guid": "3f802a9f-7b6d-48a3-bd63-ec7725ef26d6"
+      },
+      "publishedDate": "2024-09-13T06:33:34",
+      "smtCustomPayload": {
 
-            }
-          }
-        ],
-        "app_inbox_category": "TestAppInbox",
-        "app_inbox_ttl": "2024-10-24T05:36:24",
-        "attrParams": {
-          "__sta": "JHUUFIUTQB%7CYUV",
-          "__stm_id": 236,
-          "__stm_medium": "apn",
-          "__stm_source": "smartech"
-        },
-        "carousel": [],
-        "deeplink": "",
-        "expiry": 1729747332,
-        "mediaurl": "https://pnstage.netcore.co.in/netcoresdk-demo-files/image/demo-image-3.jpg",
-        "pnMeta": {
-          "guid": "B8FCE2C0-6CD8-4F53-91BA-F2E26961553B"
-        },
-        "publishedDate": "2024-09-26T05:40:36",
-        "status": "sent",
-        "timestamp": "1727329248369",
-        "trid": "175567-236-246-0-240926111039",
-        "type": "Image"
       },
       "smtSrc": "Smartech",
-      "smtUi": {
-        "flid": 21,
-        "lid": 21
-      }
+      "sound": true,
+      "status": "sent",
+      "subtitle": "",
+      "timestamp": "1726209245148",
+      "title": "Check manually Test APP Push",
+      "trid": "85711-19071-0-0-240913120337-A",
+      "type": "Simple"
+    },
+    {
+      "actionButton": [],
+      "app_inbox_category": "TestJR",
+      "app_inbox_ttl": "2024-10-11T04:52:16",
+      "attrParams": {
+        "__sta": "%7CBTBQI",
+        "__stm_id": 18979,
+        "__stm_medium": "apn",
+        "__stm_source": "smartech"
+      },
+      "carousel": [],
+      "customPayload": {
+
+      },
+      "deeplink": "",
+      "expiry": 1728623084,
+      "image": "",
+      "message": "APN_TEST_HIGH_0_P",
+      "pnMeta": {
+        "guid": "3f802a9f-7b6d-48a3-bd63-ec7725ef26d6"
+      },
+      "publishedDate": "2024-09-13T05:04:59",
+      "smtCustomPayload": {
+
+      },
+      "smtSrc": "Smartech",
+      "sound": true,
+      "status": "sent",
+      "subtitle": "",
+      "timestamp": "1726204003096",
+      "title": "APN_TEST_HIGH_0_P",
+      "trid": "85711-18979-0-0-240913103606-A",
+      "type": "Simple"
+    },
+    {
+      "actionButton": [],
+      "app_inbox_category": "TestJR",
+      "app_inbox_ttl": "2024-10-11T04:52:16",
+      "attrParams": {
+        "__sta": "%7CQHBQI",
+        "__stm_id": 18948,
+        "__stm_medium": "apn",
+        "__stm_source": "smartech"
+      },
+      "carousel": [],
+      "customPayload": {
+
+      },
+      "deeplink": "",
+      "expiry": 1728622456,
+      "image": "",
+      "message": "APN_TEST_HIGH_0_P",
+      "pnMeta": {
+        "guid": "3f802a9f-7b6d-48a3-bd63-ec7725ef26d6"
+      },
+      "publishedDate": "2024-09-13T04:52:37",
+      "smtCustomPayload": {
+
+      },
+      "smtSrc": "Smartech",
+      "sound": true,
+      "status": "sent",
+      "subtitle": "",
+      "timestamp": "1726203293795",
+      "title": "APN_TEST_HIGH_0_P",
+      "trid": "85711-18948-0-0-240913102406-A",
+      "type": "Simple"
+    },
+    {
+      "actionButton": [],
+      "app_inbox_category": "TestJR",
+      "app_inbox_ttl": "2024-10-10T13:02:37",
+      "attrParams": {
+        "__sta": "%7CIUBQI",
+        "__stm_id": 18931,
+        "__stm_medium": "apn",
+        "__stm_source": "smartech"
+      },
+      "carousel": [],
+      "customPayload": {
+
+      },
+      "deeplink": "",
+      "expiry": 1728565125,
+      "image": "",
+      "message": "Q_EMEMRGENCY_TEST",
+      "pnMeta": {
+        "guid": "3f802a9f-7b6d-48a3-bd63-ec7725ef26d6"
+      },
+      "publishedDate": "2024-09-12T13:02:49",
+      "smtCustomPayload": {
+
+      },
+      "smtSrc": "Smartech",
+      "sound": true,
+      "status": "sent",
+      "subtitle": "",
+      "timestamp": "1726146214675",
+      "title": "SLOW Q check",
+      "trid": "85711-18931-0-0-240912183253-A",
+      "type": "Simple"
+    },
+    {
+      "actionButton": [],
+      "app_inbox_category": "TestJR",
+      "app_inbox_ttl": "2024-10-03T09:30:18",
+      "attrParams": {
+        "__sta": "%7CJYQQI",
+        "__stm_id": 18865,
+        "__stm_medium": "apn",
+        "__stm_source": "smartech"
+      },
+      "carousel": [],
+      "customPayload": {
+
+      },
+      "deeplink": "",
+      "expiry": 1727947833,
+      "image": "",
+      "message": "Hello",
+      "pnMeta": {
+        "guid": "3f802a9f-7b6d-48a3-bd63-ec7725ef26d6"
+      },
+      "publishedDate": "2024-09-05T09:30:31",
+      "smtCustomPayload": {
+
+      },
+      "smtSrc": "Smartech",
+      "sound": true,
+      "status": "sent",
+      "subtitle": "",
+      "timestamp": "1725528664311",
+      "title": "testing!!!",
+      "trid": "85711-18865-0-0-240905150034-A",
+      "type": "Simple"
+    },
+    {
+      "actionButton": [],
+      "app_inbox_category": "TestJR",
+      "app_inbox_ttl": "2024-10-01T06:10:51",
+      "attrParams": {
+        "__sta": "%7CHVYQI",
+        "__stm_id": 18624,
+        "__stm_medium": "apn",
+        "__stm_source": "smartech"
+      },
+      "carousel": [],
+      "customPayload": {
+
+      },
+      "deeplink": "",
+      "expiry": 1727762906,
+      "image": "",
+      "message": "desc",
+      "pnMeta": {
+        "guid": "3f802a9f-7b6d-48a3-bd63-ec7725ef26d6"
+      },
+      "publishedDate": "2024-09-03T06:11:12",
+      "smtCustomPayload": {
+
+      },
+      "smtSrc": "Smartech",
+      "sound": true,
+      "status": "sent",
+      "subtitle": "",
+      "timestamp": "1725343898818",
+      "title": "Test by JR android Identified app inbox",
+      "trid": "85711-18624-0-0-240903114115-A",
+      "type": "Simple"
     }
   ],
   "message": "success",
