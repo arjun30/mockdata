@@ -2,72 +2,84 @@
   "inbox_count": 2,
   "inbox": [
     {
-      "actionButton": [
-        {
-          "aTyp": "1",
-          "actionDeeplink": "/about_us_screen?__sta_linkid=31&__sta=%7CYUV&__stm_medium=apn&__stm_source=smartech&__stm_id=236",
-          "actionName": "Done",
-          "call_to_action": "deeplink",
-          "config": {}
-        }
-      ],
-      "app_inbox_category": "TESTJR",
-      "app_inbox_ttl": "2024-12-12T10:10:13",
-      "attrParams": {
-        "__sta": "%7CIUUBI",
-        "__stm_id": 19331,
-        "__stm_medium": "apn",
-        "__stm_source": "smartech"
+      "aps": {
+        "alert": {
+          "body": "11",
+          "subtitle": "",
+          "title": "Anon user pn1"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
       },
-      "carousel": [],
       "customPayload": {},
-      "deeplink": "",
-      "expiry": 1729143120,
-      "image": "",
-      "message": "bye",
-      "pnMeta": {
-        "guid": "3f802a9f-7b6d-48a3-bd63-ec7725ef26d6"
+      "payload": {
+        "actionButton": [],
+        "app_inbox_category": "anon",
+        "app_inbox_ttl": "2024-12-12T10:10:13",
+        "attrParams": {
+          "__sta": "%7CUHIV",
+          "__stm_id": 2143,
+          "__stm_medium": "apn",
+          "__stm_source": "smartech"
+        },
+        "carousel": [],
+        "deeplink": "",
+        "mediaurl": "",
+        "pnMeta": {
+          "guid": "865C7EBD-F3B1-474F-8AA1-E3146CCAC87F"
+        },
+        "publishedDate": "2024-11-11T10:10:30",
+        "status": "sent",
+        "timestamp": "1709806244582",
+       "trid": "140578-1828-0-0-240307154033-AR",
+        "type": "Simple"
       },
-      "publishedDate": "2024-11-11T10:10:30",
-      "smtCustomPayload": {},
       "smtSrc": "Smartech",
-      "sound": true,
-      "status": "sent",
-      "subtitle": "",
-      "timestamp": "1709806244582",
-      "title": "testsplit2",
-      "trid": "140578-1828-0-0-240307154033-AR",
-      "type": "Simple"
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
     },
     {
-      "actionButton": [],
-      "app_inbox_category": "TestJR",
-      "app_inbox_ttl": "2024-12-12T10:10:13",
-      "attrParams": {
-        "__sta": "%7CITFBI",
-        "__stm_id": 19071,
-        "__stm_medium": "apn",
-        "__stm_source": "smartech"
+      "aps": {
+        "alert": {
+          "body": "Campaign",
+          "subtitle": "",
+          "title": "Anon user pn2"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
       },
-      "carousel": [],
       "customPayload": {},
-      "deeplink": "",
-      "expiry": 1733995902,
-      "image": "",
-      "message": "test",
-      "pnMeta": {
-        "guid": "3f802a9f-7b6d-48a3-bd63-ec7725ef26d6"
+      "payload": {
+        "actionButton": [],
+        "app_inbox_category": "anon",
+        "app_inbox_ttl": "2024-12-12T10:10:13",
+        "attrParams": {
+          "__sta": "%7CUHIV",
+          "__stm_id": 2143,
+          "__stm_medium": "apn",
+          "__stm_source": "smartech"
+        },
+        "carousel": [],
+        "deeplink": "",
+        "mediaurl": "",
+        "pnMeta": {
+          "guid": "865C7EBD-F3B1-474F-8AA1-E3146CCAC87F"
+        },
+        "publishedDate": "2024-11-11T10:12:41",
+        "status": "sent",
+        "timestamp": "1709806379996",
+        "trid": "140578-1829-0-0-240307154244-AR",
+        "type": "Simple"
       },
-      "publishedDate": "2024-11-11T10:12:41",
-      "smtCustomPayload": {},
       "smtSrc": "Smartech",
-      "sound": true,
-      "status": "sent",
-      "subtitle": "",
-      "timestamp": "1709806379996",
-      "title": "Check manually Test APP Push",
-      "trid": "140578-1829-0-0-240307154244-AR",
-      "type": "Simple"
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
     }
   ],
   "message": "success",
