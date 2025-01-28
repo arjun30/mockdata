@@ -4,7 +4,7 @@
   "inAppRules": [
     {
       "id": "185",
-      "toDate": "2025-01-14T11:00:00",
+      "toDate": "2025-02-14T11:00:00",
       "fromDate": "2025-01-14T10:16:25",
       "modifiedDate": "2025-01-14T10:16:37",
       "frequencyType": "campaign",
