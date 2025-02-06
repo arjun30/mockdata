@@ -1305,6 +1305,22 @@
       "req_sesid": "https://sdk-eu.hansel.io/dashboard/visualizer/request_session",
       "socket": "wss://websocket-visualizer-eu.hansel.io"
     },
+    "userAttrConfig": {
+      "enabled": true,
+      "syncInterval": 30,
+      "attrIds": [
+        -2,
+        -1,
+        4,
+        21,
+        5,
+        8,
+        3,
+        6,
+        28,
+        11
+      ]
+    },
     "cid": "86211",
     "gwConfig": {
       "xiaomi": {
@@ -1316,6 +1332,7 @@
     "sConfig": {
       "elData": false,
       "eaData": true,
+      "p": "OEhyLtckqDU4UxLkRkAB5RGW7IgqDCGshX02rdmRQgWKOH5G2Gh8xX4EGl5jYLMf",
       "a": ""
     }
   }
