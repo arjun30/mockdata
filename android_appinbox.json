@@ -1,0 +1,61 @@
+{
+  "inbox_count": 2,
+  "inbox": [
+    {
+      "actionButton": [],
+      "app_inbox_category": "test1",
+      "app_inbox_ttl": "2025-04-04T10:10:13",
+      "attrParams": {
+        "__sta": "%7CQVQI",
+        "__stm_id": 1828,
+        "__stm_medium": "apn",
+        "__stm_source": "smartech"
+      },
+      "carousel": [],
+      "customPayload": {},
+      "deeplink": "",
+      "expiry": 1745489242,
+      "image": "",
+      "message": "inbox 6",
+      "publishedDate": "2024-03-07T10:10:30",
+      "smtCustomPayload": {},
+      "smtSrc": "Smartech",
+      "sound": true,
+      "status": "sent",
+      "subtitle": "",
+      "timestamp": "1745489242000",
+      "title": "KrTest - inbo x",
+      "trid": "140578-1828-0-0-240307154033-AR",
+      "type": "Simple"
+    },
+    {
+      "actionButton": [],
+      "app_inbox_category": "test1",
+      "app_inbox_ttl": "2024-04-04T10:10:13",
+      "attrParams": {
+        "__sta": "%7CBVQI",
+        "__stm_id": 1829,
+        "__stm_medium": "apn",
+        "__stm_source": "smartech"
+      },
+      "carousel": [],
+      "customPayload": {},
+      "deeplink": "",
+      "expiry": 1745489242,
+      "image": "",
+      "message": "inbox 7",
+      "publishedDate": "2025-03-07T10:12:41",
+      "smtCustomPayload": {},
+      "smtSrc": "Smartech",
+      "sound": true,
+      "status": "sent",
+      "subtitle": "",
+      "timestamp": "1745489242000",
+      "title": "KrTest - inbo 7",
+      "trid": "140578-1829-0-0-240307154244-AR",
+      "type": "Simple"
+    }
+  ],
+  "message": "success",
+  "code": 200
+}
