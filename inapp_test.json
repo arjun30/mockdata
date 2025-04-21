@@ -287,10 +287,10 @@
           "filterType": "all",
           "filters": [
            {
-              "key": "search_query",
+              "key": "button_title",
               "operator": "contains",
               "dataType": "string",
-              "value": "Android"
+              "value": "08dd7026-ae39-454f-8540-37bf97a63ed7"
             }
           ]
         },
