@@ -1,0 +1,1553 @@
+{
+  "InAppRuleList": [
+    {
+      "id": "509",
+      "toDate": "2025-04-29T07:45:24",
+      "fromDate": "2025-04-11T13:26:47",
+      "whomTo": {
+        "everyone": "new",
+        "eventList": 140,
+        "filter": [
+          ""
+        ],
+        "eventDelay": 0
+      },
+      "whereTo": "5",
+      "whenTo": {
+        "campaign": {
+          "days": "Monday,Wednesday,Friday",
+          "from": "00:00",
+          "to": "23:59"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=128866&id=509",
+      "contentType": 4,
+      "controlGroup": 0
+    },
+    {
+      "id": "508",
+      "toDate": "2025-04-29T07:45:24",
+      "fromDate": "2025-04-11T13:26:47",
+      "whomTo": {
+        "everyone": "new",
+        "eventList": 140,
+        "filter": [
+          ""
+        ],
+        "eventDelay": 0
+      },
+      "whereTo": "5",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Tuesday,Thursday,Saturday",
+          "from": "00:00",
+          "to": "23:59"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=128866&id=508",
+      "contentType": 4,
+      "controlGroup": 0
+    }
+  ],
+  "newInAppRules": [],
+  "inAppRules": [
+    {
+      "id": "513",
+      "toDate": "2025-04-29T16:55:00",
+      "fromDate": "2025-04-14T02:25:00",
+      "modifiedDate": "2025-04-14T02:07:04",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "2453"
+        ],
+        "eSegIds": [
+          "2083"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 2,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 2,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/513.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1744596391.jpeg",
+        "deeplink": "tgs://wallet",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "512",
+      "toDate": "2025-04-29T16:55:00",
+      "fromDate": "2025-04-12T02:00:00",
+      "modifiedDate": "2025-04-11T16:11:01",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "2428"
+        ],
+        "eSegIds": [
+          "2083"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 2,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 2,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/512.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1744387806.jpeg",
+        "deeplink": "tgs://wallet",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "511",
+      "toDate": "2027-12-30T07:45:00",
+      "fromDate": "2025-04-10T10:52:15",
+      "modifiedDate": "2025-04-10T10:52:17",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "listIds": [
+          "4478",
+          "3029"
+        ],
+        "segIds": [
+          "670",
+          "1801",
+          "1051"
+        ]
+      },
+      "whereTo": {
+        "position": "5",
+        "trigger": {
+          "eventId": 147,
+          "eventName": "search_keyword",
+          "delay": 0,
+          "filterType": "all",
+          "filters": [
+            {
+              "key": "keyword",
+              "operator": "contains",
+              "dataType": "string",
+              "value": "test game 7"
+            }
+          ]
+        },
+        "multiTrigger": [
+          {
+            "eventId": 147,
+            "eventName": "search_keyword",
+            "delay": 0,
+            "filterType": "all",
+            "filters": [
+              {
+                "key": "keyword",
+                "operator": "contains",
+                "dataType": "string",
+                "value": "test game 7"
+              }
+            ]
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "00:00",
+            "to": "23:59"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/511.html?inappVer=1",
+        "useFullscreen": 0,
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 4,
+      "controlGroup": 0
+    },
+    {
+      "id": "509",
+      "toDate": "2025-04-29T07:45:24",
+      "fromDate": "2025-04-11T13:26:47",
+      "modifiedDate": "2025-04-11T02:04:02",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "5",
+        "trigger": {
+          "eventId": 140,
+          "eventName": "click button",
+          "delay": 0,
+          "filterType": "all",
+          "filters": [
+           {
+              "key": "search_query",
+              "operator": "contains",
+              "dataType": "string",
+              "value": "Android"
+            }
+          ]
+        },
+        "multiTrigger": [
+          {
+            "eventId": 140,
+            "eventName": "click button",
+            "delay": 0,
+            "filterType": "all",
+            "filters": [
+              {
+                "key": "button_title",
+                "operator": "contains",
+                "dataType": "string",
+                "value": "08dd7026-ae39-454f-8540-37bf97a63ed7"
+              }
+            ]
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "1",
+          "3",
+          "5"
+        ],
+        "time": [
+          {
+            "from": "00:00",
+            "to": "23:59"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/509.html?inappVer=1",
+        "useFullscreen": 0,
+        "smtCustomPayload": {
+          "utm_source": "Netcore",
+          "utm_campaign": "GSO_TQ_402500CR022_Gamification thang 4 icon brand click",
+          "utm_medium": "In-app",
+          "utm_content": ""
+        }
+      },
+      "contentType": 4,
+      "controlGroup": 0
+    },
+    {
+      "id": "508",
+      "toDate": "2025-04-29T07:45:24",
+      "fromDate": "2025-04-11T13:26:47",
+      "modifiedDate": "2025-04-11T02:06:19",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "5",
+        "trigger": {
+          "eventId": 140,
+          "eventName": "click button",
+          "delay": 0,
+          "filterType": "all",
+          "filters": [
+           {
+              "key": "search_query",
+              "operator": "contains",
+              "dataType": "string",
+              "value": "Apple"
+            }
+          ]
+        },
+        "multiTrigger": [
+          {
+            "eventId": 140,
+            "eventName": "click button",
+            "delay": 0,
+            "filterType": "all",
+            "filters": [
+              {
+                "key": "button_title",
+                "operator": "contains",
+                "dataType": "string",
+                "value": "08dd7026-ae39-454f-8540-37bf97a63ed7"
+              }
+            ]
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "2",
+          "4",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "00:00",
+            "to": "23:59"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/508.html?inappVer=1",
+        "useFullscreen": 0,
+        "smtCustomPayload": {
+          "utm_source": "Netcore",
+          "utm_campaign": "GSO_TQ_402500CR022_Gamification thang 4 icon mon click",
+          "utm_medium": "In-app",
+          "utm_content": ""
+        }
+      },
+      "contentType": 4,
+      "controlGroup": 0
+    },
+    {
+      "id": "506",
+      "toDate": "2025-04-30T12:00:00",
+      "fromDate": "2025-04-10T07:20:00",
+      "modifiedDate": "2025-04-10T07:04:41",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "2460"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 2,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 2,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/506.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1723109781.png",
+        "deeplink": "tgs://wallet",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "505",
+      "toDate": "2025-04-28T12:00:00",
+      "fromDate": "2025-04-10T07:20:00",
+      "modifiedDate": "2025-04-10T07:03:15",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "2459"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 2,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 2,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/505.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1723087206.png",
+        "deeplink": "tgs://wallet",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "504",
+      "toDate": "2025-04-28T12:00:00",
+      "fromDate": "2025-04-10T07:20:00",
+      "modifiedDate": "2025-04-10T07:01:40",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "2458"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 2,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 2,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/504.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1723109672.png",
+        "deeplink": "tgs://wallet",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "501",
+      "toDate": "2025-04-29T16:55:00",
+      "fromDate": "2025-04-10T07:10:00",
+      "modifiedDate": "2025-04-10T06:51:51",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "2406"
+        ],
+        "eSegIds": [
+          "2083"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 2,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 2,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/501.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1744267873.jpeg",
+        "deeplink": "tgs://wallet",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "498",
+      "toDate": "2025-04-29T16:55:00",
+      "fromDate": "2025-04-04T09:53:01",
+      "modifiedDate": "2025-04-04T09:53:04",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "624"
+        ],
+        "eSegIds": [
+          "2083"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/498.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1743760344.png",
+        "deeplink": "tgs://promotion?id=08dd71bb-6259-449e-8f87-f02612ebcdf1",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "497",
+      "toDate": "2025-04-20T16:35:00",
+      "fromDate": "2025-04-04T03:01:39",
+      "modifiedDate": "2025-04-04T03:01:41",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "2373"
+        ],
+        "eSegIds": [
+          "2083"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "06:00",
+            "to": "22:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/497.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1743735654.jpeg",
+        "deeplink": "tgs://wallet",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "496",
+      "toDate": "2025-04-29T07:55:00",
+      "fromDate": "2025-04-02T07:20:26",
+      "modifiedDate": "2025-04-02T07:20:28",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "1008"
+        ],
+        "eSegIds": [
+          "2083"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/496.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1743578375.png",
+        "deeplink": "tgs://promotion?id=08dd7109-29ca-4f27-8d30-a43c16ebb536",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "495",
+      "toDate": "2025-04-20T16:55:00",
+      "fromDate": "2025-04-01T10:20:38",
+      "modifiedDate": "2025-04-01T10:20:41",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "1944"
+        ],
+        "eSegIds": [
+          "2083"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/495.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1743502779.png",
+        "deeplink": "tgs://news?id=08dd7041-20c9-4a0b-885c-db2aa0bb141e",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "494",
+      "toDate": "2025-04-30T16:45:00",
+      "fromDate": "2025-03-27T03:16:55",
+      "modifiedDate": "2025-03-27T03:16:59",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "1008",
+          "2372"
+        ],
+        "eSegIds": [
+          "2083"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/494.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1743045382.jpeg",
+        "deeplink": "tgs://promotion?id=08dd62a2-e93d-45e2-86a0-8adeaf720c38",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "492",
+      "toDate": "2025-05-05T12:00:00",
+      "fromDate": "2025-03-26T06:45:00",
+      "modifiedDate": "2025-03-26T06:28:24",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "2403"
+        ],
+        "eSegIds": [
+          "2083"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 2,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 2,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/492.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1742970413.jpeg",
+        "deeplink": "tgs://wallet",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "491",
+      "toDate": "2025-04-28T12:00:00",
+      "fromDate": "2025-03-19T08:30:00",
+      "modifiedDate": "2025-03-19T08:12:54",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "2382"
+        ],
+        "eSegIds": [
+          "2083"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 2,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 2,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/491.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1742371943.png",
+        "deeplink": "tgs://wallet",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "488",
+      "toDate": "2025-04-29T16:45:00",
+      "fromDate": "2025-03-17T10:50:12",
+      "modifiedDate": "2025-03-17T10:50:14",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "1008"
+        ],
+        "eSegIds": [
+          "2083"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/488.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1742208593.png",
+        "deeplink": "tgs://promotion?id=08dd62da-d215-4604-8703-1c8e5d1dd00b",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "487",
+      "toDate": "2025-05-31T16:45:00",
+      "fromDate": "2025-03-17T10:48:14",
+      "modifiedDate": "2025-03-17T10:48:16",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "624"
+        ],
+        "eSegIds": [
+          "2083"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/487.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1742208457.png",
+        "deeplink": "tgs://news?id=08dd6222-4257-42ba-8afe-02cb642d5847",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "483",
+      "toDate": "2027-12-30T07:45:00",
+      "fromDate": "2025-04-10T10:39:24",
+      "modifiedDate": "2025-04-10T10:39:27",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "listIds": [
+          "4478",
+          "3029"
+        ],
+        "segIds": [
+          "670",
+          "1801",
+          "1051"
+        ]
+      },
+      "whereTo": {
+        "position": "5",
+        "trigger": {
+          "eventId": 147,
+          "eventName": "search_keyword",
+          "delay": 0,
+          "filterType": "all",
+          "filters": [
+            {
+              "key": "keyword",
+              "operator": "contains",
+              "dataType": "string",
+              "value": "test game 6"
+            }
+          ]
+        },
+        "multiTrigger": [
+          {
+            "eventId": 147,
+            "eventName": "search_keyword",
+            "delay": 0,
+            "filterType": "all",
+            "filters": [
+              {
+                "key": "keyword",
+                "operator": "contains",
+                "dataType": "string",
+                "value": "test game 6"
+              }
+            ]
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "00:00",
+            "to": "23:59"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/483.html?inappVer=1",
+        "useFullscreen": 0,
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 4,
+      "controlGroup": 0
+    },
+    {
+      "id": "478",
+      "toDate": "2025-04-15T16:55:00",
+      "fromDate": "2025-03-17T07:11:21",
+      "modifiedDate": "2025-03-17T07:11:25",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "2323",
+          "2371"
+        ],
+        "eSegIds": [
+          "2083"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "1",
+          "3",
+          "5"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/478.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1741597408.png",
+        "deeplink": "tgs://promotion?id=08dd4c13-ce1e-40d6-8b5d-2de7a17a9b7e",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "383",
+      "toDate": "2027-12-30T07:45:00",
+      "fromDate": "2024-11-18T02:17:41",
+      "modifiedDate": "2024-11-18T02:17:44",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "1910"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "delay": 2,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "delay": 2,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/383.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "deeplink",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1730269528.png",
+        "deeplink": "tgs://setting",
+        "smtCustomPayload": {
+
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    }
+  ],
+  "testInAppRules": [],
+  "smartechSettings": {
+    "sessionInterval": 30,
+    "batchInterval": 10,
+    "batchSize": 30,
+    "sdkActive": true,
+    "geofenceEnable": true,
+    "paEnabled": true,
+    "appInboxEnabled": true,
+    "paInterval": 60,
+    "eventSettings": {
+      "allevents": true,
+      "lifecycle": true,
+      "push": true,
+      "inapp": true,
+      "appinbox": true
+    },
+    "panelActive": true,
+    "eventLimit": 200,
+    "frequency": {
+      "enable": 0,
+      "month": 0,
+      "week": 0,
+      "day": 0
+    },
+    "baseUrls": {
+      "trackAppActUrl": "https://npn.netcoresmartech.com/",
+      "pushAmpUrl": "https://pa.netcoresmartech.com/",
+      "inAppUrl": "https://ninapp.netcoresmartech.com/",
+      "inboxUrl": "https://appinbox.netcoresmartech.com/",
+      "listSegUrl": "https://psegment.netcoresmartech.com/",
+      "geoFenceUrl": "https://geofence.netcoresmartech.com/",
+      "testDeviceUrl": "https://api.netcoresmartech.com/"
+    },
+    "hansel_api_endpoints": {
+      "get_data": "https://ujm.hansel.io/ujm/v1/data/\u003Cos\u003E/\u003Capp_id\u003E/\u003Crv\u003E/",
+      "add_events": "https://sdk.hansel.io/dashboard/event/v1/\u003Capp_id\u003E/",
+      "td_auth": "https://sdk.hansel.io/dashboard/td/verify",
+      "init_sdk": "https://sdk.hansel.io/dashboard/sdk/v1/init/\u003Cos\u003E/\u003Capp_id\u003E/",
+      "req_sesid": "https://sdk.hansel.io/dashboard/visualizer/request_session",
+      "socket": "wss://websocket-visualizer.hansel.io",
+      "populate_data": "https://sdk.hansel.io/dashboard/populatedata/v1/\u003Capp_id\u003E/"
+    },
+    "geoFenceSettings": {
+      "geoFenceEnabled": true,
+      "geoFenceDistance": 50,
+      "geoFenceLastModified": "2025-03-27T15:54:11"
+    },
+    "td": {
+      "guids": [],
+      "logEnabled": false,
+      "logLevel": 1
+    },
+    "userAttrConfig": {
+      "enabled": false,
+      "syncInterval": 30,
+      "attrIds": []
+    },
+    "cid": "128866",
+    "gwConfig": {
+      "xiaomi": {
+        "enable": false,
+        "enablePushFor": null,
+        "tokenSendInterval": 60
+      }
+    },
+    "sConfig": {
+
+    }
+  }
+}
