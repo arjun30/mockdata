@@ -113,9 +113,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1744596391.jpeg",
         "deeplink": "tgs://wallet",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -180,9 +178,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1744387806.jpeg",
         "deeplink": "tgs://wallet",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -260,9 +256,7 @@
       "whatTo": {
         "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/511.html?inappVer=1",
         "useFullscreen": 0,
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 4,
       "controlGroup": 0
@@ -283,10 +277,10 @@
         "trigger": {
           "eventId": 140,
           "eventName": "click button",
-          "delay": 0,
+          "delay": 2,
           "filterType": "all",
           "filters": [
-           {
+            {
               "key": "button_title",
               "operator": "contains",
               "dataType": "string",
@@ -298,7 +292,7 @@
           {
             "eventId": 140,
             "eventName": "click button",
-            "delay": 0,
+            "delay": 2,
             "filterType": "all",
             "filters": [
               {
@@ -353,10 +347,10 @@
         "trigger": {
           "eventId": 140,
           "eventName": "click button",
-          "delay": 0,
+          "delay": 2,
           "filterType": "all",
           "filters": [
-           {
+            {
               "key": "search_query",
               "operator": "contains",
               "dataType": "string",
@@ -368,7 +362,7 @@
           {
             "eventId": 140,
             "eventName": "click button",
-            "delay": 0,
+            "delay": 2,
             "filterType": "all",
             "filters": [
               {
@@ -465,9 +459,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1723109781.png",
         "deeplink": "tgs://wallet",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -529,9 +521,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1723087206.png",
         "deeplink": "tgs://wallet",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -593,9 +583,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1723109672.png",
         "deeplink": "tgs://wallet",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -660,9 +648,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1744267873.jpeg",
         "deeplink": "tgs://wallet",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -727,9 +713,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1743760344.png",
         "deeplink": "tgs://promotion?id=08dd71bb-6259-449e-8f87-f02612ebcdf1",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -794,9 +778,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1743735654.jpeg",
         "deeplink": "tgs://wallet",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -861,9 +843,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1743578375.png",
         "deeplink": "tgs://promotion?id=08dd7109-29ca-4f27-8d30-a43c16ebb536",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -928,9 +908,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1743502779.png",
         "deeplink": "tgs://news?id=08dd7041-20c9-4a0b-885c-db2aa0bb141e",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -996,9 +974,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1743045382.jpeg",
         "deeplink": "tgs://promotion?id=08dd62a2-e93d-45e2-86a0-8adeaf720c38",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -1063,9 +1039,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1742970413.jpeg",
         "deeplink": "tgs://wallet",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -1130,9 +1104,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1742371943.png",
         "deeplink": "tgs://wallet",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -1197,9 +1169,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1742208593.png",
         "deeplink": "tgs://promotion?id=08dd62da-d215-4604-8703-1c8e5d1dd00b",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -1264,9 +1234,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1742208457.png",
         "deeplink": "tgs://news?id=08dd6222-4257-42ba-8afe-02cb642d5847",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -1344,9 +1312,7 @@
       "whatTo": {
         "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/483.html?inappVer=1",
         "useFullscreen": 0,
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 4,
       "controlGroup": 0
@@ -1408,9 +1374,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1741597408.png",
         "deeplink": "tgs://promotion?id=08dd4c13-ce1e-40d6-8b5d-2de7a17a9b7e",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -1472,9 +1436,7 @@
         "deeplinkType": "deeplink",
         "nativeImageUrl": "https://cdnt.netcoresmartech.com/128866/1730269528.png",
         "deeplink": "tgs://setting",
-        "smtCustomPayload": {
-
-        }
+        "smtCustomPayload": {}
       },
       "contentType": 1,
       "controlGroup": 0
@@ -1515,13 +1477,13 @@
       "testDeviceUrl": "https://api.netcoresmartech.com/"
     },
     "hansel_api_endpoints": {
-      "get_data": "https://ujm.hansel.io/ujm/v1/data/\u003Cos\u003E/\u003Capp_id\u003E/\u003Crv\u003E/",
-      "add_events": "https://sdk.hansel.io/dashboard/event/v1/\u003Capp_id\u003E/",
+      "get_data": "https://ujm.hansel.io/ujm/v1/data/<os>/<app_id>/<rv>/",
+      "add_events": "https://sdk.hansel.io/dashboard/event/v1/<app_id>/",
       "td_auth": "https://sdk.hansel.io/dashboard/td/verify",
-      "init_sdk": "https://sdk.hansel.io/dashboard/sdk/v1/init/\u003Cos\u003E/\u003Capp_id\u003E/",
+      "init_sdk": "https://sdk.hansel.io/dashboard/sdk/v1/init/<os>/<app_id>/",
       "req_sesid": "https://sdk.hansel.io/dashboard/visualizer/request_session",
       "socket": "wss://websocket-visualizer.hansel.io",
-      "populate_data": "https://sdk.hansel.io/dashboard/populatedata/v1/\u003Capp_id\u003E/"
+      "populate_data": "https://sdk.hansel.io/dashboard/populatedata/v1/<app_id>/"
     },
     "geoFenceSettings": {
       "geoFenceEnabled": true,
@@ -1546,8 +1508,6 @@
         "tokenSendInterval": 60
       }
     },
-    "sConfig": {
-
-    }
+    "sConfig": {}
   }
 }
