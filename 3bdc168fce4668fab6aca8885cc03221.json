@@ -169,7 +169,7 @@
       "pushAmpUrl": "https://pa.netcoresmartech.com/",
       "inAppUrl": "https://ninapp.netcoresmartech.com/",
       "inboxUrl": "https://appinbox.netcoresmartech.com/",
-      "listSegUrl": "https://psegment-us.netcoresmartech.com/",
+      "listSegUrl": "https://psegment-us.netcoresmartech.com/pp/",
       "testDeviceUrl": "https://api.netcoresmartech.com/",
       "geoFenceUrl": "https://geofence.netcoresmartech.com/"
     },
