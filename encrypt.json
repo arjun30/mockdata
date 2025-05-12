@@ -1142,7 +1142,7 @@
       "pushAmpUrl": "https://npa.netcoresmartech.com/",
       "inAppUrl": "https://pnstage.netcore.co.in/dev0/",
       "inboxUrl": "https://appinbox.netcoresmartech.com/",
-      "listSegUrl": "https://psegment.netcoresmartech.com/",
+      "listSegUrl": "https://gocrov2-pod2.netcorein.com/",
       "testDeviceUrl": "http://pnstage.netcore.co.in/dev0/"
     },
     "hansel_api_endpoints": [],
