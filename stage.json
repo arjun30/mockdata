@@ -1,0 +1,113 @@
+{
+  "InAppRuleList": [],
+  "testInAppRules": [
+    {
+      "id": "-1",
+      "guids": null,
+      "toDate": "2030-05-12T18:30:00",
+      "fromDate": "2025-05-13T12:22:25",
+      "modifiedDate": "2025-05-13T12:22:25",
+      "frequencyType": "",
+      "frequency": 0,
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "00:00",
+            "to": "23:45"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/assets/in_app_content/inapp_test.html",
+        "useFullscreen": 0
+      },
+      "contentType": 2
+    }
+  ],
+  "smartechSettings": {
+    "paEnabled": true,
+    "appInboxEnabled": true,
+    "paInterval": 60,
+    "sdkActive": true,
+    "sessionInterval": 30,
+    "batchInterval": 10,
+    "batchSize": 30,
+    "td": {
+      "guids": [],
+      "logEnabled": false,
+      "logLevel": 1
+    },
+    "eventSettings": {
+      "allevents": true,
+      "lifecycle": true,
+      "push": true,
+      "inapp": true,
+      "appinbox": true
+    },
+    "panelActive": true,
+    "eventLimit": 200,
+    "frequency": {
+      "enable": 0,
+      "month": 0,
+      "week": 0,
+      "day": 0
+    },
+    "baseUrls": {
+      "trackAppActUrl": "https://events-stg1.netcoresmartech.com/",
+      "pushAmpUrl": "",
+      "inAppUrl": "https://pnstage.netcore.co.in/dev0",
+      "inboxUrl": "https://appinboxstg1.netcoresmartech.com/",
+      "listSegUrl": "https://psegment-us.netcoresmartech.com/",
+      "testDeviceUrl": ""
+    },
+    "hansel_api_endpoints": [],
+    "userAttrConfig": {
+      "enabled": true,
+      "syncInterval": 30,
+      "attrIds": [1,2,3]
+    },
+    "cid": 86441,
+    "gwConfig": {
+      "xiaomi": {
+        "enable": false,
+        "enablePushFor": null,
+        "tokenSendInterval": 60
+      }
+    },
+    "sConfig": {
+      "etData": true,
+      "p": "mYH3zVVcrZSipa27WUzBp6oZf8RK1HynGgqfcmsDlkWKvYRrSr2ixrhNz9xBQ6Yw",
+      "a": "r4AZbhNHdBomvwE3sstxWCUbAU2Iol5PpGPAXDibeGyKdcOFEicAU7Mu1Pdqajgz"
+    }
+  }
+}
