@@ -87,7 +87,7 @@
       "pushAmpUrl": "",
       "inAppUrl": "https://pnstage.netcore.co.in/dev0",
       "inboxUrl": "https://appinboxstg1.netcoresmartech.com/",
-      "listSegUrl": "https://psegment-us.netcoresmartech.com/",
+      "listSegUrl": "https://gocrov2-cassandraservice-stg1.netcoresmartech.com",
       "testDeviceUrl": ""
     },
     "hansel_api_endpoints": [],
