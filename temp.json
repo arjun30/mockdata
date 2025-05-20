@@ -1,989 +1,120 @@
 {
-  "InAppRuleList": [],
+  "InAppRuleList": [
+    {
+      "id": "289",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-05-17T07:56:59",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 209,
+        "eventDelay": 0
+      },
+      "whereTo": "4",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "21:00"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=82491&id=289",
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "288",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-05-19T07:25:47",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 154,
+        "eventDelay": 0
+      },
+      "whereTo": "4",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "21:00"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=82491&id=288",
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "283",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-05-16T10:54:26",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 158,
+        "eventDelay": 0
+      },
+      "whereTo": "4",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "21:00"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=82491&id=283",
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "238",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-02-07T10:11:10",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 211,
+        "eventDelay": 0
+      },
+      "whereTo": "3",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "21:00"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=82491&id=238",
+      "contentType": 1,
+      "controlGroup": 0
+    }
+  ],
   "newInAppRules": [],
   "inAppRules": [
     {
-      "id": "185",
-      "toDate": "2025-02-14T11:00:00",
-      "fromDate": "2025-01-14T10:16:25",
-      "modifiedDate": "2025-01-14T10:16:37",
-      "frequencyType": "campaign",
-      "frequency": "1",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all",
-        "segIds": [
-          "95",
-          "27"
-        ]
-      },
-      "whereTo": {
-        "position": "1",
-        "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
-          "delay": 2,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 21,
-            "eventName": "App Launch",
-            "delay": 2,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "00:00",
-            "to": "23:00"
-          }
-        ]
-      },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/183477/in-app-content/185.html?inappVer=1",
-        "useFullscreen": 0,
-        "smtCustomPayload": {
-          "utm_source": "Netcore",
-          "utm_campaign": "Test Shop Dee Mee Kuen2",
-          "utm_medium": "In-app",
-          "utm_content": ""
-        }
-      },
-      "contentType": 2,
-      "controlGroup": 0
-    },
-    {
-      "id": "183",
-      "toDate": "2025-02-28T16:00:00",
-      "fromDate": "2025-01-16T04:00:00",
-      "modifiedDate": "2025-01-14T10:31:37",
-      "frequencyType": "campaign",
-      "frequency": "1",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all",
-        "segIds": [
-          "26"
-        ]
-      },
-      "whereTo": {
-        "position": "1",
-        "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
-          "delay": 2,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 21,
-            "eventName": "App Launch",
-            "delay": 2,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "00:00",
-            "to": "23:00"
-          }
-        ]
-      },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/183477/in-app-content/183.html?inappVer=1",
-        "useFullscreen": 0,
-        "smtCustomPayload": {
-          "utm_source": "Netcore",
-          "utm_campaign": "16012025-BRD-ShopDeeMeeKuen-TH-InAppSlide-11am",
-          "utm_medium": "In-app",
-          "utm_content": ""
-        }
-      },
-      "contentType": 2,
-      "controlGroup": 0
-    },
-    {
-      "id": "66",
+      "id": "289",
       "toDate": "2027-12-30T07:45:24",
-      "fromDate": "2024-10-01T09:14:42",
-      "modifiedDate": "2024-10-01T09:22:32",
-      "frequencyType": "campaign",
-      "frequency": "1",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all",
-        "segIds": [
-          "166"
-        ]
-      },
-      "whereTo": {
-        "position": "4",
-        "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
-          "delay": 2,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 21,
-            "eventName": "App Launch",
-            "delay": 2,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "09:00",
-            "to": "21:00"
-          }
-        ]
-      },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/183477/in-app-content/66.html?inappVer=1",
-        "isNative": true,
-        "useFullscreen": 0,
-        "deeplinkType": "url",
-        "nativeImageUrl": "https://cdnt.netcoresmartech.com/183477/1727757670.jpeg",
-        "deeplink": "https://pomelo.app.link/4dFCmuK0y5",
-        "smtCustomPayload": {}
-      },
-      "contentType": 1,
-      "controlGroup": 0
-    },
-    {
-      "id": "65",
-      "toDate": "2027-12-30T07:45:24",
-      "fromDate": "2024-10-01T09:13:17",
-      "modifiedDate": "2024-10-01T09:13:56",
-      "frequencyType": "campaign",
-      "frequency": "1",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all",
-        "segIds": [
-          "165"
-        ]
-      },
-      "whereTo": {
-        "position": "4",
-        "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
-          "delay": 2,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 21,
-            "eventName": "App Launch",
-            "delay": 2,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "09:00",
-            "to": "23:00"
-          }
-        ]
-      },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/183477/in-app-content/65.html?inappVer=1",
-        "isNative": true,
-        "useFullscreen": 0,
-        "deeplinkType": "url",
-        "nativeImageUrl": "https://cdnt.netcoresmartech.com/183477/1727756550.jpeg",
-        "deeplink": "https://pomelo.app.link/4dFCmuK0y5",
-        "smtCustomPayload": {}
-      },
-      "contentType": 1,
-      "controlGroup": 0
-    },
-    {
-      "id": "61",
-      "toDate": "2027-09-30T16:00:00",
-      "fromDate": "2024-09-30T08:01:18",
-      "modifiedDate": "2024-09-30T08:01:24",
-      "frequencyType": "session",
-      "frequency": "1",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all",
-        "segIds": [
-          "156",
-          "155",
-          "95"
-        ]
-      },
-      "whereTo": {
-        "position": "4",
-        "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
-          "delay": 3,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 21,
-            "eventName": "App Launch",
-            "delay": 3,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "00:00",
-            "to": "23:00"
-          }
-        ]
-      },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/183477/in-app-content/61.html?inappVer=1",
-        "isNative": true,
-        "useFullscreen": 0,
-        "deeplinkType": "url",
-        "nativeImageUrl": "https://cdnt.netcoresmartech.com/183477/1725516912.jpeg",
-        "deeplink": "https://pomelo.app.link/4dFCmuK0y5",
-        "smtCustomPayload": {}
-      },
-      "contentType": 1,
-      "controlGroup": 0
-    },
-    {
-      "id": "55",
-      "toDate": "2027-12-30T07:45:00",
-      "fromDate": "2024-09-25T05:37:15",
-      "modifiedDate": "2024-09-25T05:37:19",
-      "frequencyType": "campaign",
-      "frequency": "1",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all",
-        "segIds": [
-          "95"
-        ]
-      },
-      "whereTo": {
-        "position": "4",
-        "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
-          "delay": 3,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 21,
-            "eventName": "App Launch",
-            "delay": 3,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "00:00",
-            "to": "23:00"
-          }
-        ]
-      },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/183477/in-app-content/55.html?inappVer=1",
-        "isNative": true,
-        "useFullscreen": 0,
-        "deeplinkType": "url",
-        "nativeImageUrl": "https://cdnt.netcoresmartech.com/183477/1725516912.jpeg",
-        "deeplink": "https://pomelo.app.link/4dFCmuK0y5",
-        "smtCustomPayload": {}
-      },
-      "contentType": 1,
-      "controlGroup": 0
-    },
-    {
-      "id": "50",
-      "toDate": "2027-12-30T07:45:24",
-      "fromDate": "2024-09-20T11:00:00",
-      "modifiedDate": "2024-09-20T07:43:43",
-      "frequencyType": "campaign",
-      "frequency": "1",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all",
-        "events": {
-          "targetRule": "all",
-          "rules": [
-            {
-              "eventId": 312,
-              "eventName": "product_review_reminder",
-              "performed": "yes",
-              "waitUntil": null,
-              "filterType": "all",
-              "filters": []
-            }
-          ]
-        },
-        "segIds": [
-          "138"
-        ]
-      },
-      "whereTo": {
-        "position": "4",
-        "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
-          "delay": 3,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 21,
-            "eventName": "App Launch",
-            "delay": 3,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "00:00",
-            "to": "23:00"
-          }
-        ]
-      },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/183477/in-app-content/50.html?inappVer=1",
-        "isNative": true,
-        "useFullscreen": 0,
-        "deeplinkType": "url",
-        "nativeImageUrl": "https://cdnt.netcoresmartech.com/183477/1726818151.jpeg",
-        "deeplink": "https://pomelo.app.link/BJR4VUr4JMb",
-        "smtCustomPayload": {}
-      },
-      "contentType": 1,
-      "controlGroup": 0
-    },
-    {
-      "id": "49",
-      "toDate": "2027-12-30T07:45:00",
-      "fromDate": "2024-09-20T06:00:00",
-      "modifiedDate": "2024-09-20T05:05:13",
-      "frequencyType": "campaign",
-      "frequency": "1",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all",
-        "events": {
-          "targetRule": "all",
-          "rules": [
-            {
-              "eventId": 237,
-              "eventName": "order completed",
-              "performed": "no",
-              "waitUntil": 7776000,
-              "filterType": "all",
-              "filters": []
-            }
-          ]
-        },
-        "segIds": [
-          "127",
-          "147"
-        ]
-      },
-      "whereTo": {
-        "position": "4",
-        "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
-          "delay": 3,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 21,
-            "eventName": "App Launch",
-            "delay": 3,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "00:00",
-            "to": "23:00"
-          }
-        ]
-      },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/183477/in-app-content/49.html?inappVer=1",
-        "isNative": true,
-        "useFullscreen": 0,
-        "deeplinkType": "url",
-        "nativeImageUrl": "https://cdnt.netcoresmartech.com/183477/1726808648.jpeg",
-        "deeplink": "https://pomelo.app.link/jx4zMuyk2Mb",
-        "smtCustomPayload": {}
-      },
-      "contentType": 1,
-      "controlGroup": 0
-    },
-    {
-      "id": "48",
-      "toDate": "2027-12-30T07:45:24",
-      "fromDate": "2024-09-20T06:00:00",
-      "modifiedDate": "2024-09-20T05:02:12",
-      "frequencyType": "campaign",
-      "frequency": "1",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all",
-        "events": {
-          "targetRule": "all",
-          "rules": [
-            {
-              "eventId": 237,
-              "eventName": "order completed",
-              "performed": "no",
-              "waitUntil": 7776000,
-              "filterType": "all",
-              "filters": []
-            }
-          ]
-        },
-        "segIds": [
-          "127",
-          "146"
-        ]
-      },
-      "whereTo": {
-        "position": "4",
-        "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
-          "delay": 3,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 21,
-            "eventName": "App Launch",
-            "delay": 3,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "00:00",
-            "to": "23:00"
-          }
-        ]
-      },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/183477/in-app-content/48.html?inappVer=1",
-        "isNative": true,
-        "useFullscreen": 0,
-        "deeplinkType": "url",
-        "nativeImageUrl": "https://cdnt.netcoresmartech.com/183477/1726808421.jpeg",
-        "deeplink": "https://pomelo.app.link/jx4zMuyk2Mb",
-        "smtCustomPayload": {}
-      },
-      "contentType": 1,
-      "controlGroup": 0
-    },
-    {
-      "id": "47",
-      "toDate": "2027-12-30T07:45:24",
-      "fromDate": "2024-09-20T11:00:00",
-      "modifiedDate": "2024-09-20T07:36:10",
-      "frequencyType": "campaign",
-      "frequency": "1",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all",
-        "events": {
-          "targetRule": "all",
-          "rules": [
-            {
-              "eventId": 312,
-              "eventName": "product_review_reminder",
-              "performed": "yes",
-              "waitUntil": null,
-              "filterType": "all",
-              "filters": []
-            }
-          ]
-        },
-        "segIds": [
-          "148"
-        ]
-      },
-      "whereTo": {
-        "position": "4",
-        "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
-          "delay": 3,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 21,
-            "eventName": "App Launch",
-            "delay": 3,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "00:00",
-            "to": "23:00"
-          }
-        ]
-      },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/183477/in-app-content/47.html?inappVer=1",
-        "isNative": true,
-        "useFullscreen": 0,
-        "deeplinkType": "url",
-        "nativeImageUrl": "https://cdnt.netcoresmartech.com/183477/1726817141.jpeg",
-        "deeplink": "https://pomelo.app.link/BJR4VUr4JMb",
-        "smtCustomPayload": {}
-      },
-      "contentType": 1,
-      "controlGroup": 0
-    },
-    {
-      "id": "46",
-      "toDate": "2027-12-30T07:45:24",
-      "fromDate": "2024-09-19T11:00:00",
-      "modifiedDate": "2024-09-19T10:26:41",
-      "frequencyType": "campaign",
-      "frequency": "1",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all",
-        "events": {
-          "targetRule": "all",
-          "rules": [
-            {
-              "eventId": 237,
-              "eventName": "order completed",
-              "performed": "no",
-              "waitUntil": 2592000,
-              "filterType": "all",
-              "filters": []
-            }
-          ]
-        },
-        "segIds": [
-          "127",
-          "147"
-        ]
-      },
-      "whereTo": {
-        "position": "4",
-        "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
-          "delay": 3,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 21,
-            "eventName": "App Launch",
-            "delay": 3,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "00:00",
-            "to": "23:00"
-          }
-        ]
-      },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/183477/in-app-content/46.html?inappVer=1",
-        "isNative": true,
-        "useFullscreen": 0,
-        "deeplinkType": "url",
-        "nativeImageUrl": "https://cdnt.netcoresmartech.com/183477/1726741550.jpeg",
-        "deeplink": "https://pomelo.app.link/lX5pGVMO0Mb",
-        "smtCustomPayload": {}
-      },
-      "contentType": 1,
-      "controlGroup": 0
-    },
-    {
-      "id": "45",
-      "toDate": "2027-12-30T07:45:24",
-      "fromDate": "2024-09-19T11:00:00",
-      "modifiedDate": "2024-09-19T10:22:34",
-      "frequencyType": "campaign",
-      "frequency": "1",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all",
-        "events": {
-          "targetRule": "all",
-          "rules": [
-            {
-              "eventId": 237,
-              "eventName": "order completed",
-              "performed": "no",
-              "waitUntil": 2592000,
-              "filterType": "all",
-              "filters": []
-            }
-          ]
-        },
-        "segIds": [
-          "127",
-          "146"
-        ]
-      },
-      "whereTo": {
-        "position": "4",
-        "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
-          "delay": 3,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 21,
-            "eventName": "App Launch",
-            "delay": 3,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "00:00",
-            "to": "23:00"
-          }
-        ]
-      },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/183477/in-app-content/45.html?inappVer=1",
-        "isNative": true,
-        "useFullscreen": 0,
-        "deeplinkType": "url",
-        "nativeImageUrl": "https://cdnt.netcoresmartech.com/183477/1726728640.jpeg",
-        "deeplink": "https://pomelo.app.link/lX5pGVMO0Mb",
-        "smtCustomPayload": {}
-      },
-      "contentType": 1,
-      "controlGroup": 0
-    },
-    {
-      "id": "44",
-      "toDate": "2027-12-30T07:45:24",
-      "fromDate": "2024-09-12T07:16:34",
-      "modifiedDate": "2024-09-12T07:16:37",
-      "frequencyType": "campaign",
-      "frequency": "1",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all",
-        "segIds": [
-          "136"
-        ]
-      },
-      "whereTo": {
-        "position": "4",
-        "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
-          "delay": 3,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 21,
-            "eventName": "App Launch",
-            "delay": 3,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "00:00",
-            "to": "23:00"
-          }
-        ]
-      },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/183477/in-app-content/44.html?inappVer=1",
-        "isNative": true,
-        "useFullscreen": 0,
-        "deeplinkType": "url",
-        "nativeImageUrl": "https://cdnt.netcoresmartech.com/183477/1726021075.jpeg",
-        "deeplink": "https://pomelo.app.link/4dFCmuK0y5",
-        "smtCustomPayload": {}
-      },
-      "contentType": 1,
-      "controlGroup": 0
-    },
-    {
-      "id": "40",
-      "toDate": "2027-12-30T07:45:24",
-      "fromDate": "2024-09-12T07:15:50",
-      "modifiedDate": "2024-09-12T07:16:00",
-      "frequencyType": "campaign",
-      "frequency": "1",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all",
-        "segIds": [
-          "135"
-        ]
-      },
-      "whereTo": {
-        "position": "4",
-        "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
-          "delay": 3,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 21,
-            "eventName": "App Launch",
-            "delay": 3,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "00:00",
-            "to": "23:00"
-          }
-        ]
-      },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/183477/in-app-content/40.html?inappVer=1",
-        "isNative": true,
-        "useFullscreen": 0,
-        "deeplinkType": "url",
-        "nativeImageUrl": "https://cdnt.netcoresmartech.com/183477/1725516912.jpeg",
-        "deeplink": "https://pomelo.app.link/4dFCmuK0y5",
-        "smtCustomPayload": {}
-      },
-      "contentType": 1,
-      "controlGroup": 0
-    },
-    {
-      "id": "36",
-      "toDate": "2027-12-30T07:45:24",
-      "fromDate": "2024-09-06T13:54:25",
-      "modifiedDate": "2024-09-06T13:54:31",
+      "fromDate": "2025-05-17T07:56:59",
+      "modifiedDate": "2025-05-17T07:57:01",
       "frequencyType": "",
       "frequency": "0",
       "whomTo": {
         "visitor": "all",
-        "visitorType": "all",
-        "listIds": [
-          "58"
-        ]
+        "visitorType": "all"
       },
       "whereTo": {
-        "position": "2",
+        "position": "4",
         "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
+          "eventId": 209,
+          "eventName": "test23",
           "delay": 0,
           "filterType": "all",
           "filters": []
         },
         "multiTrigger": [
           {
-            "eventId": 21,
-            "eventName": "App Launch",
+            "eventId": 209,
+            "eventName": "test23",
             "delay": 0,
             "filterType": "all",
             "filters": []
@@ -1008,24 +139,256 @@
         ]
       },
       "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/183477/in-app-content/36.html?inappVer=1",
-        "useFullscreen": 0,
-        "smtCustomPayload": {}
+        "url": "https://cdndc.netcoresmartech.com/pod/82491/in-app-content/289.html?inappVer=1",
+        "useFullscreen": 1,
+        "smtCustomPayload": {},
+        "attrIds": []
       },
-      "contentType": 2,
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "288",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-05-19T07:25:47",
+      "modifiedDate": "2025-05-19T07:25:50",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 154,
+          "eventName": "product_view",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 154,
+            "eventName": "product_view",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/pod/82491/in-app-content/288.html?inappVer=1",
+        "useFullscreen": 1,
+        "smtCustomPayload": {},
+        "attrIds": [
+          5
+        ]
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "283",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-05-16T10:54:26",
+      "modifiedDate": "2025-05-16T10:54:43",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 158,
+          "eventName": "add_to_wishlist",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 158,
+            "eventName": "add_to_wishlist",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/pod/82491/in-app-content/283.html?inappVer=1",
+        "useFullscreen": 1,
+        "smtCustomPayload": {},
+        "attrIds": []
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "238",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-02-07T10:11:10",
+      "modifiedDate": "2025-02-07T10:11:16",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "3",
+        "trigger": {
+          "eventId": 211,
+          "eventName": "temp-2",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 211,
+            "eventName": "temp-2",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/pod/82491/in-app-content/templates/t-27.html?inappVer=1",
+        "useFullscreen": 1,
+        "smtCustomPayload": {},
+        "attrIds": []
+      },
+      "contentType": 1,
       "controlGroup": 0
     }
   ],
-  "testInAppRules": [],
+  "testInAppRules": [
+    {
+      "id": "-1",
+      "guids": null,
+      "toDate": "2030-05-19T18:30:00",
+      "fromDate": "2025-05-20T10:48:08",
+      "modifiedDate": "2025-05-20T10:48:08",
+      "frequencyType": "",
+      "frequency": 0,
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "00:00",
+            "to": "23:45"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/assets/in_app_content/inapp_test.html",
+        "useFullscreen": 0
+      },
+      "contentType": 2
+    }
+  ],
   "smartechSettings": {
+    "paEnabled": true,
+    "appInboxEnabled": true,
+    "paInterval": 16,
+    "sdkActive": true,
     "sessionInterval": 30,
     "batchInterval": 10,
     "batchSize": 30,
-    "sdkActive": true,
-    "geofenceEnable": true,
-    "paEnabled": 1,
-    "appInboxEnabled": true,
-    "paInterval": 15,
+    "td": {
+      "guids": [
+        "2409AA0D-CFD9-4A95-8B2F-13A4D3E434EF",
+        "9C6A73E8-FB6B-47B9-97A9-001D92DCA4B7",
+        "6685A3E7-2229-4A24-A6AC-8913C44B8D38"
+      ],
+      "logEnabled": false,
+      "logLevel": 1
+    },
     "eventSettings": {
       "allevents": true,
       "lifecycle": true,
@@ -1035,20 +398,13 @@
     },
     "panelActive": true,
     "eventLimit": 200,
-    "frequency": {
-      "enable": 0,
-      "month": 0,
-      "week": 0,
-      "day": 0
-    },
     "baseUrls": {
-      "trackAppActUrl": "https://npn.netcoresmartech.com/",
-      "pushAmpUrl": "https://pa.netcoresmartech.com/",
-      "inAppUrl": "https://ninapp.netcoresmartech.com/",
-      "inboxUrl": "https://appinbox.netcoresmartech.com/",
-      "listSegUrl": "https://psegment.netcoresmartech.com/",
-      "geoFenceUrl": "https://geofence.netcoresmartech.com/",
-      "testDeviceUrl": "https://api.netcoresmartech.com/"
+      "trackAppActUrl": "https://lambda-dev0.ap-south-1.sit0.netcoresmartech.com/",
+      "pushAmpUrl": "https://pushamp.dev0.netcoresmartech.com/",
+      "inAppUrl": "https://pnstage.netcore.co.in/dev0/",
+      "inboxUrl": "https://xwcz1myvi4.execute-api.ap-south-1.amazonaws.com/v1/dev0/",
+      "listSegUrl": "https://gocrov2-pod2.netcorein.com/",
+      "testDeviceUrl": "https://pnstage.netcore.co.in/dev0/"
     },
     "hansel_api_endpoints": {
       "get_data": "https://ujm.hansel.io/ujm/v1/data/<os>/<app_id>/<rv>/",
@@ -1059,23 +415,25 @@
       "socket": "wss://websocket-visualizer.hansel.io",
       "populate_data": "https://sdk.hansel.io/dashboard/populatedata/v1/<app_id>/"
     },
-    "geoFenceSettings": {
-      "geoFenceEnabled": true,
-      "geoFenceDistance": 50,
-      "geoFenceLastModified": "2024-08-02T12:52:24"
+    "userAttrConfig": {
+      "enabled": true,
+      "syncInterval": 30,
+      "attrIds": [
+        5
+      ]
     },
-    "td": {
-      "guids": [],
-      "logEnabled": false,
-      "logLevel": 1
-    },
-    "cid": "183477",
+    "cid": 82491,
     "gwConfig": {
       "xiaomi": {
         "enable": false,
         "enablePushFor": null,
         "tokenSendInterval": 60
       }
+    },
+    "sConfig": {
+      "etData": true,
+      "p": "eFLWdHR86AZs9NVrJsOC2silVQRo2AOhgAeuh5CoFBQOoLg8e4Khw3DsTuQW5Edl",
+      "a": "TU8SgP6XO1p9eFazibS14k7YcbtxVkxPfFHvvOtkQTt4yDDRPwTTQ0S3cmA8H8YW"
     }
   }
 }
