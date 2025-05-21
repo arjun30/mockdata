@@ -1,0 +1,504 @@
+{
+  "InAppRuleList": [
+    {
+      "id": "289",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-05-17T07:56:59",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 209,
+        "eventDelay": 0
+      },
+      "whereTo": "4",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "21:00"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=82491&id=289",
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "288",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-05-19T07:25:47",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 154,
+        "eventDelay": 0
+      },
+      "whereTo": "4",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "21:00"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=82491&id=288",
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "283",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-05-16T10:54:26",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 158,
+        "eventDelay": 0
+      },
+      "whereTo": "4",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "21:00"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=82491&id=283",
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "238",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-02-07T10:11:10",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 211,
+        "eventDelay": 0
+      },
+      "whereTo": "3",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "21:00"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=82491&id=238",
+      "contentType": 1,
+      "controlGroup": 0
+    }
+  ],
+  "newInAppRules": [],
+  "inAppRules": [
+    {
+      "id": "295",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-05-21T07:18:03",
+      "modifiedDate": "2025-05-21T07:18:08",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "segIds": [
+          "42"
+        ]
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 158,
+          "eventName": "add_to_wishlist",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 158,
+            "eventName": "add_to_wishlist",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/pod/82491/in-app-content/295.html?inappVer=1",
+        "useFullscreen": 1,
+        "smtCustomPayload": {
+
+        },
+        "attrIds": []
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "289",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-05-17T07:56:59",
+      "modifiedDate": "2025-05-17T07:57:01",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 209,
+          "eventName": "test23",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 209,
+            "eventName": "test23",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/pod/82491/in-app-content/289.html?inappVer=1",
+        "useFullscreen": 1,
+        "smtCustomPayload": {
+
+        },
+        "attrIds": []
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "288",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-05-19T07:25:47",
+      "modifiedDate": "2025-05-19T07:25:50",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 154,
+          "eventName": "product_view",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 154,
+            "eventName": "product_view",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/pod/82491/in-app-content/288.html?inappVer=1",
+        "useFullscreen": 1,
+        "smtCustomPayload": {
+
+        },
+        "attrIds": [5]
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "283",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-05-16T10:54:26",
+      "modifiedDate": "2025-05-16T10:54:43",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 158,
+          "eventName": "add_to_wishlist",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 158,
+            "eventName": "add_to_wishlist",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/pod/82491/in-app-content/283.html?inappVer=1",
+        "useFullscreen": 1,
+        "smtCustomPayload": {
+
+        },
+        "attrIds": []
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "238",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-02-07T10:11:10",
+      "modifiedDate": "2025-02-07T10:11:16",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "3",
+        "trigger": {
+          "eventId": 211,
+          "eventName": "temp-2",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 211,
+            "eventName": "temp-2",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/pod/82491/in-app-content/templates/t-27.html?inappVer=1",
+        "useFullscreen": 1,
+        "smtCustomPayload": {
+
+        },
+        "attrIds": []
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    }
+  ],
+  "testInAppRules": [
+    {
+      "id": "-1",
+      "guids": null,
+      "toDate": "2030-05-20T18:30:00",
+      "fromDate": "2025-05-21T08:19:09",
+      "modifiedDate": "2025-05-21T08:19:09",
+      "frequencyType": "",
+      "frequency": 0,
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "00:00",
+            "to": "23:45"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/assets/in_app_content/inapp_test.html",
+        "useFullscreen": 0
+      },
+      "contentType": 2
+    }
+  ],
+  "smartechSettings": {
+    "paEnabled": true,
+    "appInboxEnabled": true,
+    "paInterval": 16,
+    "sdkActive": true,
+    "sessionInterval": 30,
+    "batchInterval": 10,
+    "batchSize": 30,
+    "td": {
+      "guids": [
+        "2409AA0D-CFD9-4A95-8B2F-13A4D3E434EF",
+        "9C6A73E8-FB6B-47B9-97A9-001D92DCA4B7",
+        "6685A3E7-2229-4A24-A6AC-8913C44B8D38"
+      ],
+      "logEnabled": false,
+      "logLevel": 1
+    },
+    "eventSettings": {
+      "allevents": true,
+      "lifecycle": true,
+      "push": true,
+      "inapp": true,
+      "appinbox": true
+    },
+    "panelActive": true,
+    "eventLimit": 200,
+    "baseUrls": {
+      "trackAppActUrl": "https://lambda-dev0.ap-south-1.sit0.netcoresmartech.com/",
+      "pushAmpUrl": "https://pushamp.dev0.netcoresmartech.com/",
+      "inAppUrl": "https://pnstage.netcore.co.in/dev0/",
+      "inboxUrl": "https://xwcz1myvi4.execute-api.ap-south-1.amazonaws.com/v1/dev0/",
+      "listSegUrl": "https://gocrov2-pod2.netcoresmartech.com:5272/",
+      "testDeviceUrl": "https://pnstage.netcore.co.in/dev0/"
+    },
+    "hansel_api_endpoints": {
+      "get_data": "https://ujm.hansel.io/ujm/v1/data/\u003Cos\u003E/\u003Capp_id\u003E/\u003Crv\u003E/",
+      "add_events": "https://sdk.hansel.io/dashboard/event/v1/\u003Capp_id\u003E/",
+      "td_auth": "https://sdk.hansel.io/dashboard/td/verify",
+      "init_sdk": "https://sdk.hansel.io/dashboard/sdk/v1/init/\u003Cos\u003E/\u003Capp_id\u003E/",
+      "req_sesid": "https://sdk.hansel.io/dashboard/visualizer/request_session",
+      "socket": "wss://websocket-visualizer.hansel.io",
+      "populate_data": "https://sdk.hansel.io/dashboard/populatedata/v1/\u003Capp_id\u003E/"
+    },
+    "userAttrConfig": {
+      "enabled": true,
+      "syncInterval": 30,
+      "attrIds": [5, -1]
+    },
+    "cid": 82491,
+    "gwConfig": {
+      "xiaomi": {
+        "enable": false,
+        "enablePushFor": null,
+        "tokenSendInterval": 60
+      }
+    },
+    "sConfig": {
+      "etData": true,
+      "p": "eFLWdHR86AZs9NVrJsOC2silVQRo2AOhgAeuh5CoFBQOoLg8e4Khw3DsTuQW5Edl",
+      "a": "TU8SgP6XO1p9eFazibS14k7YcbtxVkxPfFHvvOtkQTt4yDDRPwTTQ0S3cmA8H8YW"
+    }
+  }
+}
