@@ -426,7 +426,6 @@
       "syncInterval": 30,
       "attrIds": [5]
     },
-    "cid": "82491",
     "gwConfig": {
       "xiaomi": {
         "enable": false,
