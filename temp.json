@@ -141,7 +141,9 @@
       "whatTo": {
         "url": "https://cdndc.netcoresmartech.com/pod/82491/in-app-content/289.html?inappVer=1",
         "useFullscreen": 1,
-        "smtCustomPayload": {},
+        "smtCustomPayload": {
+
+        },
         "attrIds": []
       },
       "contentType": 1,
@@ -197,10 +199,10 @@
       "whatTo": {
         "url": "https://cdndc.netcoresmartech.com/pod/82491/in-app-content/288.html?inappVer=1",
         "useFullscreen": 1,
-        "smtCustomPayload": {},
-        "attrIds": [
-          5
-        ]
+        "smtCustomPayload": {
+
+        },
+        "attrIds": [5]
       },
       "contentType": 1,
       "controlGroup": 0
@@ -255,7 +257,9 @@
       "whatTo": {
         "url": "https://cdndc.netcoresmartech.com/pod/82491/in-app-content/283.html?inappVer=1",
         "useFullscreen": 1,
-        "smtCustomPayload": {},
+        "smtCustomPayload": {
+
+        },
         "attrIds": []
       },
       "contentType": 1,
@@ -311,7 +315,9 @@
       "whatTo": {
         "url": "https://cdndc.netcoresmartech.com/pod/82491/in-app-content/templates/t-27.html?inappVer=1",
         "useFullscreen": 1,
-        "smtCustomPayload": {},
+        "smtCustomPayload": {
+
+        },
         "attrIds": []
       },
       "contentType": 1,
@@ -323,8 +329,8 @@
       "id": "-1",
       "guids": null,
       "toDate": "2030-05-19T18:30:00",
-      "fromDate": "2025-05-20T10:48:08",
-      "modifiedDate": "2025-05-20T10:48:08",
+      "fromDate": "2025-05-20T09:56:38",
+      "modifiedDate": "2025-05-20T09:56:38",
       "frequencyType": "",
       "frequency": 0,
       "whomTo": {
@@ -403,24 +409,22 @@
       "pushAmpUrl": "https://pushamp.dev0.netcoresmartech.com/",
       "inAppUrl": "https://pnstage.netcore.co.in/dev0/",
       "inboxUrl": "https://xwcz1myvi4.execute-api.ap-south-1.amazonaws.com/v1/dev0/",
-      "listSegUrl": "https://gocrov2-pod2.netcorein.com/",
+      "listSegUrl": "https://gocrov2-pod2.netcoresmartech.com:5272/",
       "testDeviceUrl": "https://pnstage.netcore.co.in/dev0/"
     },
     "hansel_api_endpoints": {
-      "get_data": "https://ujm.hansel.io/ujm/v1/data/<os>/<app_id>/<rv>/",
-      "add_events": "https://sdk.hansel.io/dashboard/event/v1/<app_id>/",
+      "get_data": "https://ujm.hansel.io/ujm/v1/data/\u003Cos\u003E/\u003Capp_id\u003E/\u003Crv\u003E/",
+      "add_events": "https://sdk.hansel.io/dashboard/event/v1/\u003Capp_id\u003E/",
       "td_auth": "https://sdk.hansel.io/dashboard/td/verify",
-      "init_sdk": "https://sdk.hansel.io/dashboard/sdk/v1/init/<os>/<app_id>/",
+      "init_sdk": "https://sdk.hansel.io/dashboard/sdk/v1/init/\u003Cos\u003E/\u003Capp_id\u003E/",
       "req_sesid": "https://sdk.hansel.io/dashboard/visualizer/request_session",
       "socket": "wss://websocket-visualizer.hansel.io",
-      "populate_data": "https://sdk.hansel.io/dashboard/populatedata/v1/<app_id>/"
+      "populate_data": "https://sdk.hansel.io/dashboard/populatedata/v1/\u003Capp_id\u003E/"
     },
     "userAttrConfig": {
       "enabled": true,
       "syncInterval": 30,
-      "attrIds": [
-        5
-      ]
+      "attrIds": [5]
     },
     "cid": 82491,
     "gwConfig": {
@@ -431,9 +435,6 @@
       }
     },
     "sConfig": {
-      "etData": true,
-      "p": "eFLWdHR86AZs9NVrJsOC2silVQRo2AOhgAeuh5CoFBQOoLg8e4Khw3DsTuQW5Edl",
-      "a": "TU8SgP6XO1p9eFazibS14k7YcbtxVkxPfFHvvOtkQTt4yDDRPwTTQ0S3cmA8H8YW"
     }
   }
 }
