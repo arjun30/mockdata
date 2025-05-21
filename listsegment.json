@@ -470,7 +470,7 @@
       "pushAmpUrl": "https://pushamp.dev0.netcoresmartech.com/",
       "inAppUrl": "https://pnstage.netcore.co.in/dev0/",
       "inboxUrl": "https://xwcz1myvi4.execute-api.ap-south-1.amazonaws.com/v1/dev0/",
-      "listSegUrl": "https://gocrov2-pod2.netcoresmartech.com:5274/",
+      "listSegUrl": "https://gocrov2-pod2.netcoresmartech.com:5272/",
       "testDeviceUrl": "https://pnstage.netcore.co.in/dev0/"
     },
     "hansel_api_endpoints": {
