@@ -1,0 +1,846 @@
+{
+  "InAppRuleList": [
+    {
+      "id": "458",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-03-26T14:36:16",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 205,
+        "eventDelay": 0
+      },
+      "whereTo": "4",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "21:00"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=130365&id=458",
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "444",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-01-23T18:15:56",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 220,
+        "eventDelay": 0
+      },
+      "whereTo": "5",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "23:59"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=130365&id=444",
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "443",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-01-23T18:17:49",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 219,
+        "eventDelay": 0
+      },
+      "whereTo": "4",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "23:59"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=130365&id=443",
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "442",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-01-23T18:16:50",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 218,
+        "eventDelay": 0
+      },
+      "whereTo": "5",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "23:59"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=130365&id=442",
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "441",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-01-23T18:17:21",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 217,
+        "eventDelay": 0
+      },
+      "whereTo": "3",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "23:59"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=130365&id=441",
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "435",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-01-09T19:00:52",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 209,
+        "eventDelay": 0
+      },
+      "whereTo": "1",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "23:59"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=130365&id=435",
+      "contentType": 4,
+      "controlGroup": 0
+    },
+    {
+      "id": "430",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-01-09T17:44:31",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 204,
+        "eventDelay": 0
+      },
+      "whereTo": "1",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "23:59"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "clientid=130365&id=430",
+      "contentType": 2,
+      "controlGroup": 8
+    }
+  ],
+  "newInAppRules": [
+    {
+      "id": "433",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-01-09T18:14:35",
+      "whomTo": {
+        "everyone": "everyone",
+        "eventList": 205,
+        "eventDelay": 0
+      },
+      "whereTo": "3",
+      "whenTo": {
+        "campaign": {
+          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
+          "from": "09:00",
+          "to": "23:59"
+        },
+        "spentTime": "0"
+      },
+      "whatTo": "https://cdnt.netcoresmartech.com/smartechapp-sdk/inapp-message/all-in-one-inapp-message.html",
+      "contentType": 3,
+      "controlGroup": 0
+    }
+  ],
+  "inAppRules": [
+    {
+      "id": "458",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-03-26T14:36:16",
+      "modifiedDate": "2025-03-26T14:36:23",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 205,
+          "eventName": "product_purchase",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 205,
+            "eventName": "product_purchase",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/130365/in-app-content/458.html?inappVer=1",
+        "useFullscreen": 1,
+        "smtCustomPayload": {
+
+        },
+        "attrIds": [-2]
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "444",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-01-23T18:15:56",
+      "modifiedDate": "2025-01-23T18:16:01",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "5",
+        "trigger": {
+          "eventId": 220,
+          "eventName": "uce-4",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 220,
+            "eventName": "uce-4",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "23:59"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/130365/in-app-content/templates/t-9.html?inappVer=1",
+        "useFullscreen": 1,
+        "smtCustomPayload": {
+
+        },
+        "attrIds": []
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "443",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-01-23T18:17:49",
+      "modifiedDate": "2025-01-23T18:17:51",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 219,
+          "eventName": "uce-3",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 219,
+            "eventName": "uce-3",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "23:59"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/130365/in-app-content/templates/t-8.html?inappVer=1",
+        "useFullscreen": 1,
+        "smtCustomPayload": {
+
+        },
+        "attrIds": []
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "442",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-01-23T18:16:50",
+      "modifiedDate": "2025-01-23T18:16:52",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "5",
+        "trigger": {
+          "eventId": 218,
+          "eventName": "uce-2",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 218,
+            "eventName": "uce-2",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "23:59"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/130365/in-app-content/templates/t-7.html?inappVer=1",
+        "useFullscreen": 1,
+        "smtCustomPayload": {
+
+        },
+        "attrIds": []
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "441",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-01-23T18:17:21",
+      "modifiedDate": "2025-01-23T18:17:23",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "3",
+        "trigger": {
+          "eventId": 217,
+          "eventName": "uce-1",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 217,
+            "eventName": "uce-1",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "23:59"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/130365/in-app-content/templates/t-6.html?inappVer=1",
+        "useFullscreen": 1,
+        "smtCustomPayload": {
+
+        },
+        "attrIds": []
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "435",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-01-09T19:00:52",
+      "modifiedDate": "2025-01-09T19:00:55",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "1",
+        "trigger": {
+          "eventId": 209,
+          "eventName": "product_search",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 209,
+            "eventName": "product_search",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          },
+          {
+            "eventId": 207,
+            "eventName": "product_view",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          },
+          {
+            "eventId": 205,
+            "eventName": "product_purchase",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "23:59"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/130365/in-app-content/435.html?inappVer=1",
+        "useFullscreen": 0,
+        "smtCustomPayload": {
+
+        },
+        "attrIds": []
+      },
+      "contentType": 4,
+      "controlGroup": 0
+    },
+    {
+      "id": "433",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-01-09T18:14:35",
+      "modifiedDate": "2025-01-09T18:14:37",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "3",
+        "trigger": {
+          "eventId": 205,
+          "eventName": "product_purchase",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 205,
+            "eventName": "product_purchase",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "23:59"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdnt.netcoresmartech.com/smartechapp-sdk/inapp-message/all-in-one-inapp-message.html?inappVer=1",
+        "useFullscreen": 0,
+        "smtCustomPayload": {
+          "utm_source": "Netcore",
+          "utm_campaign": "Test UCE WO_F 03",
+          "utm_medium": "In-app",
+          "utm_content": "test"
+        },
+        "attrIds": []
+      },
+      "contentType": 3,
+      "controlGroup": 0
+    },
+    {
+      "id": "432",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-01-09T18:02:50",
+      "modifiedDate": "2025-01-09T18:06:59",
+      "frequencyType": "day",
+      "frequency": "4",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "events": {
+          "targetRule": "all",
+          "rules": [
+            {
+              "eventId": 209,
+              "eventName": "product_search",
+              "performed": "yes",
+              "waitUntil": null,
+              "filterType": "all",
+              "filters": []
+            }
+          ]
+        }
+      },
+      "whereTo": {
+        "position": "3",
+        "trigger": {
+          "eventId": 207,
+          "eventName": "product_view",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 207,
+            "eventName": "product_view",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "4"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "23:59"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/130365/in-app-content/432.html?inappVer=1",
+        "useFullscreen": 0,
+        "smtCustomPayload": {
+          "Test": "https://www.amazon.in/realme-Drifting-Qualcomm-Snapdragon-Camera/dp/B0BN3L3MFN/ref=sr_1_1?adgrpid=68381037982&dib=eyJ2IjoiMSJ9.A051XbPWNXy4XibsbP50XOM9EddqnXk7Txhb7sATif4Hjd3MZnBAXMDfJUX5ADgUtSlmPMwdRDeu6RAXRlp_0aXeRD66HQa0ANoa2UU_DvJalTfRNsLB_0vzjHic1ess5hRsDNcme-d9UWZXelqtmQvEa2Mys5ESIBm0miFoZ_FxMS1WHICaAKYcX4qHK-y5XjpLxowmOyYXbnhhusucq2wDYjANlrFpDfH1zN-uHUA.yRpJLSMVPsWzVWAdR2BPN-g3WiYrI2cn29OxngxQ5jY&dib_tag=se&ext_vrnc=hi&hvadid=714703053561&hvdev=c&hvlocphy=9062006&hvnetw=g&hvqmt=e&hvrand=1764167520532003537&hvtargid=kwd-1840149562001&hydadcr=24565_2401850&keywords=realme%2Bgt%2B3%2Bneo%2B3t&nsdOptOutParam=true&qid=1728390709&sr=8-1&th=1"
+        },
+        "attrIds": []
+      },
+      "contentType": 2,
+      "controlGroup": 0
+    },
+    {
+      "id": "430",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-01-09T17:44:31",
+      "modifiedDate": "2025-01-09T17:44:43",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "1",
+        "trigger": {
+          "eventId": 204,
+          "eventName": "add_to_wishlist",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 204,
+            "eventName": "add_to_wishlist",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "23:59"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/130365/in-app-content/430.html?inappVer=1",
+        "useFullscreen": 0,
+        "smtCustomPayload": {
+          "utm_source": "Netcore",
+          "utm_campaign": "UCE_WO_F_01",
+          "utm_medium": "In-app",
+          "utm_content": "test",
+          "test": "https://www.flipkart.com/motorola-g05-plum-red-64-gb/p/itm87af8109384d4?pid=MOBH5F3QKFHEGBFS&lid=LSTMOBH5F3QKFHEGBFSYF5LHW&param=0103&otracker=clp_bannerads_1_6.bannerAdCard.BANNERADS_a_mobile-phones-store_W3PP2RTCHMQ9"
+        },
+        "attrIds": []
+      },
+      "contentType": 2,
+      "controlGroup": 8
+    }
+  ],
+  "testInAppRules": [
+    {
+      "id": "-1",
+      "guids": [],
+      "toDate": "2030-05-22T18:30:00",
+      "fromDate": "2025-05-23T06:47:22",
+      "modifiedDate": "2025-05-23T06:47:22",
+      "frequencyType": "",
+      "frequency": 0,
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "00:00",
+            "to": "23:45"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/assets/in_app_content/inapp_test.html",
+        "useFullscreen": 0
+      },
+      "contentType": 2
+    }
+  ],
+  "smartechSettings": {
+    "paEnabled": 1,
+    "appInboxEnabled": false,
+    "paInterval": 20,
+    "sdkActive": true,
+    "sessionInterval": 30,
+    "batchInterval": 10,
+    "batchSize": 30,
+    "td": {
+      "guids": [
+        "E7C1A8EB-9D4F-4D75-887E-AE9409878733"
+      ],
+      "logEnabled": false,
+      "logLevel": 1
+    },
+    "eventSettings": {
+      "allevents": true,
+      "lifecycle": true,
+      "push": true,
+      "inapp": true,
+      "appinbox": true
+    },
+    "panelActive": true,
+    "eventLimit": 200,
+    "frequency": {
+      "enable": 0,
+      "month": 0,
+      "week": 0,
+      "day": 0
+    },
+    "baseUrls": {
+      "trackAppActUrl": "https://npn.netcoresmartech.com/",
+      "pushAmpUrl": "https://npa.netcoresmartech.com/",
+      "inAppUrl": "https://ninapp.netcoresmartech.com/",
+      "inboxUrl": "https://appinbox.netcoresmartech.com/",
+      "listSegUrl": "https://psegment.netcoresmartech.com/",
+      "testDeviceUrl": "https://apiin.netcoresmartech.com/"
+    },
+    "hansel_api_endpoints": [],
+    "userAttrConfig": {
+      "enabled": true,
+      "syncInterval": 30,
+      "attrIds": [-2, 2]
+    },
+    "cid": 130365,
+    "gwConfig": {
+      "xiaomi": {
+        "enable": false,
+        "enablePushFor": null,
+        "tokenSendInterval": 60
+      }
+    },
+    "sConfig": {
+      "etData": true,
+      "p": "sBViXTskY8ru1H9gvkaIymmlIe8oAo9305lXYNiWVJrXqAeWUoEtL0PufXTPm3Sm",
+      "a": "umK1XjLsRr2YUAHwF8IUxSibkpDraeyEBjGyDr1vS3tNEbjjj1eRUw2eWFG6UfLv"
+    }
+  }
+}
