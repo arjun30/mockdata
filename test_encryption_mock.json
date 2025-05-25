@@ -110,7 +110,7 @@
         ]
       },
       "whatTo": {
-        "url": "\"https://cdnt.netcoresmartech.com/smartechapp-sdk/smartech-ce/dist/index.html?inappVer=1\"",
+        "url": "https://cdnt.netcoresmartech.com/smartechapp-sdk/smartech-ce/dist/index.html?inappVer=1",
         "useFullscreen": 1,
         "smtCustomPayload": {},
         "attrIds": [
