@@ -1,16 +1,16 @@
 {
-  "cpzRules_test": [],
-  "cpzRules": [
+  "cpzRulesTest": [],
+  "cpzRules_v1": [
     {
       "v": 1,
       "name": "Diwali Banner",
       "status": "running",
       "os": "android",
-      "id": "1",
+      "id": 1,
       "priority": 1,
       "toDate": "2027-12-30T07:45:24Z",
       "fromDate": "2025-05-19T12:11:23Z",
-      "modifiedDate": "2025-05-19T12:11:28Z",
+      "modifiedDate": "2025-06-07T12:11:28Z",
       "whereTo": {
         "trigger": [
           {
@@ -96,32 +96,26 @@
       },
       "whomTo": {
         "guid": [],
-        "controlGroup": 10,
+        "controlGroup": 0,
         "audience": [
           {
-            "audienceId": 1,
+            "audienceId": "1",
             "priority": 1,
             "filters": {
               "include": {
                 "segIds": [
-                  "23"
+                  23
                 ],
                 "listIds": [
-                  "20"
-                ],
-                "udt": [
-                  "123"
+                  20
                 ]
               },
               "exclude": {
                 "segIds": [
-                  "31"
+                  31
                 ],
                 "listIds": [
-                  "23"
-                ],
-                "udt": [
-                  "123"
+                  23
                 ]
               }
             },
@@ -147,29 +141,23 @@
             }
           },
           {
-            "audienceId": 2,
+            "audienceId": "2",
             "priority": 2,
             "filters": {
               "include": {
                 "segIds": [
-                  "23"
+                  23
                 ],
                 "listIds": [
-                  "20"
-                ],
-                "udt": [
-                  "123"
+                  20
                 ]
               },
               "exclude": {
                 "segIds": [
-                  "31"
+                  31
                 ],
                 "listIds": [
-                  "23"
-                ],
-                "udt": [
-                  "123"
+                  23
                 ]
               }
             },
@@ -182,14 +170,7 @@
                   "performed": "yes",
                   "waitUntil": null,
                   "filterType": "all",
-                  "filters": [
-                    {
-                      "key": "product.name",
-                      "operator": "is",
-                      "dataType": "string",
-                      "value": "iPhone"
-                    }
-                  ]
+                  "filters": []
                 }
               ]
             }
@@ -200,8 +181,8 @@
         "winner": "1",
         "content": [
           {
-            "audienceId": 1,
-            "contentId": 1,
+            "audienceId": "1",
+            "contentId": "1",
             "priority": 1,
             "layoutType": "text-image",
             "variant": "1000-20000",
@@ -232,8 +213,8 @@
             }
           },
           {
-            "audienceId": 1,
-            "contentId": 2,
+            "audienceId": "1",
+            "contentId": "2",
             "priority": 2,
             "layoutType": "image",
             "variant": "20001-40000",
@@ -281,7 +262,7 @@
       "name": "Holi Banner",
       "status": "running",
       "os": "android",
-      "id": "2",
+      "id": 2,
       "priority": 1,
       "toDate": "2027-06-06T07:45:24Z",
       "fromDate": "2025-06-06T12:11:23Z",
@@ -363,32 +344,26 @@
       },
       "whomTo": {
         "guid": [],
-        "controlGroup": 5,
+        "controlGroup": 0,
         "audience": [
           {
-            "audienceId": 1,
+            "audienceId": "1",
             "priority": 1,
             "filters": {
               "include": {
                 "segIds": [
-                  "23"
+                  23
                 ],
                 "listIds": [
-                  "20"
-                ],
-                "udt": [
-                  "123"
+                  20
                 ]
               },
               "exclude": {
                 "segIds": [
-                  "31"
+                  31
                 ],
                 "listIds": [
-                  "23"
-                ],
-                "udt": [
-                  "123"
+                  23
                 ]
               }
             },
@@ -414,29 +389,23 @@
             }
           },
           {
-            "audienceId": 2,
+            "audienceId": "2",
             "priority": 2,
             "filters": {
               "include": {
                 "segIds": [
-                  "23"
+                  23
                 ],
                 "listIds": [
-                  "20"
-                ],
-                "udt": [
-                  "123"
+                  20
                 ]
               },
               "exclude": {
                 "segIds": [
-                  "31"
+                  31
                 ],
                 "listIds": [
-                  "23"
-                ],
-                "udt": [
-                  "123"
+                  23
                 ]
               }
             },
@@ -467,8 +436,8 @@
         "winner": "1",
         "content": [
           {
-            "audienceId": 1,
-            "contentId": 1,
+            "audienceId": "1",
+            "contentId": "1",
             "priority": 1,
             "layoutType": "text-image",
             "variant": "1000-20000",
@@ -499,8 +468,8 @@
             }
           },
           {
-            "audienceId": 1,
-            "contentId": 2,
+            "audienceId": "1",
+            "contentId": "2",
             "priority": 2,
             "layoutType": "image",
             "variant": "20001-40000",
@@ -548,7 +517,7 @@
       "name": "Banner 3",
       "status": "running",
       "os": "android",
-      "id": "3",
+      "id": 3,
       "priority": 1,
       "toDate": "2027-06-06T07:45:24Z",
       "fromDate": "2025-06-06T12:11:23Z",
@@ -633,15 +602,12 @@
         "controlGroup": 0,
         "audience": [
           {
-            "audienceId": 1,
+            "audienceId": "1",
             "priority": 1,
             "filters": {
               "include": {
                 "segIds": [],
-                "listIds": [],
-                "udt": [
-                  "123"
-                ]
+                "listIds": []
               },
               "exclude": {
                 "segIds": [],
@@ -671,29 +637,23 @@
             }
           },
           {
-            "audienceId": 2,
+            "audienceId": "2",
             "priority": 2,
             "filters": {
               "include": {
                 "segIds": [
-                  "23"
+                  23
                 ],
                 "listIds": [
-                  "20"
-                ],
-                "udt": [
-                  "123"
+                  20
                 ]
               },
               "exclude": {
                 "segIds": [
-                  "31"
+                  31
                 ],
                 "listIds": [
-                  "23"
-                ],
-                "udt": [
-                  "123"
+                  23
                 ]
               }
             },
@@ -724,8 +684,8 @@
         "winner": "1",
         "content": [
           {
-            "audienceId": 1,
-            "contentId": 1,
+            "audienceId": "1",
+            "contentId": "1",
             "priority": 1,
             "layoutType": "text-image",
             "variant": "1000-20000",
@@ -756,8 +716,8 @@
             }
           },
           {
-            "audienceId": 1,
-            "contentId": 2,
+            "audienceId": "1",
+            "contentId": "2",
             "priority": 2,
             "layoutType": "image",
             "variant": "20001-40000",
@@ -805,7 +765,7 @@
       "name": "Banner 3",
       "status": "running",
       "os": "android",
-      "id": "4",
+      "id": 4,
       "priority": 1,
       "toDate": "2027-06-06T07:45:24Z",
       "fromDate": "2025-06-06T12:11:23Z",
@@ -887,18 +847,15 @@
       },
       "whomTo": {
         "guid": [],
-        "controlGroup": 80,
+        "controlGroup": 0,
         "audience": [
           {
-            "audienceId": 1,
+            "audienceId": "1",
             "priority": 1,
             "filters": {
               "include": {
                 "segIds": [],
-                "listIds": [],
-                "udt": [
-                  "123"
-                ]
+                "listIds": []
               },
               "exclude": {
                 "segIds": [],
@@ -912,7 +869,7 @@
             }
           },
           {
-            "audienceId": 2,
+            "audienceId": "2",
             "priority": 2,
             "filters": {
               "include": {},
@@ -926,8 +883,8 @@
         "winner": "1",
         "content": [
           {
-            "audienceId": 1,
-            "contentId": 1,
+            "audienceId": "1",
+            "contentId": "1",
             "priority": 1,
             "layoutType": "text-image",
             "variant": "1000-20000",
@@ -958,8 +915,8 @@
             }
           },
           {
-            "audienceId": 1,
-            "contentId": 2,
+            "audienceId": "1",
+            "contentId": "2",
             "priority": 2,
             "layoutType": "image",
             "variant": "20001-40000",
