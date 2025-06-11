@@ -124,6 +124,100 @@
       },
       "contentType": 2,
       "controlGroup": 0
+    },
+    {
+      "id": "738",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-06-10T13:03:15",
+      "modifiedDate": "2025-06-10T13:03:22",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "events": {
+          "targetRule": "all",
+          "rules": [
+            {
+              "eventId": 111,
+              "eventName": "product_view",
+              "performed": "yes",
+              "waitUntil": null,
+              "filterType": "all",
+              "filters": [
+                {
+                  "key": "productname",
+                  "operator": "is",
+                  "dataType": "string",
+                  "value": "iPhone"
+                }
+              ]
+            },
+            {
+              "eventId": 3,
+              "eventName": "Checkout",
+              "performed": "no",
+              "waitUntil": 5,
+              "filterType": "all",
+              "filters": []
+            }
+          ]
+        },
+        "segIds": [
+          "31"
+        ],
+        "eSegIds": [
+          "27"
+        ]
+      },
+      "whereTo": {
+        "position": "1",
+        "trigger": {
+          "eventId": 102,
+          "eventName": "add_to_cart",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 102,
+            "eventName": "add_to_cart",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/140578/in-app-content/738.html?inappVer=1",
+        "useFullscreen": 0,
+        "smtCustomPayload": {
+          "utm_source": "Netcore",
+          "utm_campaign": "AK Test In-app",
+          "utm_medium": "In-app",
+          "utm_content": ""
+        }
+      },
+      "contentType": 2,
+      "controlGroup": 0
     }
   ],
   "testInAppRules": [
