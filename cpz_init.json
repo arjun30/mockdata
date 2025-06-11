@@ -222,29 +222,30 @@
   ],
   "testInAppRules": [
     {
-      "id": "-1",
-      "guids": null,
-      "toDate": "2030-06-09T18:30:00",
-      "fromDate": "2025-06-10T06:03:01",
-      "modifiedDate": "2025-06-10T06:03:01",
+      "id": "737",
+      "toDate": "2025-06-17T18:30:00",
+      "fromDate": "2025-06-11T14:36:34",
+      "modifiedDate": "2025-06-11T14:36:34",
       "frequencyType": "",
-      "frequency": 0,
+      "frequency": "0",
       "whomTo": {
         "visitor": "all",
         "visitorType": "all"
       },
       "whereTo": {
-        "position": "4",
+        "position": "5",
         "trigger": {
-          "eventId": 21,
-          "eventName": "App Launch",
+          "eventId": 111,
+          "eventName": "product_view",
+          "delay": 0,
           "filterType": "all",
           "filters": []
         },
         "multiTrigger": [
           {
-            "eventId": 21,
-            "eventName": "App Launch",
+            "eventId": 111,
+            "eventName": "product_view",
+            "delay": 0,
             "filterType": "all",
             "filters": []
           }
@@ -262,16 +263,29 @@
         ],
         "time": [
           {
-            "from": "00:00",
-            "to": "23:45"
+            "from": "00:01",
+            "to": "23:59"
           }
         ]
       },
       "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/assets/in_app_content/inapp_test.html",
-        "useFullscreen": 0
+        "url": "https://cdndc.netcoresmartech.com/140578/in-app-content/test/1749652592.html?inappVer=1",
+        "useFullscreen": 1,
+        "smtCustomPayload": {
+          "utm_source": "Netcore",
+          "utm_campaign": "AS Test Device",
+          "utm_medium": "In-app",
+          "utm_content": ""
+        },
+        "attrIds": []
       },
-      "contentType": 2
+      "contentType": 1,
+      "controlGroup": 0,
+      "guids": [
+        "EB8DCC13-CD1E-4A77-9CEB-F716B09597DF",
+        "A8EA0CD6-ADDA-4F85-9273-1C63A719E978",
+        "20B5B1B7-EBF1-4251-A540-1367678C872B"
+      ]
     }
   ],
   "smartechSettings": {
@@ -284,7 +298,8 @@
     "batchSize": 30,
     "td": {
       "guids": [
-        "2d824bc9-8a2f-4839-bccb-196e33488192"
+        "2d824bc9-8a2f-4839-bccb-196e33488192",
+        "20B5B1B7-EBF1-4251-A540-1367678C872B"
       ],
       "logEnabled": false,
       "logLevel": 1
