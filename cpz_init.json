@@ -1,5 +1,185 @@
 {
-  "testInAppRules": [],
+  "inAppRules": [
+    {
+      "id": "730",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2025-06-05T07:43:41",
+      "modifiedDate": "2025-06-05T07:43:47",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 102,
+          "eventName": "add_to_cart",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 102,
+            "eventName": "add_to_cart",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/140578/in-app-content/730.html?inappVer=1",
+        "isNative": true,
+        "useFullscreen": 0,
+        "deeplinkType": "url",
+        "nativeImageUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps",
+        "pNativeImageUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/[%__screenname$page_browse$maps__%]/demo-image-110.png",
+        "deeplink": "https://google.com?utm_source=Netcore&utm_campaign=Bha+pz+test1&utm_medium=In-app&utm_content=",
+        "smtCustomPayload": {
+          "utm_source": "Netcore",
+          "utm_campaign": "Bha pz test1",
+          "utm_medium": "In-app",
+          "utm_content": ""
+        }
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "719",
+      "toDate": "2027-12-30T07:45:00",
+      "fromDate": "2025-05-14T12:54:52",
+      "modifiedDate": "2025-05-14T12:55:04",
+      "frequencyType": "day",
+      "frequency": "5",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 105,
+          "eventName": "remove_from_cart",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 105,
+            "eventName": "remove_from_cart",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "09:00",
+            "to": "23:59"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/140578/in-app-content/719.html?inappVer=1",
+        "useFullscreen": 0,
+        "smtCustomPayload": {
+          "utm_source": "Netcore",
+          "utm_campaign": "InApp Test 2",
+          "utm_medium": "In-app",
+          "utm_content": ""
+        }
+      },
+      "contentType": 2,
+      "controlGroup": 0
+    }
+  ],
+  "testInAppRules": [
+    {
+      "id": "-1",
+      "guids": null,
+      "toDate": "2030-06-09T18:30:00",
+      "fromDate": "2025-06-10T06:03:01",
+      "modifiedDate": "2025-06-10T06:03:01",
+      "frequencyType": "",
+      "frequency": 0,
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 21,
+          "eventName": "App Launch",
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 21,
+            "eventName": "App Launch",
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "00:00",
+            "to": "23:45"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/assets/in_app_content/inapp_test.html",
+        "useFullscreen": 0
+      },
+      "contentType": 2
+    }
+  ],
   "smartechSettings": {
     "paEnabled": true,
     "appInboxEnabled": true,
