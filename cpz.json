@@ -1,5 +1,5 @@
 {
-  "cpzRulesTest": [
+  "cpzRulesTest1": [
     {
       "v": 1,
       "name": "Banner Test",
@@ -251,7 +251,7 @@
       }
     }
   ],
-  "cpzRules_v1": [
+  "cpzRules_v2": [
     {
       "v": 1,
       "name": "Diwali Banner",
