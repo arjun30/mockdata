@@ -321,7 +321,6 @@
     },
     "features": {
       "contentPz": {
-        "enabled": true,
         "syncInterval": 5
       }
     },
