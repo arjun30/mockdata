@@ -856,7 +856,6 @@
         "audience": [
           {
             "audienceId": "1",
-            "priority": 1,
             "filters": {
               "include": {
                 "segIds": [],
