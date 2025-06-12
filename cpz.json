@@ -781,8 +781,7 @@
           }
         ]
       },
-      "whenTo": {
-      },
+      "whenTo": {},
       "whomTo": {
         "guid": [
           "20B5B1B7-EBF1-4251-A540-1367678C872B"
@@ -836,7 +835,7 @@
               "exclude": {
                 "segIds": [
                   31
-                ],
+                ]
               }
             },
             "events": {
@@ -848,7 +847,6 @@
                   "performed": "yes",
                   "waitUntil": null,
                   "filterType": "all"
-                  ]
                 }
               ]
             }
