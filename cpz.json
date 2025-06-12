@@ -1,5 +1,5 @@
 {
-  "cpzRulesTest1": [
+  "cpzRulesTest": [
     {
       "v": 1,
       "name": "Banner Test",
@@ -251,7 +251,7 @@
       }
     }
   ],
-  "cpzRules_v2": [
+  "cpzRules_v1": [
     {
       "v": 1,
       "name": "Diwali Banner",
@@ -781,7 +781,73 @@
           }
         ]
       },
-      "whenTo": {},
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "from": "09:00",
+                "to": "13:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "from": "09:00",
+                "to": "21:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "from": "09:00",
+                "to": "21:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "from": "09:00",
+                "to": "21:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "from": "09:00",
+                "to": "21:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "from": "09:00",
+                "to": "21:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "from": "09:00",
+                "to": "21:00"
+              }
+            ]
+          }
+        ]
+      },
       "whomTo": {
         "guid": [
           "20B5B1B7-EBF1-4251-A540-1367678C872B"
@@ -828,6 +894,9 @@
             "priority": 2,
             "filters": {
               "include": {
+                "segIds": [
+                  23
+                ],
                 "listIds": [
                   20
                 ]
@@ -835,6 +904,9 @@
               "exclude": {
                 "segIds": [
                   31
+                ],
+                "listIds": [
+                  23
                 ]
               }
             },
@@ -846,7 +918,15 @@
                   "eventName": "product_view",
                   "performed": "yes",
                   "waitUntil": null,
-                  "filterType": "all"
+                  "filterType": "all",
+                  "filters": [
+                    {
+                      "key": "product.name",
+                      "operator": "is",
+                      "dataType": "string",
+                      "value": "iPhone"
+                    }
+                  ]
                 }
               ]
             }
