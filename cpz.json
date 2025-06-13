@@ -390,17 +390,11 @@
                 },
                 {
                   "eventId": 119,
-                  "eventName": "product_view",
-                  "performed": "yes",
-                  "waitUntil": null,
+                  "eventName": "product_purchase",
+                  "performed": "no",
+                  "waitUntil": 5,
                   "filterType": "all",
                   "filters": [
-                    {
-                      "key": "product.name",
-                      "operator": "is",
-                      "dataType": "string",
-                      "value": "iPhone"
-                    }
                   ]
                 }
               ]
