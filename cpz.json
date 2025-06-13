@@ -387,6 +387,21 @@
                       "value": "iPhone"
                     }
                   ]
+                },
+                {
+                  "eventId": 119,
+                  "eventName": "product_view",
+                  "performed": "yes",
+                  "waitUntil": null,
+                  "filterType": "all",
+                  "filters": [
+                    {
+                      "key": "product.name",
+                      "operator": "is",
+                      "dataType": "string",
+                      "value": "iPhone"
+                    }
+                  ]
                 }
               ]
             }
