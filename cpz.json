@@ -381,10 +381,10 @@
                   "filterType": "all",
                   "filters": [
                     {
-                      "key": "product.name",
+                      "key": "name",
                       "operator": "is",
                       "dataType": "string",
-                      "value": "iPhone"
+                      "value": "Apple Macbook Pro Core i7 8th Gen"
                     }
                   ]
                 },
