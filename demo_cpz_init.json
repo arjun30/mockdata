@@ -254,8 +254,9 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [5],
+            "pzEnabled": true,
             "payload": {
-              "mediaUrl": "[_%USER_BANNER_01$netcore_user_attribute$https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/default-banner.png%_]",
+              "mediaUrl": "[%__USER_BANNER_01$netcore_user_attribute$https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/default-banner.png__%]",
               "bgc": "#F2E5C2",
               "bggc": ["#00C4F0FF", "#0065BF8B", "#00C4F0FF"],
               "actionButton": [
@@ -274,8 +275,9 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [5],
+            "pzEnabled": true,
             "payload": {
-              "mediaUrl": "[_%USER_BANNER_01$netcore_user_attribute$https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/default-banner.png%_]",
+              "mediaUrl": "[%__USER_BANNER_02$netcore_user_attribute$https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/default-banner.png__%]",
               "bgc": "#F2E5C2",
               "bggc": ["#00C4F0FF", "#0065BF8B", "#00C4F0FF"],
               "actionButton": [
@@ -294,8 +296,9 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [5],
+            "pzEnabled": true,
             "payload": {
-              "mediaUrl": "[_%USER_BANNER_01$netcore_user_attribute$https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/default-banner.png%_]",
+              "mediaUrl": "[%__USER_BANNER_03$netcore_user_attribute$https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/default-banner.png__%]",
               "bgc": "#F2E5C2",
               "bggc": ["#00C4F0FF", "#0065BF8B", "#00C4F0FF"],
               "actionButton": [
@@ -314,8 +317,9 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [5],
+            "pzEnabled": true,
             "payload": {
-              "mediaUrl": "[_%USER_BANNER_01$netcore_user_attribute$https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/default-banner.png%_]",
+              "mediaUrl": "[%__USER_BANNER_04$netcore_user_attribute$https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/default-banner.png__%]",
               "bgc": "#F2E5C2",
               "bggc": ["#00C4F0FF", "#0065BF8B", "#00C4F0FF"],
               "actionButton": [
