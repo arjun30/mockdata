@@ -160,7 +160,7 @@
                   "eventId": 119,
                   "eventName": "product_purchase",
                   "performed": "no",
-                  "waitUntil": 5,
+                  "waitUntil": 300,
                   "filterType": "all",
                   "filters": []
                 }
@@ -213,6 +213,34 @@
               "targetRule": "all",
               "rules": []
             }
+          },
+
+          {
+            "audienceId": "1004",
+            "priority": 2,
+            "filters": {
+              "include": {
+                "segIds": [],
+                "listIds": []
+              },
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "events": {
+              "targetRule": "all",
+              "rules": [
+                {
+                    "eventId": 111,
+                    "eventName": "product_view",
+                    "performed": "yes",
+                    "waitUntil": null,
+                    "filterType": "all",
+                    "filters": []
+                  }
+              ]
+            }
           }
         ]
       },
@@ -263,6 +291,26 @@
           {
             "audienceId": "1003",
             "contentId": "1003-A",
+            "priority": 1,
+            "layoutType": "image",
+            "attrIds": [5],
+            "payload": {
+              "mediaUrl": "[_%USER_BANNER_01$netcore_user_attribute$https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/default-banner.png%_]",
+              "bgc": "#F2E5C2",
+              "bggc": ["#00C4F0FF", "#0065BF8B", "#00C4F0FF"],
+              "actionButton": [
+                {
+                  "actionName": "Get Offer",
+                  "actionDeeplink": "https://www.google.com",
+                  "aTyp": 1
+                }
+              ]
+            }
+          },
+
+          {
+            "audienceId": "1004",
+            "contentId": "1004-A",
             "priority": 1,
             "layoutType": "image",
             "attrIds": [5],
