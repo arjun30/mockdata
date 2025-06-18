@@ -1,0 +1,188 @@
+{
+  "cpzRules_v1": [
+    {
+      "v": "1",
+      "id": "155",
+      "os": "android",
+      "status": "scheduled",
+      "toDate": "2030-06-18T12:03:56Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [-1, 952],
+            "payload": {
+              "bgc": "#ffffff",
+              "mediaUrl": "https://tw.netcore.co.in/86441/1750054433.jpeg",
+              "actionButton": [
+                {
+                  "aTyp": 1,
+                  "actionName": "Test 1",
+                  "actionDeeplink": "[%__NETCORE_DOB$netcore_user_attribute$__%]"
+                },
+                {
+                  "aTyp": 1,
+                  "actionName": "Test 2",
+                  "actionDeeplink": "qwertyuiop"
+                }
+              ]
+            },
+            "contentId": "1",
+            "pzEnabled": true,
+            "audienceId": "5115",
+            "layoutType": "image"
+          },
+          {
+            "attrIds": [-1, 952],
+            "payload": {
+              "json": {
+                "categoryName": "Mobile measurment platforms abc",
+                "categoryValue": [
+                  {
+                    "config": {
+                      "card": {
+                        "title": "branch",
+                        "is_json": 0,
+                        "iconclass": "branchicon",
+                        "identifier": "branch",
+                        "description": "Connect with Branch for Universal Link Tracking & user app activity data.",
+                        "menubottons": [
+                          {
+                            "title": "View",
+                            "iconclass": "nxticon-view",
+                            "identifier": "view",
+                            "icontooltip": ""
+                          },
+                          {
+                            "title": "Remove",
+                            "iconclass": "nxticon-delete-lg",
+                            "identifier": "remove",
+                            "icontooltip": ""
+                          }
+                        ],
+                        "footerbottons": [],
+                        "enabletootltip": "Connected"
+                      },
+                      "drawer": {
+                        "body": "\u003Cdiv class='d-flex align-items-center mt-3'\u003E \u003Cdiv class='nxt-integration-img'\u003E \u003Cdiv class='branch-image'\u003E\u003C/div\u003E \u003C/div\u003E \u003Cdiv class='nxt-integration-desc ml-4'\u003E \u003Ch2 class='nxt-extra-large nxt-bold mb-2'\u003EBranch\u003C/h2\u003E \u003Cp class='nxt-gray mb-0'\u003E Connect with Branch for Universal Link Tracking & user app activity data. \u003C/p\u003E \u003C/div\u003E \u003C/div\u003E \u003Cdiv class='mt-5 nxt-integration-configuration'\u003E \u003Cp class='nxt-medium nxt-bold mb-2'\u003EOverview\u003C/p\u003E \u003Cp class='mb-0'\u003E Branch helps brands make good choices for their business and their customers with its advanced measurement, data analytics, deep linking, engagement, fraud protection, data clean room and privacy-preserving technologies. With Netcore - Appsflyer Integration you will be able to enable universal deeplinking in your email engagements as well as upload App-Activity behavior of your app customers to Netcore CE Panels . \u003C/p\u003E \u003C/div\u003E \u003Cdiv class='mt-5 nxt-integration-related-links'\u003E \u003Cp class='nxt-medium nxt-bold mb-2'\u003ERelated links\u003C/p\u003E \u003Cul\u003E \u003Cli\u003E\u003Ca href='https://www.branch.io/about/' target='_blank' rel='noopener'\u003EAbout Branch\u003C/a\u003E\u003C/li\u003E \u003Cli\u003E\u003Ca href='https://cedocs.netcorecloud.com/docs/branchio_esp' target='_blank' rel='noopener'\u003EConfiguring Branch ESP Integration\u003C/a\u003E\u003C/li\u003E \u003Cli\u003E\u003Ca href='https://cedocs.netcorecloud.com/docs/branch-event-integration' target='_blank' rel='noopener'\u003EIngesting App Activity from Branch\u003C/a\u003E\u003C/li\u003E \u003C/ul\u003E \u003C/div\u003E",
+                        "header": {
+                          "link": "",
+                          "linkText": "",
+                          "useNativeVideoTag": ""
+                        }
+                      }
+                    },
+                    "appname": "branch",
+                    "panel_status": 1,
+                    "integrate_status": 1,
+                    "integration_type": "branch"
+                  }
+                ]
+              }
+            },
+            "contentId": "1",
+            "pzEnabled": false,
+            "audienceId": "6419",
+            "layoutType": "json"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "18:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "03:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [591],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": "5115"
+          },
+          {
+            "events": {
+              "rules": [
+                {
+                  "eventId": 283,
+                  "filters": [],
+                  "eventName": "test opt out push noti",
+                  "performed": "no",
+                  "waitUntil": 5,
+                  "filterType": "all"
+                }
+              ],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [555],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [555],
+                "listIds": []
+              }
+            },
+            "priority": 2,
+            "audienceId": "6419"
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "appId": 3114,
+            "appName": "android_test_123",
+            "widgetId": 22,
+            "widgetName": "widget1"
+          },
+          {
+            "appId": 3114,
+            "appName": "android_test_123",
+            "widgetId": 25,
+            "widgetName": "widget2"
+          }
+        ]
+      },
+      "fromDate": "2027-01-17T16:00:00Z",
+      "priority": 1,
+      "campaignName": "Test Json App Pz 3",
+      "campaignType": "regular",
+      "modifiedDate": "2025-06-18T14:03:56+05:30"
+    }
+  ],
+  "cpzRules_test_v1": []
+}
