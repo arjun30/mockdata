@@ -2104,7 +2104,7 @@
       "name": "Simple Banner",
       "status": "running",
       "os": "android",
-      "id": 100,
+      "id": 101,
       "priority": 1,
       "toDate": "2027-12-30T07:45:24Z",
       "fromDate": "2025-06-15T12:00:00Z",
@@ -2113,7 +2113,7 @@
       "whereTo": {
         "trigger": [
           {
-            "widgetId": 100,
+            "widgetId": 104,
             "widgetName": "simple_banner"
           }
         ]
@@ -2243,10 +2243,10 @@
     },
     {
       "v": 1,
-      "name": "Event User Attribute Personalized Banner",
+      "name": "Event User Attribute JSON Banner",
       "status": "running",
       "os": "android",
-      "id": 100,
+      "id": 102,
       "priority": 1,
       "toDate": "2027-12-30T07:45:24Z",
       "fromDate": "2025-06-15T12:00:00Z",
@@ -2256,7 +2256,7 @@
         "trigger": [
           {
             "widgetId": 105,
-            "widgetName": "event_user_attribute_personalized_banner"
+            "widgetName": "event_user_attribute_json_banner"
           }
         ]
       },
@@ -2366,6 +2366,165 @@
             "pzEnabled": true,
             "payload": {
               "json": {
+                "event": {
+                  "prid": "[%__product.prid$add_to_cart$default-value__%]",
+                  "name": "[%__product.name$add_to_cart$default-value__%]",
+                  "price": "[%__product.price$add_to_cart$default-value__%]",
+                  "currency": "[%__product.currency$add_to_cart$default-value__%]",
+                  "url": "[%__product.url$add_to_cart$default-value__%]",
+                  "company": "[%__product.company$add_to_cart$default-value__%]",
+                  "color": "[%__product.color$add_to_cart$Space default-value__%]",
+                  "category": "[%__product.category$add_to_cart$default-value__%]",
+                  "quantity": "[%__product.quantity$add_to_cart$default-value__%]",
+                  "description": "[%__product.description$add_to_cart$default-value__%]"
+                },
+                "userAttributes": {
+                  "email": "[%__email$netcore_user_attribute$default-user-attribute__%]",
+                  "firstname": "[%__firstname$netcore_user_attribute$default-user-attribute__%]",
+                  "user_banner_code": "[%__user_banner_code$netcore_user_attribute$default-user-attribute__%]"
+                }
+              }
+            }
+          }
+        ],
+        "customKeyValue": {
+          "country": "IN",
+          "language": "EN"
+        },
+        "gaParams": {
+          "utm_source": "Netcore",
+          "utm_campaign": "Sales Offer Banner",
+          "utm_medium": "app-cpz",
+          "utm_content": "sales-offer-banner"
+        }
+      }
+    },
+
+    {
+      "v": 1,
+      "name": "Event User Attribute Key Value Banner",
+      "status": "running",
+      "os": "android",
+      "id": 103,
+      "priority": 1,
+      "toDate": "2027-12-30T07:45:24Z",
+      "fromDate": "2025-06-15T12:00:00Z",
+      "modifiedDate": "2025-06-15T12:00:00Z",
+
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 106,
+            "widgetName": "event_user_attribute_key_value_banner"
+          }
+        ]
+      },
+
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "from": "00:01",
+                "to": "23:59"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "from": "00:01",
+                "to": "23:59"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "from": "00:01",
+                "to": "23:59"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "from": "00:01",
+                "to": "23:59"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "from": "00:01",
+                "to": "23:59"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "from": "00:01",
+                "to": "23:59"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "from": "00:01",
+                "to": "23:59"
+              }
+            ]
+          }
+        ]
+      },
+
+      "whomTo": {
+        "guid": [],
+        "controlGroup": 0,
+        "audience": [
+          {
+            "audienceId": "1001",
+            "priority": 1,
+            "filters": {
+              "include": {
+                "segIds": [],
+                "listIds": []
+              },
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "events": {
+              "targetRule": "all",
+              "rules": []
+            }
+          }
+        ]
+      },
+
+      "whatTo": {
+        "winner": "1",
+        "content": [
+          {
+            "audienceId": "1001",
+            "contentId": "1001-A",
+            "priority": 1,
+            "layoutType": "json",
+            "attrIds": [-1, 26, 27],
+            "pzEnabled": true,
+            "payload": {
+              "customKeyValue": {
                 "event": {
                   "prid": "[%__product.prid$add_to_cart$default-value__%]",
                   "name": "[%__product.name$add_to_cart$default-value__%]",
