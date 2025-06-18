@@ -105,31 +105,7 @@
                         },
                         "events": {
                             "targetRule": "all",
-                            "rules": [
-                                {
-                                    "eventId": 111,
-                                    "eventName": "product_view",
-                                    "performed": "yes",
-                                    "waitUntil": null,
-                                    "filterType": "all",
-                                    "filters": [
-                                        {
-                                            "key": "name",
-                                            "operator": "is",
-                                            "dataType": "string",
-                                            "value": "Apple Macbook Pro Core i7 8th Gen"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "eventId": 119,
-                                    "eventName": "product_purchase",
-                                    "performed": "no",
-                                    "waitUntil": 300,
-                                    "filterType": "all",
-                                    "filters": []
-                                }
-                            ]
+                            "rules": []
                         }
                     },
                     {
@@ -138,9 +114,7 @@
                         "filters": {
                             "include": {
                                 "segIds": [],
-                                "listIds": [
-                                    52
-                                ]
+                                "listIds": []
                             },
                             "exclude": {
                                 "segIds": [],
@@ -149,16 +123,7 @@
                         },
                         "events": {
                             "targetRule": "all",
-                            "rules": [
-                                {
-                                    "eventId": 111,
-                                    "eventName": "product_view",
-                                    "performed": "yes",
-                                    "waitUntil": null,
-                                    "filterType": "all",
-                                    "filters": []
-                                }
-                            ]
+                            "rules": []
                         }
                     }
                 ]
