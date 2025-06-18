@@ -137,7 +137,7 @@
                         "priority": 1,
                         "layoutType": "image",
                         "attrIds": [
-                            27
+                            5
                         ],
                         "payload": {
                             "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/sales/sale-banner-00.png",
@@ -157,7 +157,7 @@
                         "priority": 1,
                         "layoutType": "image",
                         "attrIds": [
-                            27
+                            5
                         ],
                         "payload": {
                             "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/sales/sale-banner-00.png",
@@ -300,7 +300,7 @@
                         "audienceId": "1101",
                         "contentId": "1101-A",
                         "priority": 1,
-                        "layoutType": "text_image",
+                        "layoutType": "image",
                         "attrIds": [
                             5
                         ],
