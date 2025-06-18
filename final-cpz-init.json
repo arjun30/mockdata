@@ -10,7 +10,7 @@
       "priority": 1,
       "toDate": "2027-12-30T07:45:24Z",
       "fromDate": "2025-06-15T12:00:00Z",
-      "modifiedDate": "2025-06-15T12:00:00Z",
+      "modifiedDate": "2025-06-15T12:30:00Z",
       
       "whereTo": {
         "trigger": [
@@ -2108,7 +2108,7 @@
       "priority": 1,
       "toDate": "2027-12-30T07:45:24Z",
       "fromDate": "2025-06-15T12:00:00Z",
-      "modifiedDate": "2025-06-15T12:00:00Z",
+      "modifiedDate": "2025-06-15T12:25:00Z",
 
       "whereTo": {
         "trigger": [
@@ -2223,7 +2223,7 @@
             "attrIds": [5],
             "pzEnabled": false,
             "payload": {
-              "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/default-banner.png",
+              "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#FF637E",
               "actionButton": []
             }
@@ -2250,7 +2250,7 @@
       "priority": 1,
       "toDate": "2027-12-30T07:45:24Z",
       "fromDate": "2025-06-15T12:00:00Z",
-      "modifiedDate": "2025-06-15T12:00:00Z",
+      "modifiedDate": "2025-06-15T12:20:00Z",
 
       "whereTo": {
         "trigger": [
@@ -2399,7 +2399,6 @@
         }
       }
     },
-
     {
       "v": 1,
       "name": "Event User Attribute Key Value Banner",
@@ -2409,7 +2408,7 @@
       "priority": 1,
       "toDate": "2027-12-30T07:45:24Z",
       "fromDate": "2025-06-15T12:00:00Z",
-      "modifiedDate": "2025-06-15T12:00:00Z",
+      "modifiedDate": "2025-06-15T12:15:00Z",
 
       "whereTo": {
         "trigger": [
