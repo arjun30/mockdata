@@ -2361,7 +2361,7 @@
             "audienceId": "1001",
             "contentId": "1001-A",
             "priority": 1,
-            "layoutType": "image",
+            "layoutType": "json",
             "attrIds": [-1, 26, 27],
             "pzEnabled": true,
             "payload": {
