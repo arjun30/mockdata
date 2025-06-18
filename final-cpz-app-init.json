@@ -1,1 +1,90 @@
+{
+  "inAppRules": [],
+  "testInAppRules": [],
+  "smartechSettings": {
+    "paEnabled": true,
+    "appInboxEnabled": true,
+    "paInterval": 60,
+    "sdkActive": true,
+    "sessionInterval": 30,
+    "batchInterval": 10,
+    "batchSize": 30,
 
+
+    
+    "td": {
+      "guids": [
+        "2d824bc9-8a2f-4839-bccb-196e33488192",
+        "20B5B1B7-EBF1-4251-A540-1367678C872B"
+      ],
+      "logEnabled": false,
+      "logLevel": 1
+    },
+
+
+    
+    "eventSettings": {
+      "allevents": true,
+      "lifecycle": true,
+      "push": true,
+      "inapp": true,
+      "appinbox": true
+    },
+    "panelActive": true,
+    "eventLimit": 200,
+    "frequency": {
+      "enable": 1,
+      "month": 0,
+      "week": 0,
+      "day": 150
+    },
+
+    
+    
+    "features": {
+      "contentPz": {
+        "enabled": true,
+        "syncInterval": 5
+      }
+    },
+
+
+    
+    "baseUrls": {
+      "trackAppActUrl": "https://npn.netcoresmartech.com/",
+      "pushAmpUrl": "https://pa.netcoresmartech.com/",
+      "inAppUrl": "https://ninapp.netcoresmartech.com/",
+      "inboxUrl": "https://appinbox.netcoresmartech.com/",
+      "listSegUrl": "https://psegment.netcoresmartech.com/",
+      "testDeviceUrl": "https://api.netcoresmartech.com/",
+      "contentPzUrl": "https://raw.githubusercontent.com/arjun30/mockdata/refs/heads/main/final-cpz-init.json"
+    },
+    "hansel_api_endpoints": {
+      "get_data": "https://ujm.hansel.io/ujm/v1/data////",
+      "add_events": "https://sdk.hansel.io/dashboard/event/v1//",
+      "td_auth": "https://sdk.hansel.io/dashboard/td/verify",
+      "init_sdk": "https://sdk.hansel.io/dashboard/sdk/v1/init///",
+      "req_sesid": "https://sdk.hansel.io/dashboard/visualizer/request_session",
+      "socket": "wss://websocket-visualizer.hansel.io",
+      "populate_data": "https://sdk.hansel.io/dashboard/populatedata/v1//"
+    },
+    "userAttrConfig": {
+      "enabled": true,
+      "syncInterval": 1,
+      "attrIds": [-1, -2, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+    },
+    "cid": 140578,
+    "gwConfig": {
+      "xiaomi": {
+        "enable": false,
+        "enablePushFor": null,
+        "tokenSendInterval": 60
+      }
+    },
+    "sConfig": {
+      "etData": false,
+      "p": "XCb29K4fztFC5BHG0pLgteQTyw7QLUDJxOLGzQW9jBMpct5dSRtl6kfEQmuCh8lO",
+      "a": ""
+    }
+  }
+}
