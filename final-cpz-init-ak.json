@@ -340,11 +340,17 @@
                             5
                         ],
                         "payload": {
-                            "title": "Title 2",
-                            "message": "Message 2",
-                            "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/default-banner.png",
+                            "title": "Dive into your Privé benefits!",
+                            "message": "Enjoy exclusive brand discounts...",
+                            "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/sales/sale-banner-00.png",
                             "bgc": "#FF637E",
-                            "actionButton": []
+                            "actionButton": [
+                                {
+                                    "actionName": "Redeem Now",
+                                    "actionDeeplink": "https://www.google.com",
+                                    "aTyp": 1
+                                }
+                            ]
                         }
                     }
                 ],
