@@ -1142,6 +1142,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1160,6 +1161,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1178,6 +1180,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1196,6 +1199,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1214,6 +1218,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1232,6 +1237,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1250,6 +1256,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1268,6 +1275,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1286,6 +1294,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1304,6 +1313,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1322,6 +1332,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1340,6 +1351,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1358,6 +1370,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1376,6 +1389,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1394,6 +1408,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1412,6 +1427,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1430,6 +1446,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1448,6 +1465,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1466,6 +1484,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1484,6 +1503,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1502,6 +1522,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1520,6 +1541,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1538,6 +1560,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1556,6 +1579,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1574,6 +1598,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1592,6 +1617,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1610,6 +1636,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1628,6 +1655,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1646,6 +1674,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1664,6 +1693,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1682,6 +1712,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1700,6 +1731,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1718,6 +1750,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1736,6 +1769,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1754,6 +1788,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1772,6 +1807,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1790,6 +1826,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1808,6 +1845,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1826,6 +1864,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1844,6 +1883,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1862,6 +1902,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1880,6 +1921,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1898,6 +1940,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1916,6 +1959,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1934,6 +1978,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1952,6 +1997,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1970,6 +2016,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -1988,6 +2035,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -2006,6 +2054,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -2024,6 +2073,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [27],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
               "bgc": "#F2E5C2",
@@ -2171,6 +2221,7 @@
             "priority": 1,
             "layoutType": "image",
             "attrIds": [5],
+            "pzEnabled": false,
             "payload": {
               "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/default-banner.png",
               "bgc": "#FF637E",
@@ -2310,8 +2361,9 @@
             "audienceId": "1001",
             "contentId": "1001-A",
             "priority": 1,
-            "layoutType": "json",
+            "layoutType": "image",
             "attrIds": [-1, 26, 27],
+            "pzEnabled": true,
             "payload": {
               "json": {
                 "event": {
