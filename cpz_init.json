@@ -1,361 +1,323 @@
 {
-  "inAppRules": [
+  "cpzRules_v1": [
     {
-      "id": "730",
-      "toDate": "2027-12-30T07:45:24",
-      "fromDate": "2025-06-05T07:43:41",
-      "modifiedDate": "2025-06-05T07:43:47",
-      "frequencyType": "",
-      "frequency": "0",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all"
-      },
-      "whereTo": {
-        "position": "4",
-        "trigger": {
-          "eventId": 102,
-          "eventName": "add_to_cart",
-          "delay": 0,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 102,
-            "eventName": "add_to_cart",
-            "delay": 0,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "09:00",
-            "to": "21:00"
-          }
-        ]
-      },
+      "v": "1",
+      "id": "156",
+      "os": "android",
+      "status": "running",
+      "toDate": "2030-06-18T12:32:53Z",
       "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/140578/in-app-content/730.html?inappVer=1",
-        "isNative": true,
-        "useFullscreen": 0,
-        "deeplinkType": "url",
-        "nativeImageUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps",
-        "pNativeImageUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/[%__screenname$page_browse$maps__%]/demo-image-110.png",
-        "deeplink": "https://google.com?utm_source=Netcore&utm_campaign=Bha+pz+test1&utm_medium=In-app&utm_content=",
-        "smtCustomPayload": {
-          "utm_source": "Netcore",
-          "utm_campaign": "Bha pz test1",
-          "utm_medium": "In-app",
-          "utm_content": ""
-        }
-      },
-      "contentType": 1,
-      "controlGroup": 0
-    },
-    {
-      "id": "719",
-      "toDate": "2027-12-30T07:45:00",
-      "fromDate": "2025-05-14T12:54:52",
-      "modifiedDate": "2025-05-14T12:55:04",
-      "frequencyType": "day",
-      "frequency": "5",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all"
-      },
-      "whereTo": {
-        "position": "4",
-        "trigger": {
-          "eventId": 105,
-          "eventName": "remove_from_cart",
-          "delay": 0,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
+        "content": [
           {
-            "eventId": 105,
-            "eventName": "remove_from_cart",
-            "delay": 0,
-            "filterType": "all",
-            "filters": []
-          }
-        ]
-      },
-      "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
-          {
-            "from": "09:00",
-            "to": "23:59"
-          }
-        ]
-      },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/140578/in-app-content/719.html?inappVer=1",
-        "useFullscreen": 0,
-        "smtCustomPayload": {
-          "utm_source": "Netcore",
-          "utm_campaign": "InApp Test 2",
-          "utm_medium": "In-app",
-          "utm_content": ""
-        }
-      },
-      "contentType": 2,
-      "controlGroup": 0
-    },
-    {
-      "id": "738",
-      "toDate": "2027-12-30T07:45:24",
-      "fromDate": "2025-06-10T13:03:15",
-      "modifiedDate": "2025-06-10T13:03:22",
-      "frequencyType": "",
-      "frequency": "0",
-      "whomTo": {
-        "visitor": "all",
-        "visitorType": "all",
-        "events": {
-          "targetRule": "all",
-          "rules": [
-            {
-              "eventId": 111,
-              "eventName": "product_view",
-              "performed": "yes",
-              "waitUntil": null,
-              "filterType": "all",
-              "filters": [
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://tw.netcore.co.in/86441/1750054433.jpeg",
+              "actionButton": [
                 {
-                  "key": "productname",
-                  "operator": "is",
-                  "dataType": "string",
-                  "value": "iPhone"
+                  "aTyp": 1,
+                  "actionName": "Test1"
                 }
               ]
             },
-            {
-              "eventId": 3,
-              "eventName": "Checkout",
-              "performed": "no",
-              "waitUntil": 5,
-              "filterType": "all",
-              "filters": []
-            }
-          ]
-        },
-        "segIds": [
-          "31"
-        ],
-        "eSegIds": [
-          "27"
-        ]
-      },
-      "whereTo": {
-        "position": "1",
-        "trigger": {
-          "eventId": 102,
-          "eventName": "add_to_cart",
-          "delay": 0,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
-          {
-            "eventId": 102,
-            "eventName": "add_to_cart",
-            "delay": 0,
-            "filterType": "all",
-            "filters": []
+            "contentId": "1",
+            "pzEnabled": false,
+            "audienceId": "4318",
+            "layoutType": "image"
           }
-        ]
+        ],
+        "gaParams": [],
+        "customKeyValue": []
       },
       "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
+        "schedule": [
           {
-            "from": "09:00",
-            "to": "21:00"
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
           }
         ]
       },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/140578/in-app-content/738.html?inappVer=1",
-        "useFullscreen": 0,
-        "smtCustomPayload": {
-          "utm_source": "Netcore",
-          "utm_campaign": "AK Test In-app",
-          "utm_medium": "In-app",
-          "utm_content": ""
-        }
-      },
-      "contentType": 2,
-      "controlGroup": 0
-    }
-  ],
-  "testInAppRules": [
-    {
-      "id": "737",
-      "toDate": "2025-06-17T18:30:00",
-      "fromDate": "2025-06-11T14:36:34",
-      "modifiedDate": "2025-06-11T14:36:34",
-      "frequencyType": "",
-      "frequency": "0",
       "whomTo": {
-        "visitor": "all",
-        "visitorType": "all"
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": "4318"
+          }
+        ],
+        "controlGroup": 0
       },
       "whereTo": {
-        "position": "5",
-        "trigger": {
-          "eventId": 111,
-          "eventName": "product_view",
-          "delay": 0,
-          "filterType": "all",
-          "filters": []
-        },
-        "multiTrigger": [
+        "trigger": [
           {
-            "eventId": 111,
-            "eventName": "product_view",
-            "delay": 0,
-            "filterType": "all",
-            "filters": []
+            "appId": 3114,
+            "appName": "android_test_123",
+            "widgetId": 22,
+            "widgetName": "widget1"
           }
         ]
+      },
+      "fromDate": "2025-06-18T12:32:53Z",
+      "priority": 1,
+      "campaignName": "Test Integration Testing",
+      "campaignType": "regular",
+      "modifiedDate": "2025-06-18T14:32:53+05:30"
+    },
+    {
+      "v": "1",
+      "id": "155",
+      "os": "android",
+      "status": "scheduled",
+      "toDate": "2030-06-18T12:32:53Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [-1, 952],
+            "payload": {
+              "bgc": "#ffffff",
+              "mediaUrl": "https://tw.netcore.co.in/86441/1750054433.jpeg",
+              "actionButton": [
+                {
+                  "aTyp": 1,
+                  "actionName": "Test 1",
+                  "actionDeeplink": "[%__NETCORE_DOB$netcore_user_attribute$__%]"
+                },
+                {
+                  "aTyp": 1,
+                  "actionName": "Test 2",
+                  "actionDeeplink": "qwertyuiop"
+                }
+              ]
+            },
+            "contentId": "1",
+            "pzEnabled": true,
+            "audienceId": "5115",
+            "layoutType": "image"
+          },
+          {
+            "attrIds": [-1, 952],
+            "payload": {
+              "json": {
+                "categoryName": "Mobile measurment platforms abc",
+                "categoryValue": [
+                  {
+                    "config": {
+                      "card": {
+                        "title": "branch",
+                        "is_json": 0,
+                        "iconclass": "branchicon",
+                        "identifier": "branch",
+                        "description": "Connect with Branch for Universal Link Tracking & user app activity data.",
+                        "menubottons": [
+                          {
+                            "title": "View",
+                            "iconclass": "nxticon-view",
+                            "identifier": "view",
+                            "icontooltip": ""
+                          },
+                          {
+                            "title": "Remove",
+                            "iconclass": "nxticon-delete-lg",
+                            "identifier": "remove",
+                            "icontooltip": ""
+                          }
+                        ],
+                        "footerbottons": [],
+                        "enabletootltip": "Connected"
+                      },
+                      "drawer": {
+                        "body": "\u003Cdiv class='d-flex align-items-center mt-3'\u003E \u003Cdiv class='nxt-integration-img'\u003E \u003Cdiv class='branch-image'\u003E\u003C/div\u003E \u003C/div\u003E \u003Cdiv class='nxt-integration-desc ml-4'\u003E \u003Ch2 class='nxt-extra-large nxt-bold mb-2'\u003EBranch\u003C/h2\u003E \u003Cp class='nxt-gray mb-0'\u003E Connect with Branch for Universal Link Tracking & user app activity data. \u003C/p\u003E \u003C/div\u003E \u003C/div\u003E \u003Cdiv class='mt-5 nxt-integration-configuration'\u003E \u003Cp class='nxt-medium nxt-bold mb-2'\u003EOverview\u003C/p\u003E \u003Cp class='mb-0'\u003E Branch helps brands make good choices for their business and their customers with its advanced measurement, data analytics, deep linking, engagement, fraud protection, data clean room and privacy-preserving technologies. With Netcore - Appsflyer Integration you will be able to enable universal deeplinking in your email engagements as well as upload App-Activity behavior of your app customers to Netcore CE Panels . \u003C/p\u003E \u003C/div\u003E \u003Cdiv class='mt-5 nxt-integration-related-links'\u003E \u003Cp class='nxt-medium nxt-bold mb-2'\u003ERelated links\u003C/p\u003E \u003Cul\u003E \u003Cli\u003E\u003Ca href='https://www.branch.io/about/' target='_blank' rel='noopener'\u003EAbout Branch\u003C/a\u003E\u003C/li\u003E \u003Cli\u003E\u003Ca href='https://cedocs.netcorecloud.com/docs/branchio_esp' target='_blank' rel='noopener'\u003EConfiguring Branch ESP Integration\u003C/a\u003E\u003C/li\u003E \u003Cli\u003E\u003Ca href='https://cedocs.netcorecloud.com/docs/branch-event-integration' target='_blank' rel='noopener'\u003EIngesting App Activity from Branch\u003C/a\u003E\u003C/li\u003E \u003C/ul\u003E \u003C/div\u003E",
+                        "header": {
+                          "link": "",
+                          "linkText": "",
+                          "useNativeVideoTag": ""
+                        }
+                      }
+                    },
+                    "appname": "branch",
+                    "panel_status": 1,
+                    "integrate_status": 1,
+                    "integration_type": "branch"
+                  }
+                ]
+              }
+            },
+            "contentId": "1",
+            "pzEnabled": false,
+            "audienceId": "6419",
+            "layoutType": "json"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
       },
       "whenTo": {
-        "days": [
-          "0",
-          "1",
-          "2",
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "time": [
+        "schedule": [
           {
-            "from": "00:01",
-            "to": "23:59"
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "18:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "03:00"
+              }
+            ]
           }
         ]
       },
-      "whatTo": {
-        "url": "https://cdndc.netcoresmartech.com/140578/in-app-content/test/1749652592.html?inappVer=1",
-        "useFullscreen": 1,
-        "smtCustomPayload": {
-          "utm_source": "Netcore",
-          "utm_campaign": "AS Test Device",
-          "utm_medium": "In-app",
-          "utm_content": ""
-        },
-        "attrIds": []
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [591],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": "5115"
+          },
+          {
+            "events": {
+              "rules": [
+                {
+                  "eventId": 283,
+                  "filters": [],
+                  "eventName": "test opt out push noti",
+                  "performed": "no",
+                  "waitUntil": 5,
+                  "filterType": "all"
+                }
+              ],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [555],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [555],
+                "listIds": []
+              }
+            },
+            "priority": 2,
+            "audienceId": "6419"
+          }
+        ],
+        "controlGroup": 0
       },
-      "contentType": 1,
-      "controlGroup": 0,
-      "guids": [
-        "EB8DCC13-CD1E-4A77-9CEB-F716B09597DF",
-        "A8EA0CD6-ADDA-4F85-9273-1C63A719E978",
-        "20B5B1B7-EBF1-4251-A540-1367678C872B"
-      ]
+      "whereTo": {
+        "trigger": [
+          {
+            "appId": 3114,
+            "appName": "android_test_123",
+            "widgetId": 22,
+            "widgetName": "widget1"
+          },
+          {
+            "appId": 3114,
+            "appName": "android_test_123",
+            "widgetId": 25,
+            "widgetName": "widget2"
+          }
+        ]
+      },
+      "fromDate": "2025-06-18T12:32:53Z",
+      "priority": 1,
+      "campaignName": "Test Json App Pz 3",
+      "campaignType": "regular",
+      "modifiedDate": "2025-06-18T14:03:56+05:30"
     }
   ],
-  "smartechSettings": {
-    "paEnabled": true,
-    "appInboxEnabled": true,
-    "paInterval": 60,
-    "sdkActive": true,
-    "sessionInterval": 30,
-    "batchInterval": 10,
-    "batchSize": 30,
-    "td": {
-      "guids": [
-        "2d824bc9-8a2f-4839-bccb-196e33488192",
-        "20B5B1B7-EBF1-4251-A540-1367678C872B"
-      ],
-      "logEnabled": false,
-      "logLevel": 1
-    },
-    "eventSettings": {
-      "allevents": true,
-      "lifecycle": true,
-      "push": true,
-      "inapp": true,
-      "appinbox": true
-    },
-    "panelActive": true,
-    "eventLimit": 200,
-    "frequency": {
-      "enable": 1,
-      "month": 0,
-      "week": 0,
-      "day": 150
-    },
-    "features": {
-      "contentPz": {
-        "enabled": true,
-        "syncInterval": 5
-      }
-    },
-    "baseUrls": {
-      "trackAppActUrl": "https://npn.netcoresmartech.com/",
-      "pushAmpUrl": "https://pa.netcoresmartech.com/",
-      "inAppUrl": "https://ninapp.netcoresmartech.com/",
-      "inboxUrl": "https://appinbox.netcoresmartech.com/",
-      "listSegUrl": "https://psegment.netcoresmartech.com/",
-      "testDeviceUrl": "https://api.netcoresmartech.com/",
-      "contentPzUrl": "https://raw.githubusercontent.com/arjun30/mockdata/refs/heads/main/cpz.json"
-    },
-    "hansel_api_endpoints": {
-      "get_data": "https://ujm.hansel.io/ujm/v1/data////",
-      "add_events": "https://sdk.hansel.io/dashboard/event/v1//",
-      "td_auth": "https://sdk.hansel.io/dashboard/td/verify",
-      "init_sdk": "https://sdk.hansel.io/dashboard/sdk/v1/init///",
-      "req_sesid": "https://sdk.hansel.io/dashboard/visualizer/request_session",
-      "socket": "wss://websocket-visualizer.hansel.io",
-      "populate_data": "https://sdk.hansel.io/dashboard/populatedata/v1//"
-    },
-    "userAttrConfig": {
-      "enabled": false,
-      "syncInterval": 30,
-      "attrIds": []
-    },
-    "cid": "140578",
-    "gwConfig": {
-      "xiaomi": {
-        "enable": false,
-        "enablePushFor": null,
-        "tokenSendInterval": 60
-      }
-    },
-    "sConfig": {}
-  }
+  "cpzRules_test_v1": []
 }
