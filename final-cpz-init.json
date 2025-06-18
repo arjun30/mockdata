@@ -1,5 +1,5 @@
 {
-  "cpzRulesTest": [],
+  "cpzRulesTest_v1": [],
   "cpzRules_v1": [
     {
       "v": 1,
@@ -2310,7 +2310,7 @@
             "audienceId": "1001",
             "contentId": "1001-A",
             "priority": 1,
-            "layoutType": "image",
+            "layoutType": "json",
             "attrIds": [-1, 26, 27],
             "payload": {
               "json": {
