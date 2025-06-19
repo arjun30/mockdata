@@ -276,7 +276,7 @@
               },
               "exclude": {
                 "segIds": [],
-                "listIds": []
+                "listIds": [108]
               }
             },
             "events": {
