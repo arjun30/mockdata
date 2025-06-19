@@ -1144,7 +1144,7 @@
             "attrIds": [27],
             "pzEnabled": false,
             "payload": {
-              "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
+              "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-50.png",
               "bgc": "#F2E5C2",
               "actionButton": [
                 {
