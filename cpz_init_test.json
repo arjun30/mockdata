@@ -416,6 +416,409 @@
           "utm_content": "sales-offer-banner"
         }
       }
+    },
+    {
+      "v": 1,
+      "name": "User Personalized Banner",
+      "status": "running",
+      "os": "android",
+      "id": 199,
+      "priority": 1,
+      "toDate": "2027-12-30T07:45:24Z",
+      "fromDate": "2025-06-15T12:00:00Z",
+      "modifiedDate": "2025-06-16T12:30:03Z",
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 105,
+            "widgetName": "jobin"
+          }
+        ]
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "from": "00:01",
+                "to": "05:00"
+              },
+              {
+                "from": "05:00",
+                "to": "10:00"
+              },
+              {
+                "from": "10:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "18:00"
+              },
+              {
+                "from": "18:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "from": "00:01",
+                "to": "05:00"
+              },
+              {
+                "from": "05:00",
+                "to": "10:00"
+              },
+              {
+                "from": "10:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "18:00"
+              },
+              {
+                "from": "18:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "from": "00:01",
+                "to": "05:00"
+              },
+              {
+                "from": "05:00",
+                "to": "10:00"
+              },
+              {
+                "from": "10:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "18:00"
+              },
+              {
+                "from": "18:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "from": "00:01",
+                "to": "05:00"
+              },
+              {
+                "from": "05:00",
+                "to": "10:00"
+              },
+              {
+                "from": "10:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "18:00"
+              },
+              {
+                "from": "18:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "from": "00:01",
+                "to": "05:00"
+              },
+              {
+                "from": "05:00",
+                "to": "10:00"
+              },
+              {
+                "from": "10:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "18:00"
+              },
+              {
+                "from": "18:00",
+                "to": "23:59"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "from": "10:00",
+                "to": "15:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "from": "00:01",
+                "to": "05:00"
+              },
+              {
+                "from": "05:00",
+                "to": "10:00"
+              },
+              {
+                "from": "10:00",
+                "to": "12:00"
+              },
+              {
+                "from": "13:00",
+                "to": "18:00"
+              },
+              {
+                "from": "18:00",
+                "to": "23:59"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "controlGroup": 0,
+        "audience": [
+          {
+            "audienceId": "1001",
+            "priority": 1,
+            "filters": {
+              "include": {
+                "segIds": [],
+                "listIds": [
+                  51,
+                  106
+                ]
+              },
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "events": {
+              "targetRule": "all",
+              "rules": [
+                {
+                  "eventId": 111,
+                  "eventName": "product_view",
+                  "performed": "yes",
+                  "waitUntil": null,
+                  "filterType": "all",
+                  "filters": [
+                    {
+                      "key": "name",
+                      "operator": "is",
+                      "dataType": "string",
+                      "value": "Apple Macbook Pro Core i7 8th Gen"
+                    }
+                  ]
+                },
+                {
+                  "eventId": 119,
+                  "eventName": "product_purchase",
+                  "performed": "no",
+                  "waitUntil": 300,
+                  "filterType": "all",
+                  "filters": []
+                }
+              ]
+            }
+          },
+          {
+            "audienceId": "1002",
+            "priority": 1,
+            "filters": {
+              "include": {
+                "segIds": [],
+                "listIds": [
+                  52,
+                  107
+                ]
+              },
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "events": {
+              "targetRule": "all",
+              "rules": [
+                {
+                  "eventId": 111,
+                  "eventName": "product_view",
+                  "performed": "yes",
+                  "waitUntil": null,
+                  "filterType": "all",
+                  "filters": []
+                }
+              ]
+            }
+          },
+          {
+            "audienceId": "1003",
+            "priority": 1,
+            "filters": {
+              "include": {
+                "segIds": [],
+                "listIds": [
+                  53,
+                  108
+                ]
+              },
+              "exclude": {
+                "segIds": [],
+                "listIds": [
+                  108
+                ]
+              }
+            },
+            "events": {
+              "targetRule": "all",
+              "rules": []
+            }
+          },
+          {
+            "audienceId": "1050",
+            "priority": 1,
+            "filters": {
+              "include": {
+                "segIds": [],
+                "listIds": []
+              },
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "events": {
+              "targetRule": "all",
+              "rules": []
+            }
+          }
+        ]
+      },
+      "whatTo": {
+        "winner": "1",
+        "content": [
+          {
+            "audienceId": "1001",
+            "contentId": "1001-A",
+            "priority": 1,
+            "layoutType": "image",
+            "attrIds": [
+              27
+            ],
+            "pzEnabled": false,
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-50.png",
+              "bgc": "#F2E5C2",
+              "actionButton": [
+                {
+                  "actionName": "Know More",
+                  "actionDeeplink": "https://www.google.com",
+                  "aTyp": 1
+                }
+              ]
+            }
+          },
+          {
+            "audienceId": "1002",
+            "contentId": "1002-A",
+            "priority": 1,
+            "layoutType": "image",
+            "attrIds": [
+              27
+            ],
+            "pzEnabled": false,
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
+              "bgc": "#F2E5C2",
+              "actionButton": [
+                {
+                  "actionName": "Redeem Now",
+                  "actionDeeplink": "https://www.google.com",
+                  "aTyp": 1
+                }
+              ]
+            }
+          },
+          {
+            "audienceId": "1003",
+            "contentId": "1003-A",
+            "priority": 1,
+            "layoutType": "image",
+            "attrIds": [
+              27
+            ],
+            "pzEnabled": false,
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
+              "bgc": "#F2E5C2",
+              "actionButton": [
+                {
+                  "actionName": "Get Offer",
+                  "actionDeeplink": "https://www.google.com",
+                  "aTyp": 1
+                }
+              ]
+            }
+          },
+          {
+            "audienceId": "1050",
+            "contentId": "1050-A",
+            "priority": 1,
+            "layoutType": "image",
+            "attrIds": [
+              27
+            ],
+            "pzEnabled": false,
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/user/user-banner-[%__USER_BANNER_CODE$netcore_user_attribute$00__%].png",
+              "bgc": "#F2E5C2",
+              "actionButton": [
+                {
+                  "actionName": "Get Offer",
+                  "actionDeeplink": "https://www.google.com",
+                  "aTyp": 1
+                }
+              ]
+            }
+          }
+        ],
+        "customKeyValue": {
+          "country": "IN",
+          "language": "EN"
+        },
+        "gaParams": {
+          "utm_source": "Netcore",
+          "utm_campaign": "Sales Offer Banner",
+          "utm_medium": "app-cpz",
+          "utm_content": "sales-offer-banner"
+        }
+      }
     }
   ]
 }
