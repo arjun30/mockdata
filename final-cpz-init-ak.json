@@ -300,7 +300,7 @@
                         "audienceId": "1101",
                         "contentId": "1101-A",
                         "priority": 1,
-                        "layoutType": "image",
+                        "layoutType": "text_image",
                         "attrIds": [
                             5
                         ],
