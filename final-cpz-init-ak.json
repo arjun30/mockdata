@@ -142,6 +142,7 @@
                         "payload": {
                             "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/sales/sale-banner-00.png",
                             "bgc": "#F2E5C2",
+                            "bggc":["1", "#FF637E", "#F2E5C2", "90"],
                             "actionButton": [
                                 {
                                     "actionName": "Know More",
@@ -162,6 +163,7 @@
                         "payload": {
                             "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/sales/sale-banner-00.png",
                             "bgc": "#F2E5C2",
+                            "bggc":["1", "#FF637E", "#F2E5C2", "90"],
                             "actionButton": [
                                 {
                                     "actionName": "Redeem Now",
@@ -309,6 +311,7 @@
                             "message": "Enjoy exclusive brand discounts...",
                             "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/app-cpz/banner-images/sales/sale-banner-00.png",
                             "bgc": "#FF637E",
+                            "bggc":["1", "#FF637E", "#F2E5C2", "90"],
                             "actionButton": [
                                 {
                                     "actionName": "Redeem Now",
