@@ -9,7 +9,7 @@
       "priority": 1,
       "toDate": "2027-12-30T07:45:24Z",
       "fromDate": "2025-06-15T12:00:00Z",
-      "modifiedDate": "2025-06-15T12:15:00Z",
+      "modifiedDate": "2025-06-15T13:15:00Z",
       "whereTo": {
         "trigger": [
           {
@@ -87,7 +87,7 @@
       },
       "whomTo": {
         "guid": [
-          "A846A563-7507-4FFA-807B-245FEF4B4EEC"
+          "5C1C7FCA-0246-41FF-8C6B-F4AFC69927A9"
         ],
         "controlGroup": 0,
         "audience": [
