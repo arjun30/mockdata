@@ -2,7 +2,7 @@
   "cpzRules_v1": [
     {
       "v": 1,
-      "id": 10,
+      "id": 12,
       "os": "ios",
       "status": "running",
       "toDate": "2030-06-27T06:52:59Z",
@@ -157,7 +157,7 @@
       "priority": 1,
       "campaignName": "Test Dev_int ",
       "campaignType": "regular",
-      "modifiedDate": "2025-07-02T06:52:59Z"
+      "modifiedDate": "2025-07-03T06:52:59Z"
     },
     {
       "v": 1,
@@ -316,7 +316,7 @@
       "priority": 1,
       "campaignName": "Test Dev_int ",
       "campaignType": "regular",
-      "modifiedDate": "2025-07-02T06:52:59Z"
+      "modifiedDate": "2025-07-05T06:52:59Z"
     }
   ],
   "cpzRulesTest_v1": []
