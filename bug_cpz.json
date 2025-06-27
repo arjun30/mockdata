@@ -1,0 +1,323 @@
+{
+  "cpzRules_v1": [
+    {
+      "v": 1,
+      "id": 10,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-06-27T06:52:59Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "json": {
+                "event": {
+                  "url": "[%__product.url$add_to_cart$default-value__%]",
+                  "name": "[%__product.name$add_to_cart$default-value__%]",
+                  "prid": "[%__product.prid$add_to_cart$default-value__%]",
+                  "color": "[%__product.color$add_to_cart$Space default-value__%]",
+                  "price": "[%__product.price$add_to_cart$default-value__%]",
+                  "company": "[%__product.company$add_to_cart$default-value__%]",
+                  "category": "[%__product.category$add_to_cart$default-value__%]",
+                  "currency": "[%__product.currency$add_to_cart$default-value__%]",
+                  "quantity": "[%__product.quantity$add_to_cart$default-value__%]",
+                  "description": "[%__product.description$add_to_cart$default-value__%]"
+                },
+                "userAttributes": {
+                  "email": "[%__email$netcore_user_attribute$default-user-attribute__%]",
+                  "firstname": "[%__firstname$netcore_user_attribute$default-user-attribute__%]",
+                  "email_upper": "[%__EMAIL$netcore_user_attribute$default-user-attribute__%]",
+                  "user_banner_code": "[%__user_banner_code$netcore_user_attribute$default-user-attribute__%]"
+                }
+              }
+            },
+            "contentId": "9275-c",
+            "pzEnabled": false,
+            "audienceId": 9275,
+            "layoutType": "json"
+          }
+        ],
+        "gaParams": {
+          "utm_medium": "App-Content-Personalization",
+          "utm_source": "Netcore",
+          "utm_content": "",
+          "utm_campaign": "Test Dev_int "
+        },
+        "customKeyValue": {}
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 9275
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 43,
+            "widgetName": "Test_1"
+          },
+          {
+            "widgetId": 48,
+            "widgetName": "ioS_test2"
+          },
+          {
+            "widgetId": 49,
+            "widgetName": "Check"
+          }
+        ]
+      },
+      "fromDate": "2025-06-27T06:52:59Z",
+      "priority": 1,
+      "campaignName": "Test Dev_int ",
+      "campaignType": "regular",
+      "modifiedDate": "2025-06-27T06:52:59Z"
+    },
+    {
+      "v": 1,
+      "id": 11,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-06-27T06:52:59Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "json": {
+                "event": {
+                  "url": "[%__product.url$add_to_cart$default-value__%]",
+                  "name": "[%__product.name$add_to_cart$default-value__%]",
+                  "prid": "[%__product.prid$add_to_cart$default-value__%]",
+                  "color": "[%__product.color$add_to_cart$Space default-value__%]",
+                  "price": "[%__product.price$add_to_cart$default-value__%]",
+                  "company": "[%__product.company$add_to_cart$default-value__%]",
+                  "category": "[%__product.category$add_to_cart$default-value__%]",
+                  "currency": "[%__product.currency$add_to_cart$default-value__%]",
+                  "quantity": "[%__product.quantity$add_to_cart$default-value__%]",
+                  "description": "[%__product.description$add_to_cart$default-value__%]"
+                },
+                "userAttributes": {
+                  "email": "[%__email$netcore_user_attribute$default-user-attribute__%]",
+                  "firstname": "[%__firstname$netcore_user_attribute$default-user-attribute__%]",
+                  "email_upper": "[%__EMAIL$netcore_user_attribute$default-user-attribute__%]",
+                  "user_banner_code": "[%__user_banner_code$netcore_user_attribute$default-user-attribute__%]"
+                }
+              }
+            },
+            "contentId": "9275-c",
+            "pzEnabled": false,
+            "audienceId": 9275,
+            "layoutType": "json"
+          }
+        ],
+        "gaParams": {
+          "utm_medium": "App-Content-Personalization",
+          "utm_source": "Netcore",
+          "utm_content": "",
+          "utm_campaign": "Test Dev_int "
+        },
+        "customKeyValue": {}
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 9275
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 43,
+            "widgetName": "Test_1"
+          },
+          {
+            "widgetId": 48,
+            "widgetName": "ioS_test2"
+          },
+          {
+            "widgetId": 49,
+            "widgetName": "Check"
+          }
+        ]
+      },
+      "fromDate": "2025-06-27T06:52:59Z",
+      "priority": 1,
+      "campaignName": "Test Dev_int ",
+      "campaignType": "regular",
+      "modifiedDate": "2025-06-27T06:52:59Z"
+    }
+  ],
+  "cpzRulesTest_v1": []
+}
