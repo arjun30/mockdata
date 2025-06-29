@@ -14,7 +14,7 @@
               "mediaUrl": "https://cdn.pixabay.com/photo/2023/04/11/17/43/amsterdam-7917858_1280.jpg"
             },
             "contentId": "3427-c",
-            "pzEnabled": false,
+            "pzEnabled": true,
             "audienceId": 3427,
             "layoutType": "image"
           }
@@ -154,7 +154,7 @@
               "mediaUrl": "https://cdnt.netcoresmartech.com/178191/1709268053.png"
             },
             "contentId": "1815-c",
-            "pzEnabled": false,
+            "pzEnabled": true,
             "audienceId": 1815,
             "layoutType": "image"
           }
@@ -313,7 +313,7 @@
               }
             },
             "contentId": "9275-c",
-            "pzEnabled": false,
+            "pzEnabled": true,
             "audienceId": 9275,
             "layoutType": "json"
           }
