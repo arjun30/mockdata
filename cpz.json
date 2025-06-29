@@ -11,10 +11,10 @@
           {
             "attrIds": [],
             "payload": {
-              "mediaUrl": "https://cdn.pixabay.com/photo/2023/04/11/17/43/amsterdam-7917858_1280.jpg"
+              "mediaUrl": "https://dummyimage.com/700x300/FFDF20/000000.png&text=Arjun"
             },
             "contentId": "3427-c",
-            "pzEnabled": true,
+            "pzEnabled": false,
             "audienceId": 3427,
             "layoutType": "image"
           }
@@ -138,7 +138,7 @@
       "priority": 1,
       "campaignName": "Test Click counts ",
       "campaignType": "regular",
-      "modifiedDate": "2025-06-28T12:18:38Z"
+      "modifiedDate": "2025-06-28T14:18:38Z"
     },
     {
       "v": 1,
