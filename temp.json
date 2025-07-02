@@ -4359,7 +4359,9 @@
       "campaignName": "JK-SDK-02-all_users_on_seg",
       "campaignType": "regular",
       "modifiedDate": "2025-06-29T18:11:45Z"
-    },
+    }
+  ],
+  "cpzRulesTest_v1": [
     {
       "v": 1,
       "id": 29,
@@ -4492,6 +4494,5 @@
       "campaignType": "regular",
       "modifiedDate": "2025-06-28T20:36:33Z"
     }
-  ],
-  "cpzRulesTest_v1": []
+  ]
 }
