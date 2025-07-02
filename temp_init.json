@@ -500,7 +500,8 @@
       "inAppUrl": "https://pnstage.netcore.co.in/dev0/",
       "inboxUrl": "http://netcore-cee-public-pod2-1430211820.ap-south-1.elb.amazonaws.com/",
       "listSegUrl": "https://gocrov2-pod2.com/",
-      "testDeviceUrl": "https://pnstage.netcore.co.in/dev0/"
+      "testDeviceUrl": "https://pnstage.netcore.co.in/dev0/",
+      "contentPzUrl": "https://app-cpz.netcoresmartech.com/pod/"
     },
     "features": {
       "contentPz": {
