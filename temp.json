@@ -1720,7 +1720,7 @@
             "audienceId": 59
           }
         ],
-        "controlGroup": 80
+        "controlGroup": 20
       },
       "whereTo": {
         "trigger": [
@@ -1734,7 +1734,7 @@
       "priority": 1,
       "campaignName": "JK-SDK-32-control_group_30",
       "campaignType": "regular",
-      "modifiedDate": "2025-07-03T11:39:49Z"
+      "modifiedDate": "2025-07-03T12:39:49Z"
     }
   ],
   "cpzRulesTest_v1": []
