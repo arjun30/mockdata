@@ -1,0 +1,4871 @@
+{
+  "cpzRules_v1": [
+    {
+      "v": 1,
+      "id": 249,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-11T14:32:10Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-128.png"
+            },
+            "contentId": "2057-c",
+            "pzEnabled": false,
+            "audienceId": 2057,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 2057
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 142,
+            "widgetName": "Json_P"
+          }
+        ]
+      },
+      "fromDate": "2025-07-11T14:32:10Z",
+      "priority": 1,
+      "campaignName": "Copy:11 Jul 2025 @8:01pm-Copy:11 Jul 2025 @7:10pm-Copy:11 Jul 2025 @12:05pm-Test GA params",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-11T14:32:10Z"
+    },
+    {
+      "v": 1,
+      "id": 225,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-10T11:34:00Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-130.png",
+              "actionButton": [
+                {
+                  "tc": "#6F6F8D",
+                  "bgc": "#FFCF5C",
+                  "aTyp": 2,
+                  "actionName": "Test ",
+                  "actionDeeplink": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-130.png"
+                }
+              ]
+            },
+            "contentId": "1406-c",
+            "pzEnabled": false,
+            "audienceId": 1406,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 1406
+          }
+        ],
+        "controlGroup": 34
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 234,
+            "widgetName": "Nag_CV_iOS_01"
+          }
+        ]
+      },
+      "fromDate": "2025-07-10T11:34:00Z",
+      "priority": 1,
+      "campaignName": "CV_05",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-10T11:34:00Z"
+    },
+    {
+      "v": 1,
+      "id": 223,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-10T10:43:14Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-140.png"
+            },
+            "contentId": "1674-c",
+            "pzEnabled": false,
+            "audienceId": 1674,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 1674
+          }
+        ],
+        "controlGroup": 60
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 140,
+            "widgetName": "PZImage"
+          }
+        ]
+      },
+      "fromDate": "2025-07-10T10:43:14Z",
+      "priority": 1,
+      "campaignName": "CV_04 with CG",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-10T10:43:14Z"
+    },
+    {
+      "v": 1,
+      "id": 207,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-09T11:33:24Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/178191/1710232564.png",
+              "actionButton": [
+                {
+                  "tc": "#01010c",
+                  "bgc": "#9dacb0",
+                  "aTyp": 1,
+                  "actionName": "Test Conver",
+                  "actionDeeplink": "smartech://profile"
+                }
+              ]
+            },
+            "contentId": "9816-c",
+            "pzEnabled": false,
+            "audienceId": 9816,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 9816
+          }
+        ],
+        "controlGroup": 25
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 43,
+            "widgetName": "Test_1"
+          }
+        ]
+      },
+      "fromDate": "2025-07-09T11:33:24Z",
+      "priority": 1,
+      "campaignName": "Control Group 2",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-09T11:33:24Z"
+    },
+    {
+      "v": 1,
+      "id": 206,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-09T11:24:50Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://cdn.pixabay.com/photo/2023/04/11/17/43/amsterdam-7917858_1280.jpg",
+              "actionButton": [
+                {
+                  "tc": "#6F6F8D",
+                  "bgc": "#FFCF5C",
+                  "aTyp": 2,
+                  "actionName": "Test ",
+                  "actionDeeplink": "https://cdnt.netcoresmartech.com/178191/1709886958.png"
+                }
+              ]
+            },
+            "contentId": "6930-c",
+            "pzEnabled": false,
+            "audienceId": 6930,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 6930
+          }
+        ],
+        "controlGroup": 60
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 43,
+            "widgetName": "Test_1"
+          }
+        ]
+      },
+      "fromDate": "2025-07-09T11:24:50Z",
+      "priority": 1,
+      "campaignName": "Control Group 01",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-09T11:24:50Z"
+    },
+    {
+      "v": 1,
+      "id": 205,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-09T10:51:17Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [
+              -1,
+              -2
+            ],
+            "payload": {
+              "mediaUrl": "Hi [%__MOBILE$netcore_user_attribute$8884683636__%] Hello [%__price$product_view$default_value__%]",
+              "actionButton": [
+                {
+                  "tc": "#6F6F8D",
+                  "bgc": "#FFCF5C",
+                  "aTyp": 1,
+                  "actionName": "Test ",
+                  "actionDeeplink": "Hi[%__EMAIL$netcore_user_attribute$__%] Hello [%__product.name$product_search$Redm__%]"
+                }
+              ]
+            },
+            "contentId": "9454-c",
+            "pzEnabled": true,
+            "audienceId": 9454,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 9454
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 49,
+            "widgetName": "Check"
+          }
+        ]
+      },
+      "fromDate": "2025-07-09T10:51:17Z",
+      "priority": 1,
+      "campaignName": "Content_03",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-09T10:51:17Z"
+    },
+    {
+      "v": 1,
+      "id": 204,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-09T13:51:18Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [
+              -1,
+              -2
+            ],
+            "payload": {
+              "mediaUrl": "Hi [%__MOBILE$netcore_user_attribute$__%] Hello [%__price$product_view$46__%]",
+              "actionButton": [
+                {
+                  "tc": "#6F6F8D",
+                  "bgc": "#FFCF5C",
+                  "aTyp": 1,
+                  "actionName": "Test",
+                  "actionDeeplink": "Hi[%__EMAIL$netcore_user_attribute$__%] Hello [%__product.name$product_search$__%]"
+                }
+              ]
+            },
+            "contentId": "9454-c",
+            "pzEnabled": true,
+            "audienceId": 9454,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 9454
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 49,
+            "widgetName": "Check"
+          }
+        ]
+      },
+      "fromDate": "2025-07-11T14:10:00Z",
+      "priority": 1,
+      "campaignName": "Copy:9 Jul 2025 @3:15pm-Content_02",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-09T13:51:18Z"
+    },
+    {
+      "v": 1,
+      "id": 203,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-09T09:43:13Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [
+              -1,
+              -2
+            ],
+            "payload": {
+              "mediaUrl": "Hi [%__MOBILE$netcore_user_attribute$8884683636__%] Hello [%__price$product_view$default_value__%]",
+              "actionButton": [
+                {
+                  "tc": "#6F6F8D",
+                  "bgc": "#FFCF5C",
+                  "aTyp": 1,
+                  "actionName": "Test ",
+                  "actionDeeplink": "Hi[%__EMAIL$netcore_user_attribute$__%] Hello [%__product.name$product_search$Redm__%]"
+                }
+              ]
+            },
+            "contentId": "9454-c",
+            "pzEnabled": true,
+            "audienceId": 9454,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 9454
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 49,
+            "widgetName": "Check"
+          }
+        ]
+      },
+      "fromDate": "2025-07-09T09:43:13Z",
+      "priority": 1,
+      "campaignName": "Content_02",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-09T09:43:13Z"
+    },
+    {
+      "v": 1,
+      "id": 201,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-09T09:27:27Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [
+              -1,
+              -2
+            ],
+            "payload": {
+              "mediaUrl": "Hi [%__MOBILE$netcore_user_attribute$__%] Hello [%__EMAIL$netcore_user_attribute$__%]",
+              "actionButton": [
+                {
+                  "tc": "#6F6F8D",
+                  "bgc": "#FFCF5C",
+                  "aTyp": 1,
+                  "actionName": "Test Const",
+                  "actionDeeplink": "Hi[%__MOBILE$netcore_user_attribute$__%] Hello [%__EMAIL$netcore_user_attribute$__%]"
+                }
+              ]
+            },
+            "contentId": "3619-c",
+            "pzEnabled": true,
+            "audienceId": 3619,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 3619
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 201,
+            "widgetName": "Conversion_Revenue"
+          },
+          {
+            "widgetId": 207,
+            "widgetName": "Conversion_Revenue_CG"
+          },
+          {
+            "widgetId": 208,
+            "widgetName": "Conversion_CG"
+          },
+          {
+            "widgetId": 209,
+            "widgetName": "Conversion"
+          }
+        ]
+      },
+      "fromDate": "2025-07-09T09:27:27Z",
+      "priority": 1,
+      "campaignName": "Content-01",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-09T09:27:27Z"
+    },
+    {
+      "v": 1,
+      "id": 196,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-08T15:17:12Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/178191/1709886958.png",
+              "actionButton": [
+                {
+                  "tc": "#6F6F8D",
+                  "bgc": "#13e734",
+                  "aTyp": 3,
+                  "ctxt": "Nag test atype-3",
+                  "actionName": "Test Click atype-1"
+                }
+              ]
+            },
+            "contentId": "6010-c",
+            "pzEnabled": false,
+            "audienceId": 6010,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 6010
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 201,
+            "widgetName": "Conversion_Revenue"
+          },
+          {
+            "widgetId": 208,
+            "widgetName": "Conversion_CG"
+          }
+        ]
+      },
+      "fromDate": "2025-07-08T15:17:12Z",
+      "priority": 1,
+      "campaignName": " atype-3",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-08T15:17:12Z"
+    },
+    {
+      "v": 1,
+      "id": 195,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-08T15:16:13Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/178191/1709886958.png",
+              "actionButton": [
+                {
+                  "tc": "#6F6F8D",
+                  "bgc": "#13e734",
+                  "aTyp": 2,
+                  "actionName": "Test Click atype-1",
+                  "actionDeeplink": "https://cdnt.netcoresmartech.com/178191/1709886958.png"
+                }
+              ]
+            },
+            "contentId": "6010-c",
+            "pzEnabled": false,
+            "audienceId": 6010,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 6010
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 201,
+            "widgetName": "Conversion_Revenue"
+          },
+          {
+            "widgetId": 208,
+            "widgetName": "Conversion_CG"
+          }
+        ]
+      },
+      "fromDate": "2025-07-08T15:16:13Z",
+      "priority": 1,
+      "campaignName": " atype-2",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-08T15:16:13Z"
+    },
+    {
+      "v": 1,
+      "id": 194,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-08T15:20:54Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/178191/1709886958.png",
+              "actionButton": [
+                {
+                  "tc": "#6F6F8D",
+                  "bgc": "#13e734",
+                  "aTyp": 1,
+                  "actionName": "Test Click atype-1",
+                  "actionDeeplink": "smartech://profile"
+                }
+              ]
+            },
+            "contentId": "6010-c",
+            "pzEnabled": false,
+            "audienceId": 6010,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 6010
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 201,
+            "widgetName": "Conversion_Revenue"
+          },
+          {
+            "widgetId": 208,
+            "widgetName": "Conversion_CG"
+          }
+        ]
+      },
+      "fromDate": "2025-07-08T15:20:54Z",
+      "priority": 1,
+      "campaignName": "Test copy text atype-1",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-08T15:20:54Z"
+    },
+    {
+      "v": 1,
+      "id": 177,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-07T10:51:22Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/178191/1705399428.png",
+              "actionButton": [
+                {
+                  "tc": "#6F6F8D",
+                  "bgc": "#FFCF5C",
+                  "aTyp": 1,
+                  "actionName": "Test Click CG",
+                  "actionDeeplink": "smartech://profile"
+                }
+              ]
+            },
+            "contentId": "2528-c",
+            "pzEnabled": false,
+            "audienceId": 2528,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 2528
+          }
+        ],
+        "controlGroup": 94
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 208,
+            "widgetName": "Conversion_CG"
+          }
+        ]
+      },
+      "fromDate": "2025-07-07T10:51:22Z",
+      "priority": 1,
+      "campaignName": "Test Con_CG_02",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-07T10:51:22Z"
+    },
+    {
+      "v": 1,
+      "id": 176,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-07T13:08:08Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/178191/1709268053.png",
+              "actionButton": [
+                {
+                  "tc": "#6F6F8D",
+                  "bgc": "#FFCF5C",
+                  "aTyp": 1,
+                  "actionName": "Test Click CG",
+                  "actionDeeplink": "smartech://profile"
+                }
+              ]
+            },
+            "contentId": "2528-c",
+            "pzEnabled": false,
+            "audienceId": 2528,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 2528
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 208,
+            "widgetName": "Conversion_CG"
+          }
+        ]
+      },
+      "fromDate": "2025-07-07T13:08:08Z",
+      "priority": 1,
+      "campaignName": "Test Coversion payload params",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-07T13:08:08Z"
+    },
+    {
+      "v": 1,
+      "id": 174,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-07T09:04:25Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/178191/1709883475.png"
+            },
+            "contentId": "8264-c",
+            "pzEnabled": false,
+            "audienceId": 8264,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [
+                  112
+                ],
+                "listIds": [
+                  39
+                ]
+              }
+            },
+            "priority": 1,
+            "audienceId": 8264
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 49,
+            "widgetName": "Check"
+          },
+          {
+            "widgetId": 142,
+            "widgetName": "Json_P"
+          }
+        ]
+      },
+      "fromDate": "2025-07-07T09:04:25Z",
+      "priority": 1,
+      "campaignName": "Gocro Seg APZ",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-07T09:04:25Z"
+    },
+    {
+      "v": 1,
+      "id": 171,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-07T07:20:09Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com//146827//1671444727.png"
+            },
+            "contentId": "7007-c",
+            "pzEnabled": false,
+            "audienceId": 7007,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 7007
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 49,
+            "widgetName": "Check"
+          },
+          {
+            "widgetId": 142,
+            "widgetName": "Json_P"
+          }
+        ]
+      },
+      "fromDate": "2025-07-07T07:20:09Z",
+      "priority": 1,
+      "campaignName": "Test Paramz",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-07T07:20:09Z"
+    },
+    {
+      "v": 1,
+      "id": 168,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-07T06:40:12Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/178191/1710234655.png"
+            },
+            "contentId": "3297-c",
+            "pzEnabled": false,
+            "audienceId": 3297,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 3297
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 182,
+            "widgetName": "CG_Image_P"
+          },
+          {
+            "widgetId": 201,
+            "widgetName": "Conversion_Revenue"
+          }
+        ]
+      },
+      "fromDate": "2025-07-07T06:40:12Z",
+      "priority": 1,
+      "campaignName": "Test APZ RP",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-07T06:40:12Z"
+    },
+    {
+      "v": 1,
+      "id": 165,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-07T05:27:58Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/89461/1658229246.png"
+            },
+            "contentId": "165-c",
+            "pzEnabled": false,
+            "audienceId": 165,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": [
+                  39
+                ]
+              }
+            },
+            "priority": 1,
+            "audienceId": 165
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 43,
+            "widgetName": "Test_1"
+          },
+          {
+            "widgetId": 48,
+            "widgetName": "ioS_test2"
+          },
+          {
+            "widgetId": 49,
+            "widgetName": "Check"
+          }
+        ]
+      },
+      "fromDate": "2025-07-07T05:27:58Z",
+      "priority": 1,
+      "campaignName": "APZ List",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-07T05:27:58Z"
+    },
+    {
+      "v": 1,
+      "id": 164,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-05T11:21:51Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://m.media-amazon.com/images/I/71rMwHlFKsL._AC_UY436_FMwebp_QL65_.jpg",
+              "actionButton": [
+                {
+                  "tc": "#6F6F8D",
+                  "bgc": "#FFCF5C",
+                  "aTyp": 1,
+                  "actionName": "deeplink",
+                  "actionDeeplink": "smartech://profile"
+                }
+              ]
+            },
+            "contentId": "1724-c",
+            "pzEnabled": false,
+            "audienceId": 1724,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 1724
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 209,
+            "widgetName": "Conversion"
+          }
+        ]
+      },
+      "fromDate": "2025-07-05T11:21:51Z",
+      "priority": 1,
+      "campaignName": "Conversion Only",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-05T11:21:51Z"
+    },
+    {
+      "v": 1,
+      "id": 163,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-05T11:07:04Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://m.media-amazon.com/images/I/61fjcvPUm7L._SL1500_.jpg",
+              "actionButton": [
+                {
+                  "tc": "#4141b9",
+                  "bgc": "#c3a357",
+                  "aTyp": 1,
+                  "actionName": "Deeplink",
+                  "actionDeeplink": "smartech://profile"
+                }
+              ]
+            },
+            "contentId": "2850-c",
+            "pzEnabled": false,
+            "audienceId": 2850,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 2850
+          }
+        ],
+        "controlGroup": 30
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 181,
+            "widgetName": "CG_Image_NP"
+          }
+        ]
+      },
+      "fromDate": "2025-07-05T11:07:04Z",
+      "priority": 1,
+      "campaignName": "Control Group with Coversion",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-05T11:07:04Z"
+    },
+    {
+      "v": 1,
+      "id": 162,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-04T17:59:52Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://m.media-amazon.com/images/G/31/sthaneka/Alphonsa/Budget/BAU/Halo/AUTO._CB795626443_.png",
+              "actionButton": [
+                {
+                  "tc": "#4040ad",
+                  "bgc": "#50bb80",
+                  "aTyp": 1,
+                  "actionName": "deeplink",
+                  "actionDeeplink": "smartech://profile"
+                }
+              ]
+            },
+            "contentId": "6999-c",
+            "pzEnabled": false,
+            "audienceId": 6999,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 6999
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 201,
+            "widgetName": "Conversion_Revenue"
+          }
+        ]
+      },
+      "fromDate": "2025-07-04T17:59:52Z",
+      "priority": 1,
+      "campaignName": "Conversion without parameter and CG with Revenue",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-04T17:59:52Z"
+    },
+    {
+      "v": 1,
+      "id": 155,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-08T09:36:02Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "json": {
+                "product": {
+                  "url": "https://cdnt.netcoresmartech.com/smartechapp-sdk/inapp-message/img/iphone-x.webp",
+                  "name": {
+                    "en": "Apple iPhone X - 256 GB 📱✨",
+                    "es": "Apple iPhone X - 256 GB 📱✨",
+                    "hi": "एप्पल आईफोन X - 256 जीबी 📱✨",
+                    "zh": "苹果 iPhone X - 256 GB 📱✨"
+                  },
+                  "prid": 100,
+                  "price": {
+                    "amount": 76900,
+                    "display": "💰 ₹76,900 🔥",
+                    "currency": "₹",
+                    "formatted": "₹76,900.00"
+                  },
+                  "social": {
+                    "share": "Check out this iPhone X! 📱✨ #Apple",
+                    "hashtags": [
+                      "#iPhone",
+                      "#Apple",
+                      "#📱"
+                    ]
+                  },
+                  "company": "Apple 🍎",
+                  "ratings": {
+                    "score": "4.8/5.0 ⭐",
+                    "stars": "★★★★★",
+                    "reviews": 1247,
+                    "positive": "👍 92%"
+                  },
+                  "category": "Electronics 📱",
+                  "features": {
+                    "misc": "♠♣♥♦♪♫§¶•‰′″‹›«»",
+                    "arrows": "←→↑↓↔↕⇄⇅",
+                    "symbols": "★☆✦✧○●◆◇▲▼←→↑↓±×÷∞≈≠≤≥√∑",
+                    "currencies": "₹$€£¥₩₽¢"
+                  },
+                  "metadata": {
+                    "updated": "2024-12-15T15:45:30Z 🔄",
+                    "version": "1.2.3",
+                    "encoding": "UTF-8 🌐",
+                    "languages": [
+                      "en",
+                      "hi",
+                      "es",
+                      "zh"
+                    ],
+                    "emoji_test": "😀😃😄😁😆😅🤣😂🙂🙃😉😊😇🥰😍🤩😘😗☺️😚😙🥲😋😛😜🤪😝🤑🤗🤭🤫🤔🤐🤨😐😑😶😏😒🙄😬🤥😌😔😪🤤😴😷🤒🤕🤢🤮🤧🥵🥶🥴😵🤯🤠🥳🥸😎🤓🧐",
+                    "special_test": "Àáâãäåæçèéêë"
+                  },
+                  "quantity": {
+                    "status": "In Stock ✅",
+                    "available": 2
+                  },
+                  "shipping": {
+                    "days": "2-3 days 📅",
+                    "free": "🚚 FREE",
+                    "express": "⚡ Available"
+                  },
+                  "warranty": "1 Year 🛡️",
+                  "description": {
+                    "en": "iPhone X 📱 - responds to tap 👆, voice 🗣️, and glance 👀. Large 5.8\" Super Retina screen 🌟 with durable glass 💎. Designed to impress! ✨",
+                    "es": "iPhone X 📱 - responde a toque 👆, voz 🗣️, y mirada 👀. Gran pantalla Super Retina 5.8\" 🌟 con vidrio duradero 💎. ¡Diseñado para impresionar! ✨",
+                    "hi": "आईफोन X 📱 - टैप 👆, आवाज़ 🗣️, और नज़र 👀 पर प्रतिक्रिया। बड़ी 5.8\" सुपर रेटिना स्क्रीन 🌟 टिकाऊ कांच 💎 के साथ। प्रभावित करने के लिए डिज़ाइन! ✨",
+                    "zh": "iPhone X 📱 - 响应轻触 👆、声音 🗣️ 和眼神 👀。5.8\" Super Retina 屏幕 🌟 配耐用玻璃 💎。旨在令人印象深刻！ ✨"
+                  },
+                  "specifications": {
+                    "color": {
+                      "en": "Space Gray ⚫",
+                      "es": "Gris Espacial ⚫",
+                      "hi": "स्पेस ग्रे ⚫",
+                      "zh": "深空灰色 ⚫"
+                    },
+                    "screen": "5.8\" Super Retina 🌟",
+                    "storage": "256 GB 💾"
+                  }
+                }
+              }
+            },
+            "contentId": "7502-c",
+            "pzEnabled": true,
+            "audienceId": 7502,
+            "layoutType": "json"
+          }
+        ],
+        "gaParams": {
+          "utm_medium": "",
+          "utm_source": "",
+          "utm_content": "",
+          "utm_campaign": ""
+        },
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 7502
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 43,
+            "widgetName": "Test_1"
+          },
+          {
+            "widgetId": 49,
+            "widgetName": "Check"
+          }
+        ]
+      },
+      "fromDate": "2025-07-08T09:36:02Z",
+      "priority": 1,
+      "campaignName": "Test Conversion 2",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-08T09:36:02Z"
+    },
+    {
+      "v": 1,
+      "id": 152,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-04T10:20:58Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-110.png",
+              "actionButton": [
+                {
+                  "tc": "#040430",
+                  "bgc": "#cf10c5",
+                  "aTyp": 1,
+                  "actionName": "Chota don",
+                  "actionDeeplink": "https://ca.slack-edge.com/T046XDVMU49-U048DJVUL2Y-eee1efc19b76-512"
+                }
+              ]
+            },
+            "contentId": "9370-c",
+            "pzEnabled": false,
+            "audienceId": 9370,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 9370
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 182,
+            "widgetName": "CG_Image_P"
+          }
+        ]
+      },
+      "fromDate": "2025-07-04T10:20:58Z",
+      "priority": 1,
+      "campaignName": "Chandu test campaign",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-04T18:47:22Z"
+    },
+    {
+      "v": 1,
+      "id": 143,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-03T13:35:25Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://m.media-amazon.com/images/G/31/img24/Fashion/AF/3.0/Luggagesbcpc/Travel_luggage._CB554955045_.png",
+              "actionButton": [
+                {
+                  "tc": "#6F6F8D",
+                  "bgc": "#FFCF5C",
+                  "aTyp": 1,
+                  "actionName": "CTA",
+                  "actionDeeplink": "smartech://profile"
+                }
+              ]
+            },
+            "contentId": "1918-c",
+            "pzEnabled": false,
+            "audienceId": 1918,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 1918
+          }
+        ],
+        "controlGroup": 82
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 182,
+            "widgetName": "CG_Image_P"
+          }
+        ]
+      },
+      "fromDate": "2025-07-03T13:35:25Z",
+      "priority": 1,
+      "campaignName": "Copy:3 Jul 2025 @7:04pm-APZ_With_CG",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-03T13:35:25Z"
+    },
+    {
+      "v": 1,
+      "id": 129,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-02T17:42:27Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "[%__product.url$Checkout$test_eaut_act__%]"
+            },
+            "contentId": "2311-c",
+            "pzEnabled": true,
+            "audienceId": 2311,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 2311
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 171,
+            "widgetName": "PZImageOnly_Actvity"
+          }
+        ]
+      },
+      "fromDate": "2025-07-02T17:42:27Z",
+      "priority": 1,
+      "campaignName": "PZImage_Activity",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-02T17:42:27Z"
+    },
+    {
+      "v": 1,
+      "id": 128,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-02T16:53:51Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [
+              25,
+              -1
+            ],
+            "payload": {
+              "mediaUrl": "[%__CITY$netcore_user_attribute$https://m.media-amazon.com/images/G/31/img24/Fashion/AF/BAU/Winterflip/Unrec/tophero/PC/Deals_on_1_lakh_styles._CB542298117_.jpg__%]",
+              "actionButton": [
+                {
+                  "tc": "#712f3f",
+                  "bgc": "#1f7384b0",
+                  "aTyp": 2,
+                  "ctxt": null,
+                  "actionName": "URL_P",
+                  "actionDeeplink": null
+                },
+                {
+                  "tc": "#3232b1",
+                  "bgc": "#FFCF5C",
+                  "aTyp": 3,
+                  "actionName": "Copy_P",
+                  "actionDeeplink": ""
+                }
+              ]
+            },
+            "contentId": "9505-c",
+            "pzEnabled": true,
+            "audienceId": 9505,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": {
+          "utm_medium": "",
+          "utm_source": "",
+          "utm_content": "",
+          "utm_campaign": ""
+        },
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 9505
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 164,
+            "widgetName": "PZImage_AB2"
+          }
+        ]
+      },
+      "fromDate": "2025-07-02T16:53:51Z",
+      "priority": 1,
+      "campaignName": "PZimeg_AB2",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-02T16:53:51Z"
+    },
+    {
+      "v": 1,
+      "id": 121,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-02T16:18:17Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [
+              25
+            ],
+            "payload": {
+              "mediaUrl": "[%__CITY$netcore_user_attribute$https://m.media-amazon.com/images/I/51eTbpb7a6S.jpg__%]",
+              "actionButton": [
+                {
+                  "tc": "#3d3d8a",
+                  "bgc": "#26bb3d",
+                  "aTyp": 1,
+                  "actionName": "Deeplink",
+                  "actionDeeplink": "[%__CITY$netcore_user_attribute$https://m.media-amazon.com/images/I/51eTbpb7a6S.jpg__%]"
+                }
+              ]
+            },
+            "contentId": "2744-c",
+            "pzEnabled": true,
+            "audienceId": 2744,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 2744
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 163,
+            "widgetName": "PZImage_AB1"
+          }
+        ]
+      },
+      "fromDate": "2025-07-02T16:18:17Z",
+      "priority": 1,
+      "campaignName": "PZImage_AB1",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-02T16:18:17Z"
+    },
+    {
+      "v": 1,
+      "id": 120,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-02T10:59:08Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "json": {
+                "product": {
+                  "url": "https://cdnt.netcoresmartech.com/smartechapp-sdk/inapp-message/img/iphone-x.webp",
+                  "name": "Apple iPhone X - 256 GB",
+                  "prid": 100,
+                  "color": "Space Gray",
+                  "price": 76900,
+                  "company": "Apple",
+                  "category": "Electronics",
+                  "currency": "₹",
+                  "quantity": 2,
+                  "Name_edit": "Edit 1",
+                  "description": "Meet the iPhone X - the device that's so smart that it responds to a tap, your voice, and even a glance. Elegantly designed with a large 14.73 cm 5.8 Super Retina screen and a durable front-and-back glass, this smartphone is designed to impress. "
+                }
+              }
+            },
+            "contentId": "9926-c",
+            "pzEnabled": false,
+            "audienceId": 9926,
+            "layoutType": "json"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "21:00",
+                "from": "09:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 9926
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 43,
+            "widgetName": "Test_1"
+          }
+        ]
+      },
+      "fromDate": "2025-07-02T10:59:08Z",
+      "priority": 1,
+      "campaignName": "JusttoChecksync",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-02T10:59:08Z"
+    },
+    {
+      "v": 1,
+      "id": 114,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-02T10:39:52Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [
+              -1,
+              2,
+              28
+            ],
+            "payload": {
+              "json": {
+                "json": {
+                  "event": {
+                    "url": "[%__product.url$add_to_cart$default-value__%]",
+                    "name": "[%__product.name$add_to_cart$default-value__%]",
+                    "prid": "[%__product.prid$add_to_cart$default-value__%]",
+                    "color": "[%__product.color$add_to_cart$Space default-value__%]",
+                    "price": "[%__product.price$add_to_cart$default-value__%]",
+                    "company": "[%__product.company$add_to_cart$default-value__%]",
+                    "category": "[%__product.category$add_to_cart$default-value__%]",
+                    "currency": "[%__product.currency$add_to_cart$default-value__%]",
+                    "quantity": "[%__product.quantity$add_to_cart$default-value__%]",
+                    "description": "[%__product.description$add_to_cart$default-value__%]"
+                  },
+                  "userAttributes": {
+                    "email": "[%__email$netcore_user_attribute$default-user-attribute__%]",
+                    "firstname": "[%__firstname$netcore_user_attribute$default-user-attribute__%]",
+                    "user_banner_code": "[%__user_banner_code$netcore_user_attribute$default-user-attribute__%]"
+                  }
+                }
+              }
+            },
+            "contentId": "3492-c",
+            "pzEnabled": true,
+            "audienceId": 3492,
+            "layoutType": "json"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 3492
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 0,
+            "widgetName": null
+          }
+        ]
+      },
+      "fromDate": "2025-07-02T10:39:52Z",
+      "priority": 1,
+      "campaignName": "Json_P",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-02T10:39:52Z"
+    },
+    {
+      "v": 1,
+      "id": 113,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-01T17:36:16Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://m.media-amazon.com/images/I/31ZVkmyVw3L._SX300_SY300_QL70_FMwebp_.jpg",
+              "actionButton": [
+                {
+                  "bgc": "#6694f2",
+                  "aTyp": 1,
+                  "actionName": "Deeplink",
+                  "actionDeeplink": "smartech://profile"
+                },
+                {
+                  "bgc": "#FFCF5C",
+                  "aTyp": 2,
+                  "actionName": "Copy_Text",
+                  "actionDeeplink": ""
+                }
+              ]
+            },
+            "contentId": "8085-c",
+            "pzEnabled": false,
+            "audienceId": 8085,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 8085
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 139,
+            "widgetName": "Image_AB2"
+          }
+        ]
+      },
+      "fromDate": "2025-07-01T17:36:16Z",
+      "priority": 1,
+      "campaignName": "Image content - Action Button - 2",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-01T17:36:16Z"
+    },
+    {
+      "v": 1,
+      "id": 112,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-02T13:09:43Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "json": {
+                "product": {
+                  "url": "https://cdnt.netcoresmartech.com/smartechapp-sdk/inapp-message/img/iphone-x.webp",
+                  "name": "Apple iPhone X - 256 GB",
+                  "prid": 100,
+                  "color": "Space Gray",
+                  "price": 76900,
+                  "company": "Apple",
+                  "category": "Electronics",
+                  "currency": "₹",
+                  "quantity": 2,
+                  "description": "Meet the iPhone X - the device that's so smart that it responds to a tap, your voice, and even a glance. Elegantly designed with a large 14.73 cm 5.8 Super Retina screen and a durable front-and-back glass, this smartphone is designed to impress. "
+                }
+              }
+            },
+            "contentId": "3492-c",
+            "pzEnabled": false,
+            "audienceId": 3492,
+            "layoutType": "json"
+          }
+        ],
+        "gaParams": {
+          "utm_medium": "",
+          "utm_source": "",
+          "utm_content": "",
+          "utm_campaign": ""
+        },
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 3492
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 141,
+            "widgetName": "Json_NP"
+          }
+        ]
+      },
+      "fromDate": "2025-07-02T13:09:43Z",
+      "priority": 1,
+      "campaignName": "Json_NP",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-02T13:09:43Z"
+    },
+    {
+      "v": 1,
+      "id": 111,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-02T16:21:49Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [
+              25
+            ],
+            "payload": {
+              "mediaUrl": "[%__CITY$netcore_user_attribute$https://m.media-amazon.com/images/I/41v90T8y4cL.AC_SX250.jpg__%]"
+            },
+            "contentId": "3492-c",
+            "pzEnabled": true,
+            "audienceId": 3492,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 3492
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 140,
+            "widgetName": "PZImage"
+          }
+        ]
+      },
+      "fromDate": "2025-07-02T16:21:49Z",
+      "priority": 1,
+      "campaignName": "Personalize ImageONly",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-02T16:21:49Z"
+    },
+    {
+      "v": 1,
+      "id": 110,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-01T17:24:31Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://m.media-amazon.com/images/I/31ZVkmyVw3L._SX300_SY300_QL70_FMwebp_.jpg",
+              "actionButton": [
+                {
+                  "bgc": "#6694f2",
+                  "aTyp": 1,
+                  "actionName": "Deeplink",
+                  "actionDeeplink": "smartech://profile"
+                }
+              ]
+            },
+            "contentId": "8085-c",
+            "pzEnabled": false,
+            "audienceId": 8085,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 8085
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 138,
+            "widgetName": "Image_AB1"
+          }
+        ]
+      },
+      "fromDate": "2025-07-01T17:24:31Z",
+      "priority": 1,
+      "campaignName": "Image content - Action Button - 1",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-01T17:24:31Z"
+    },
+    {
+      "v": 1,
+      "id": 109,
+      "os": "ios",
+      "status": "running",
+      "toDate": "2030-07-01T17:12:51Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "payload": {
+              "mediaUrl": "https://m.media-amazon.com/images/G/31/img24/Fresh/June/Daawat/Atta_Rice__grains.jpg"
+            },
+            "contentId": "8085-c",
+            "pzEnabled": false,
+            "audienceId": 8085,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": [],
+        "customKeyValue": []
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 8085
+          }
+        ],
+        "controlGroup": 0
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 137,
+            "widgetName": "ImageOnly"
+          }
+        ]
+      },
+      "fromDate": "2025-07-01T17:12:51Z",
+      "priority": 1,
+      "campaignName": "ImageOnly - 1",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-01T17:12:51Z"
+    }
+  ],
+  "cpzRulesTest_v1": [
+    {
+      "v": 1,
+      "id": 247,
+      "os": "ios",
+      "status": "draft",
+      "toDate": "2030-07-11T15:50:04Z",
+      "whatTo": {
+        "content": [
+          {
+            "attrIds": [],
+            "contentId": "5992-c",
+            "audienceId": 5992,
+            "payload": {
+              "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-128.png"
+            },
+            "pzEnabled": false,
+            "layoutType": "image"
+          }
+        ],
+        "gaParams": {},
+        "customKeyValue": {}
+      },
+      "whenTo": {
+        "schedule": [
+          {
+            "day": 0,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:00"
+              }
+            ]
+          }
+        ]
+      },
+      "whomTo": {
+        "guid": [
+          "0DB9159B-1D7F-458A-8C35-0EB53299BBA4"
+        ],
+        "audience": [
+          {
+            "events": {
+              "rules": [],
+              "targetRule": "all"
+            },
+            "filters": {
+              "exclude": {
+                "segIds": [],
+                "listIds": []
+              },
+              "include": {
+                "segIds": [],
+                "listIds": []
+              }
+            },
+            "priority": 1,
+            "audienceId": 5992
+          }
+        ],
+        "controlGroup": 25
+      },
+      "whereTo": {
+        "trigger": [
+          {
+            "widgetId": 234,
+            "widgetName": "Nag_CV_iOS_01"
+          }
+        ]
+      },
+      "fromDate": "2025-07-11T15:50:04Z",
+      "priority": 1,
+      "campaignName": "Test Device-iOS",
+      "campaignType": "regular",
+      "modifiedDate": "2025-07-11T15:49:56Z"
+    }
+  ]
+}
