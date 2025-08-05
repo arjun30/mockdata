@@ -133,7 +133,7 @@
       "priority": 1,
       "campaignName": "Test Integration Testing",
       "campaignType": "regular",
-      "modifiedDate": "2025-06-18T05:32:53Z"
+      "modifiedDate": "2025-06-18T05:35:53Z"
     },
     {
       "v": "1",
@@ -316,7 +316,7 @@
       "priority": 1,
       "campaignName": "Test Json App Pz 3",
       "campaignType": "regular",
-      "modifiedDate": "2025-06-18T05:32:53Z"
+      "modifiedDate": "2025-06-18T05:39:53Z"
     }
   ],
   "cpzRules_test_v1": []
