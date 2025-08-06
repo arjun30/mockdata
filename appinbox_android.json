@@ -1,0 +1,52 @@
+{
+  "inbox_count": 1,
+  "inbox": [
+    {
+      "expiry": 1759754038000,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "test1",
+        "app_inbox_ttl": "2025-10-06T11:00:10",
+        "attrParams": {
+          "__sta": "cj.ddxgdg%7CYYJV",
+          "__stm_id": 2566,
+          "__stm_medium": "apn",
+          "__stm_source": "smartech"
+        },
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1759754038,
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "d2e8d782-c339-4e9a-a08e-b23209c54192"
+        },
+        "publishedDate": "2025-10-06T11:00:31",
+        "sound": true,
+        "status": "sent",
+        "subtitle": "",
+        "timestamp": "1759754038000",
+        "title": "Timer template testing",
+        "trid": "140578-2566-949-0-250408163034",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1,
+        "tim": {
+          "bgc": "#FFCF5C",
+          "et": "2025-10-06T11:57:16",
+          "ft": "Sale is over",
+          "rel_val": [],
+          "tc": "#000000",
+          "timer": "Specific_date_and_time",
+          "ty": 1
+        }
+      }
+    }
+  ],
+  "message": "success",
+  "code": 200
+}
