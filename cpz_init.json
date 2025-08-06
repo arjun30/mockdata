@@ -25,8 +25,8 @@
             "layoutType": "image"
           }
         ],
-        "gaParams": [],
-        "customKeyValue": []
+        "gaParams": {},
+        "customKeyValue": {}
       },
       "whenTo": {
         "schedule": [
@@ -220,17 +220,62 @@
             "layoutType": "json"
           }
         ],
-        "gaParams": [],
-        "customKeyValue": []
+        "gaParams": {},
+        "customKeyValue": {}
       },
       "whenTo": {
         "schedule": [
-          {
+         {
             "day": 0,
             "time": [
               {
                 "to": "23:59",
-                "from": "18:00"
+                "from": "00:01"
+              }
+            ]
+          },
+          {
+            "day": 1,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:01"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:01"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:01"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:01"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "time": [
+              {
+                "to": "23:59",
+                "from": "00:01"
               }
             ]
           },
@@ -239,7 +284,7 @@
             "time": [
               {
                 "to": "23:59",
-                "from": "03:00"
+                "from": "00:01"
               }
             ]
           }
@@ -259,7 +304,7 @@
                 "listIds": []
               },
               "include": {
-                "segIds": [591],
+                "segIds": [],
                 "listIds": []
               }
             },
@@ -282,11 +327,11 @@
             },
             "filters": {
               "exclude": {
-                "segIds": [555],
+                "segIds": [],
                 "listIds": []
               },
               "include": {
-                "segIds": [555],
+                "segIds": [],
                 "listIds": []
               }
             },
