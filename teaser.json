@@ -143,7 +143,7 @@
       "id": "765",
       "toDate": "2027-12-30T07:45:24",
       "fromDate": "2025-10-06T09:24:35",
-      "modifiedDate": "2025-10-06T09:24:38",
+      "modifiedDate": "2025-10-06T09:24:39",
       "frequencyType": "",
       "frequency": "0",
       "whomTo": {
@@ -193,7 +193,7 @@
         "attrIds": [],
         "teaser": {
           "url":"https://www.google.com",
-          "p": 9,
+          "p": 5,
           "w": 200,
           "h" : 300
         }
