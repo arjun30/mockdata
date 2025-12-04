@@ -1,56 +1,303 @@
 {
-    "inboxCount": 1,
-    "inbox": [
-        {
-            "aps": {
-                "alert": {
-                    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-                    "subtitle": "",
-                    "title": "Timer template testing"
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
-            "smtCustomPayload": {},
-            "smtPayload": {
-                "actionButton": [],
-                "inboxCategory": "test1",
-                "inboxExpiry": "2026-07-19T06:03:40",
-                "attrParams": {
-                    "__sta": "%7CTYJV",
-                    "__stm_id": 2567,
-                    "__stm_medium": "apn",
-                    "__stm_source": "smartech"
-                },
-                "carousel": [],
-                "deeplink": "",
-                "mediaUrl": "",
-                "pnMeta": {
-                    "guid": "6B29002A-A7A9-4939-BC1E-709EE734418D"
-                },
-                "publishedDate": "2025-12-03T06:03:40",
-                "status": "sent",
-                "timestamp": "1764741794000",
-                "trid": "140578-2567-0-0-250408164635-A",
-                "type": "Simple"
-            },
-            "smtSrc": "Smartech",
-            "smtUi": {
-                "flid": 1,
-                "lid": 1,
-                "tim": {
-                    "bgc": "#FFCF5C",
-                    "et": "2025-12-19T06:10:36",
-                    "ft": "Sale is over",
-                    "rel_val": [],
-                    "tc": "#000000",
-                    "timer": "Specific_date_and_time",
-                    "ty": 1
-                }
-            }
-        }
-    ],
-    "message": "success",
-    "code": 200
+  "inbox_count": 8,
+  "inbox": [
+    {
+      "aps": {
+        "alert": {
+          "body": "Test",
+          "subtitle": "",
+          "title": "Flutter 1711251342"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "expiry": 1763453560,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "offer",
+        "app_inbox_ttl": "2025-12-15T13:41:32",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1763453560,
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "641C002C-1EAC-49DB-86A4-085B1E8D4FD6"
+        },
+        "publishedDate": "2025-11-17T13:42:39",
+        "status": "sent",
+        "timestamp": "1763367160298",
+        "trid": "140578-2934-774-0-2025111713423999-T",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "Test",
+          "subtitle": "",
+          "title": "Flutter Notification 171125"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "expiry": 1765786270,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "offer",
+        "app_inbox_ttl": "2025-12-15T08:11:32",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1765786270,
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "641C002C-1EAC-49DB-86A4-085B1E8D4FD6"
+        },
+        "publishedDate": "2025-11-17T08:11:50",
+        "status": "sent",
+        "timestamp": "1763367120544",
+        "trid": "140578-2933-774-0-251117134153",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "Flutter Notification",
+          "subtitle": "",
+          "title": "Flutter Notification 13111525"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "expiry": 1765446671,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "offer",
+        "app_inbox_ttl": "2025-12-11T09:37:30",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1765446671,
+        "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-118.png",
+        "pnMeta": {
+          "guid": "641C002C-1EAC-49DB-86A4-085B1E8D4FD6"
+        },
+        "publishedDate": "2025-11-13T09:56:03",
+        "status": "sent",
+        "timestamp": "1763027774765",
+        "trid": "140578-2906-774-0-251113152606",
+        "type": "Image"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 21,
+        "lid": 21
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "Flutter Notification",
+          "subtitle": "",
+          "title": "Flutter Notification 13111515"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "expiry": 1765446200,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "arjun",
+        "app_inbox_ttl": "2025-12-11T09:37:30",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1765446200,
+        "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-117.png",
+        "pnMeta": {
+          "guid": "641C002C-1EAC-49DB-86A4-085B1E8D4FD6"
+        },
+        "publishedDate": "2025-11-13T09:46:16",
+        "status": "sent",
+        "timestamp": "1763027196856",
+        "trid": "140578-2905-774-0-251113151620",
+        "type": "Image"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 21,
+        "lid": 21
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "Flutter Notification",
+          "subtitle": "",
+          "title": "Flutter Notification 13111597"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "expiry": 1765445830,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "arjun",
+        "app_inbox_ttl": "2025-12-11T09:37:30",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1765445830,
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "641C002C-1EAC-49DB-86A4-085B1E8D4FD6"
+        },
+        "publishedDate": "2025-11-13T09:37:51",
+        "status": "sent",
+        "timestamp": "1763026681672",
+        "trid": "140578-2904-774-0-251113150754",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "Image",
+          "subtitle": "",
+          "title": "Flutter Notification"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "expiry": 1765445171,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "offer",
+        "app_inbox_ttl": "2025-12-11T09:26:37",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1765445171,
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "641C002C-1EAC-49DB-86A4-085B1E8D4FD6"
+        },
+        "publishedDate": "2025-11-13T09:27:04",
+        "status": "sent",
+        "timestamp": "1763026035929",
+        "trid": "140578-2903-774-0-251113145708",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "Flutter platform",
+          "subtitle": "",
+          "title": "Flutter Notification 131442"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "expiry": 1765444340,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "overlay",
+        "app_inbox_ttl": "2025-12-11T09:12:22",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1765444340,
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "641C002C-1EAC-49DB-86A4-085B1E8D4FD6"
+        },
+        "publishedDate": "2025-11-13T09:12:43",
+        "status": "sent",
+        "timestamp": "1763025183562",
+        "trid": "140578-2902-774-0-251113144246",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "Push Notification campaign",
+          "subtitle": "",
+          "title": "Flutter Notification 03"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "expiry": 1765427351,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "offer",
+        "app_inbox_ttl": "2025-12-11T04:27:53",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1765427351,
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "641C002C-1EAC-49DB-86A4-085B1E8D4FD6"
+        },
+        "publishedDate": "2025-11-13T04:31:22",
+        "status": "sent",
+        "timestamp": "1763008293314",
+        "trid": "140578-2900-774-0-251113100125",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    }
+  ],
+  "message": "success",
+  "code": 200
 }
