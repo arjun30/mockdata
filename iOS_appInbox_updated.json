@@ -1,6 +1,55 @@
 {
-    "inboxCount": 16,
+    "inboxCount": 17,
     "inbox": [
+        {
+            "aps": {
+                "alert": {
+                    "body": "Test overlay on image campaign body. Live the Life of Your Dreams. Step outside your comfort zone.",
+                    "subtitle": "Test overlay campgn subtitle.",
+                    "title": "Test overlay on image campaign title. Shift your energy to what you can create."
+                },
+                "category": "SmartechPN",
+                "mutable-content": 1,
+                "sound": ""
+            },
+            "expiry": 1764584232,
+            "smtCustomPayload": {},
+            "smtPayload": {
+                "actionButton": [],
+                "inboxCategory": "TestAk",
+                "inboxExpiry": "2026-07-19T06:03:40",
+                "attrParams": {},
+                "carousel": [],
+                "deeplink": "",
+                "expiry": 1764584232,
+                "htB": "Test <em class=\"itallic\"><strong class=\"bold\"><span class=\"color\" style=\"color: #1de936;\">overlay</span></strong></em> on <em class=\"itallic\"><span class=\"bgcolor\" style=\"background-color: #5565d8;\"><span class=\"color\" style=\"color: #fdfcff;\">image</span></span></em> <span class=\"color\" style=\"color: #5c1de9;\">campaign</span> <u class=\"underline\">body</u>.&nbsp;<strong class=\"bold\"><em class=\"itallic\"><u class=\"underline\"><span class=\"color\" style=\"color: #ba5757;\">Live</span> the <span class=\"color\" style=\"color: #519135;\">Life</span> of Your <span class=\"color\" style=\"color: #356f91;\">Dreams</span></u></em></strong>.&nbsp;<strong class=\"bold\"><u class=\"underline\"><span class=\"color\" style=\"color: #e94d1d;\">Step</span></u></strong> outside your <em class=\"itallic\"><u class=\"underline\">comfort</u></em> zone.",
+                "htS": "<strong class=\"bold\">Test</strong> <strong class=\"bold\"><em class=\"itallic\"><u class=\"underline\"><span class=\"bgcolor\" style=\"background-color: #267ed4;\"><span class=\"color\" style=\"color: #f8f8f8;\">overlay</span></span></u></em></strong> campgn <em class=\"itallic\"><span class=\"color\" style=\"color: #ee1717;\">subtitle</span></em>.",
+                "htT": "<strong class=\"bold\">Test</strong> <span class=\"color\" style=\"color: #b54242;\">o</span><span class=\"color\" style=\"color: #b54242;\">verlay on </span><u class=\"underline\"><span class=\"color\" style=\"color: #b54242;\"><strong class=\"bold\">image</strong></span></u><span class=\"color\" style=\"color: #b54242;\"> </span><em class=\"itallic\"><span class=\"color\" style=\"color: #b54242;\">ca</span><span class=\"color\" style=\"color: #b54242;\">mpaign</span></em> <u class=\"underline\">title</u>.&nbsp;<strong class=\"bold\">Shift</strong> <span class=\"color\" style=\"color: #848a0c;\">your</span> <em class=\"itallic\"><strong class=\"bold\"><span class=\"color\" style=\"color: #304aae;\">energy</span></strong></em> <u class=\"underline\">to</u> <u class=\"underline\"><span class=\"color\" style=\"color: #a230ae;\">what</span></u> you can <u class=\"underline\"><span class=\"color\" style=\"color: #30ae70;\">create</span></u>.",
+                "mediaUrl": "https://cdn.shopify.com/s/files/1/0554/0718/2011/files/00435938_950.png",
+                "pnMeta": {
+                    "guid": "41B4D66E-6A1E-4CD4-81C6-B8FB4E726DD3"
+                },
+                "publishedDate": "2025-11-03T10:55:33",
+                "status": "sent",
+                "timestamp": "1762167345210",
+                "trid": "140578-2879-1092-0-251103162537",
+                "type": "Image"
+            },
+            "smtSrc": "Smartech",
+            "smtUi": {
+                "bgc": "#ea9696",
+                "flid": 21,
+                "lid": 23,
+                "lui": {
+                    "olgc": [
+                        "1",
+                        "#ffffffff",
+                        "#a6e0cbff",
+                        "90"
+                    ]
+                }
+            }
+        },
         {
             "aps": {
                 "alert": {
