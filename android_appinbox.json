@@ -4,7 +4,7 @@
     {
       "actionButton": [],
       "app_inbox_category": "test1",
-      "app_inbox_ttl": "2025-02-28T10:10:13",
+      "app_inbox_ttl": "2026-02-28T10:10:13",
       "attrParams": {
         "__sta": "%7CQVQI",
         "__stm_id": 1828,
@@ -17,21 +17,21 @@
       "expiry": 1740132442,
       "image": "",
       "message": "inbox 6",
-      "publishedDate": "2025-02-21T10:10:30",
+      "publishedDate": "2025-12-03T10:10:30",
       "smtCustomPayload": {},
       "smtSrc": "Smartech",
       "sound": true,
       "status": "sent",
       "subtitle": "",
-      "timestamp": "1740132442000",
-      "title": "KrTest - inbo x",
+      "timestamp": "1764756194000",
+      "title": "AppInbox Notification 1",
       "trid": "140578-1828-0-0-240307154033-AR",
       "type": "Simple"
     },
     {
       "actionButton": [],
       "app_inbox_category": "test1",
-      "app_inbox_ttl": "2025-04-04T10:10:13",
+      "app_inbox_ttl": "2026-04-04T10:10:13",
       "attrParams": {
         "__sta": "%7CBVQI",
         "__stm_id": 1829,
@@ -44,14 +44,14 @@
       "expiry": 1740132442,
       "image": "",
       "message": "inbox 7",
-      "publishedDate": "2025-02-21T10:12:41",
+      "publishedDate": "2025-12-03T10:12:41",
       "smtCustomPayload": {},
       "smtSrc": "Smartech",
       "sound": true,
       "status": "sent",
       "subtitle": "",
-      "timestamp": "1740132442000",
-      "title": "KrTest - inbo 7",
+      "timestamp": "1764756194000",
+      "title": "AppInbox Notification 2",
       "trid": "140578-1829-0-0-240307154244-AR",
       "type": "Simple"
     }
