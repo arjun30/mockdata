@@ -2,16 +2,6 @@
     "inboxCount": 17,
     "inbox": [
         {
-            "aps": {
-                "alert": {
-                    "body": "Test overlay on image campaign body. Live the Life of Your Dreams. Step outside your comfort zone.",
-                    "subtitle": "Test overlay campgn subtitle.",
-                    "title": "Test overlay on image campaign title. Shift your energy to what you can create."
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "expiry": 1764584232,
             "smtCustomPayload": {},
             "smtPayload": {
@@ -22,6 +12,9 @@
                 "carousel": [],
                 "deeplink": "",
                 "expiry": 1764584232,
+                "body": "Test overlay on image campaign body. Live the Life of Your Dreams. Step outside your comfort zone.",
+                "subtitle": "Test overlay campgn subtitle.",
+                "title": "Test overlay on image campaign title. Shift your energy to what you can create.",
                 "htB": "Test <em class=\"itallic\"><strong class=\"bold\"><span class=\"color\" style=\"color: #1de936;\">overlay</span></strong></em> on <em class=\"itallic\"><span class=\"bgcolor\" style=\"background-color: #5565d8;\"><span class=\"color\" style=\"color: #fdfcff;\">image</span></span></em> <span class=\"color\" style=\"color: #5c1de9;\">campaign</span> <u class=\"underline\">body</u>.&nbsp;<strong class=\"bold\"><em class=\"itallic\"><u class=\"underline\"><span class=\"color\" style=\"color: #ba5757;\">Live</span> the <span class=\"color\" style=\"color: #519135;\">Life</span> of Your <span class=\"color\" style=\"color: #356f91;\">Dreams</span></u></em></strong>.&nbsp;<strong class=\"bold\"><u class=\"underline\"><span class=\"color\" style=\"color: #e94d1d;\">Step</span></u></strong> outside your <em class=\"itallic\"><u class=\"underline\">comfort</u></em> zone.",
                 "htS": "<strong class=\"bold\">Test</strong> <strong class=\"bold\"><em class=\"itallic\"><u class=\"underline\"><span class=\"bgcolor\" style=\"background-color: #267ed4;\"><span class=\"color\" style=\"color: #f8f8f8;\">overlay</span></span></u></em></strong> campgn <em class=\"itallic\"><span class=\"color\" style=\"color: #ee1717;\">subtitle</span></em>.",
                 "htT": "<strong class=\"bold\">Test</strong> <span class=\"color\" style=\"color: #b54242;\">o</span><span class=\"color\" style=\"color: #b54242;\">verlay on </span><u class=\"underline\"><span class=\"color\" style=\"color: #b54242;\"><strong class=\"bold\">image</strong></span></u><span class=\"color\" style=\"color: #b54242;\"> </span><em class=\"itallic\"><span class=\"color\" style=\"color: #b54242;\">ca</span><span class=\"color\" style=\"color: #b54242;\">mpaign</span></em> <u class=\"underline\">title</u>.&nbsp;<strong class=\"bold\">Shift</strong> <span class=\"color\" style=\"color: #848a0c;\">your</span> <em class=\"itallic\"><strong class=\"bold\"><span class=\"color\" style=\"color: #304aae;\">energy</span></strong></em> <u class=\"underline\">to</u> <u class=\"underline\"><span class=\"color\" style=\"color: #a230ae;\">what</span></u> you can <u class=\"underline\"><span class=\"color\" style=\"color: #30ae70;\">create</span></u>.",
@@ -51,16 +44,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-                    "subtitle": "",
-                    "title": "Timer template testing"
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "smtCustomPayload": {},
             "smtPayload": {
                 "actionButton": [],
@@ -82,7 +65,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2567-0-0-250408164635-A",
-                "type": "Simple"
+                "type": "Simple",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+                "subtitle": "",
+                "title": "Timer template testing"
             },
             "smtSrc": "Smartech",
             "smtUi": {
@@ -100,16 +86,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-                    "subtitle": "",
-                    "title": "Image Timer template testing"
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "smtCustomPayload": {},
             "smtPayload": {
                 "actionButton": [],
@@ -131,7 +107,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2568-732-0-250408170605",
-                "type": "Image"
+                "type": "Image",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+                "subtitle": "",
+                "title": "Image Timer template testing"
             },
             "smtSrc": "Smartech",
             "smtUi": {
@@ -149,16 +128,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                    "subtitle": "",
-                    "title": "Aduio Timer template testing"
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "smtCustomPayload": {},
             "smtPayload": {
                 "actionButton": [],
@@ -180,7 +149,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2569-732-0-250408172357",
-                "type": "Audio"
+                "type": "Audio",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "subtitle": "",
+                "title": "Aduio Timer template testing"
             },
             "smtSrc": "Smartech",
             "smtUi": {
@@ -198,16 +170,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-                    "subtitle": "",
-                    "title": "GIF Timer template testing"
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "smtCustomPayload": {},
             "smtPayload": {
                 "actionButton": [],
@@ -229,7 +191,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2578-732-0-250408185110",
-                "type": "Gif"
+                "type": "Gif",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+                "subtitle": "",
+                "title": "GIF Timer template testing"
             },
             "smtSrc": "Smartech",
             "smtUi": {
@@ -247,16 +212,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-                    "subtitle": "",
-                    "title": "GIF Timer template testing"
-                },
-                "category": "SmartechCarouselLandscapeNotification",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "smtCustomPayload": {},
             "smtPayload": {
                 "actionButton": [],
@@ -295,7 +250,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2579-732-0-250408185438",
-                "type": "CarouselLandscape"
+                "type": "CarouselLandscape",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+                "subtitle": "",
+                "title": "GIF Timer template testing"
             },
             "smtSrc": "Smartech",
             "smtUi": {
@@ -313,16 +271,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-                    "subtitle": "",
-                    "title": "Portrait carousel Timer template testing"
-                },
-                "category": "SmartechCarouselPortraitNotification",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "smtCustomPayload": {},
             "smtPayload": {
                 "actionButton": [],
@@ -361,7 +309,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2580-732-0-250408185854",
-                "type": "CarouselPortrait"
+                "type": "CarouselPortrait",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+                "subtitle": "",
+                "title": "Portrait carousel Timer template testing"
             },
             "smtSrc": "Smartech",
             "smtUi": {
@@ -379,16 +330,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet (which has vertical scrolling) or using a different tool altogether for presenting that specific information.",
-                    "subtitle": "",
-                    "title": "Background color testing"
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "expiry": 1747033631,
             "smtCustomPayload": {},
             "smtPayload": {
@@ -412,7 +353,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2592-732-0-250414123746",
-                "type": "Image"
+                "type": "Image",
+                "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet (which has vertical scrolling) or using a different tool altogether for presenting that specific information.",
+                "subtitle": "",
+                "title": "Background color testing"
             },
             "smtSrc": "Smartech",
             "smtUi": {
@@ -422,16 +366,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet (which has vertical scrolling) or using a different tool altogether for presenting that specific information.",
-                    "subtitle": "",
-                    "title": "Testing background gradient "
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "expiry": 1747034770,
             "smtCustomPayload": {},
             "smtPayload": {
@@ -455,7 +389,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2593-732-0-250414125655",
-                "type": "Simple"
+                "type": "Simple",
+                "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet (which has vertical scrolling) or using a different tool altogether for presenting that specific information.",
+                "subtitle": "",
+                "title": "Testing background gradient "
             },
             "smtSrc": "Smartech",
             "smtUi": {
@@ -470,16 +407,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet",
-                    "subtitle": "",
-                    "title": "Progress bar testing "
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "smtCustomPayload": {},
             "smtPayload": {
                 "actionButton": [],
@@ -501,7 +428,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2570-732-0-250408173501",
-                "type": "Simple"
+                "type": "Simple",
+                "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet",
+                "subtitle": "",
+                "title": "Progress bar testing "
             },
             "smtSrc": "Smartech",
             "smtUi": {
@@ -520,16 +450,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet",
-                    "subtitle": "",
-                    "title": "Progress bar testing "
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "smtCustomPayload": {},
             "smtPayload": {
                 "actionButton": [],
@@ -551,7 +471,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2571-732-0-250408174613",
-                "type": "Image"
+                "type": "Image",
+                "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet",
+                "subtitle": "",
+                "title": "Progress bar testing "
             },
             "smtSrc": "Smartech",
             "smtUi": {
@@ -570,16 +493,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet (which has vertical scrolling) ",
-                    "subtitle": "",
-                    "title": "Small Product Image Template Testing "
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "expiry": 1746534130,
             "smtCustomPayload": {},
             "smtPayload": {
@@ -611,7 +524,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2572-732-0-250408175224",
-                "type": "Image"
+                "type": "Image",
+                "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet (which has vertical scrolling) ",
+                "subtitle": "",
+                "title": "Small Product Image Template Testing "
             },
             "smtSrc": "Smartech",
             "smtUi": {
@@ -633,16 +549,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding ",
-                    "subtitle": "",
-                    "title": "This is Edge To Edge Image template"
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "expiry": 1746534490,
             "smtCustomPayload": {},
             "smtPayload": {
@@ -666,7 +572,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2573-732-0-250408175838",
-                "type": "Image"
+                "type": "Image",
+                "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding ",
+                "subtitle": "",
+                "title": "This is Edge To Edge Image template"
             },
             "smtSrc": "Smartech",
             "smtUi": {
@@ -676,16 +585,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a ",
-                    "subtitle": "",
-                    "title": "Overlay on image template"
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "expiry": 1746535273,
             "smtCustomPayload": {},
             "smtPayload": {
@@ -709,7 +608,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2574-732-0-250408181129",
-                "type": "Image"
+                "type": "Image",
+                "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a ",
+                "subtitle": "",
+                "title": "Overlay on image template"
             },
             "smtSrc": "Smartech",
             "smtUi": {
@@ -721,16 +623,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet (which has vertical scrolling) or using a different tool altogether for presenting that specific information.",
-                    "subtitle": "",
-                    "title": "Text rating app inbox "
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "expiry": 1746535811,
             "smtCustomPayload": {},
             "smtPayload": {
@@ -754,7 +646,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2575-732-0-250408182025",
-                "type": "Simple"
+                "type": "Simple",
+                "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet (which has vertical scrolling) or using a different tool altogether for presenting that specific information.",
+                "subtitle": "",
+                "title": "Text rating app inbox "
             },
             "smtSrc": "Smartech",
             "smtUi": {
@@ -788,16 +683,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet (which has vertical scrolling) or using a different tool altogether for presenting that specific information.",
-                    "subtitle": "",
-                    "title": "Text rating app inbox "
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "expiry": 1746535990,
             "smtCustomPayload": {},
             "smtPayload": {
@@ -821,7 +706,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2576-732-0-250408182524",
-                "type": "Image"
+                "type": "Image",
+                "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet (which has vertical scrolling) or using a different tool altogether for presenting that specific information.",
+                "subtitle": "",
+                "title": "Text rating app inbox "
             },
             "smtSrc": "Smartech",
             "smtUi": {
@@ -838,16 +726,6 @@
             }
         },
         {
-            "aps": {
-                "alert": {
-                    "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet (which has vertical scrolling) or using a different tool altogether for presenting that specific information.",
-                    "subtitle": "",
-                    "title": "E2E carousel test "
-                },
-                "category": "SmartechPN",
-                "mutable-content": 1,
-                "sound": ""
-            },
             "expiry": 1746537132,
             "smtCustomPayload": {},
             "smtPayload": {
@@ -888,7 +766,10 @@
                 "status": "sent",
                 "timestamp": "1763532220930",
                 "trid": "140578-2577-732-0-250408184249",
-                "type": "CarouselLandscape"
+                "type": "CarouselLandscape",
+                "body": "If you absolutely need scrollable content for data that is conceptually part of a table, you might consider embedding a Google Sheet (which has vertical scrolling) or using a different tool altogether for presenting that specific information.",
+                "subtitle": "",
+                "title": "E2E carousel test "
             },
             "smtSrc": "Smartech",
             "smtUi": {
