@@ -300,7 +300,7 @@
     {
       "aps": {
         "alert": {
-          "body": "Push Notification campaign",
+          "body": "Push Notification campaign early",
           "subtitle": "",
           "title": "Flutter Notification earliest"
         },
@@ -325,7 +325,7 @@
         "publishedDate": "2025-11-12T04:31:22",
         "status": "sent",
         "timestamp": "1762921882000",
-        "trid": "140578-2900-774-0-251113100125",
+        "trid": "140578-2900-774-0-251113100129",
         "type": "Simple"
       },
       "smtSrc": "Smartech",
