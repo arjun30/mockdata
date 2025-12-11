@@ -271,16 +271,16 @@
         "mutable-content": 1,
         "sound": ""
       },
-      "expiry": 1765427351,
+      "expiry": 1766131590,
       "smtCustomPayload": {},
       "smtPayload": {
         "actionButton": [],
         "app_inbox_category": "offer",
-        "app_inbox_ttl": "2025-12-11T04:27:53",
+        "app_inbox_ttl": "2025-12-19T08:06:30",
         "attrParams": {},
         "carousel": [],
         "deeplink": "",
-        "expiry": 1765427351,
+        "expiry": 1766131590,
         "mediaUrl": "",
         "pnMeta": {
           "guid": "641C002C-1EAC-49DB-86A4-085B1E8D4FD6"
