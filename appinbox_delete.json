@@ -1,5 +1,5 @@
 {
-  "inbox_count": 2,
+  "inbox_count": 3,
   "inbox": [
     {
       "aps": {
@@ -91,6 +91,72 @@
         "tim": {
           "bgc": "#FFCF5C",
           "et": "2025-05-08T12:52:39",
+          "ft": "Sale is over",
+          "rel_val": [],
+          "tc": "#000000",
+          "timer": "Specific_date_and_time",
+          "ty": 1
+        }
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+          "subtitle": "",
+          "title": "GIF Timer template testing"
+        },
+        "category": "SmartechCarouselLandscapeNotification",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "test1",
+        "app_inbox_ttl": "2026-07-19T06:03:40",
+        "attrParams": {
+          "__sta": "vhg.qhoxsfomnbf%7CBTJV",
+          "__stm_id": 2579,
+          "__stm_medium": "apn",
+          "__stm_source": "smartech"
+        },
+        "carousel": [
+          {
+            "callToAction": "",
+            "imgDeeplink": "",
+            "imgMsg": "first slide",
+            "imgSource": "url",
+            "imgTitle": "First slide",
+            "imgUrl": "https://www.phonepe.com/webstatic/static/default-image-cf4bb5407be1a9d8c49eb9a502a245db.png"
+          },
+          {
+            "callToAction": "",
+            "imgDeeplink": "",
+            "imgMsg": "Second slide",
+            "imgSource": "url",
+            "imgTitle": "Second",
+            "imgUrl": "https://cdn.pixabay.com/photo/2023/04/05/12/37/town-7901424_1280.jpg"
+          }
+        ],
+        "deeplink": "",
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "6B29002A-A7A9-4939-BC1E-709EE734418D"
+        },
+        "publishedDate": "2025-11-19T06:03:40",
+        "status": "sent",
+        "timestamp": "1763532220930",
+        "trid": "140578-2579-732-0-250408185438",
+        "type": "CarouselLandscape"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 71,
+        "lid": 71,
+        "tim": {
+          "bgc": "#FFCF5C",
+          "et": "2025-05-08T14:23:16",
           "ft": "Sale is over",
           "rel_val": [],
           "tc": "#000000",
