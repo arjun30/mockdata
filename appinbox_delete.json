@@ -1,12 +1,12 @@
 {
-  "inbox_count": 3,
+  "inbox_count": 8,
   "inbox": [
     {
       "aps": {
         "alert": {
-          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+          "body": "Notification",
           "subtitle": "",
-          "title": "Image Timer template testing"
+          "title": "Image Timer template testing -250408170605"
         },
         "category": "SmartechPN",
         "mutable-content": 1,
@@ -102,7 +102,7 @@
     {
       "aps": {
         "alert": {
-          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+          "body": "Notification-250408185438",
           "subtitle": "",
           "title": "GIF Timer template testing"
         },
@@ -164,9 +164,296 @@
           "ty": 1
         }
       }
-    }
-  ],
-  "inboxDeleted": ["140578-2579-732-0-250408185438", "140578-2569-732-0-250408172357"],
-  "message": "success",
-  "code": 200
-}
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "Carousel notification with demo images",
+          "subtitle": "",
+          "title": "Carousel - 250408190101"
+        },
+        "category": "SmartechCarouselLandscapeNotification",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "test1",
+        "app_inbox_ttl": "2026-07-19T06:03:40",
+        "attrParams": {
+          "__sta": "vhg.qhoxsfomnbf%7CBRJV",
+          "__stm_id": 2580,
+          "__stm_medium": "apn",
+          "__stm_source": "smartech"
+        },
+        "carousel": [
+          {
+            "callToAction": "",
+            "imgDeeplink": "",
+            "imgMsg": "Demo image 101",
+            "imgSource": "url",
+            "imgTitle": "Image 101",
+            "imgUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-101.png"
+          },
+          {
+            "callToAction": "",
+            "imgDeeplink": "",
+            "imgMsg": "Demo image 102",
+            "imgSource": "url",
+            "imgTitle": "Image 102",
+            "imgUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-102.png"
+          }
+        ],
+        "deeplink": "",
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "6B29002A-A7A9-4939-BC1E-709EE734418D"
+        },
+        "publishedDate": "2025-11-19T06:03:40",
+        "status": "sent",
+        "timestamp": "1763532220931",
+        "trid": "140578-2580-732-0-250408190101",
+        "type": "CarouselLandscape"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 81,
+        "lid": 81,
+        "tim": {
+          "bgc": "#FFCF5C",
+          "et": "2025-05-08T15:30:00",
+          "ft": "Sale is over",
+          "rel_val": [],
+          "tc": "#000000",
+          "timer": "Specific_date_and_time",
+          "ty": 1
+        }
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "Carousel notification with demo images",
+          "subtitle": "",
+          "title": "Carousel - 250408190203"
+        },
+        "category": "SmartechCarouselLandscapeNotification",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "test1",
+        "app_inbox_ttl": "2026-07-19T06:03:40",
+        "attrParams": {
+          "__sta": "vhg.qhoxsfomnbf%7CBSJV",
+          "__stm_id": 2581,
+          "__stm_medium": "apn",
+          "__stm_source": "smartech"
+        },
+        "carousel": [
+          {
+            "callToAction": "",
+            "imgDeeplink": "",
+            "imgMsg": "Demo image 103",
+            "imgSource": "url",
+            "imgTitle": "Image 103",
+            "imgUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-103.png"
+          },
+          {
+            "callToAction": "",
+            "imgDeeplink": "",
+            "imgMsg": "Demo image 104",
+            "imgSource": "url",
+            "imgTitle": "Image 104",
+            "imgUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-104.png"
+          }
+        ],
+        "deeplink": "",
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "6B29002A-A7A9-4939-BC1E-709EE734418D"
+        },
+        "publishedDate": "2025-11-19T06:03:40",
+        "status": "sent",
+        "timestamp": "1763532220932",
+        "trid": "140578-2581-732-0-250408190203",
+        "type": "CarouselLandscape"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 91,
+        "lid": 91,
+        "tim": {
+          "bgc": "#FFCF5C",
+          "et": "2025-05-08T16:00:00",
+          "ft": "Sale is over",
+          "rel_val": [],
+          "tc": "#000000",
+          "timer": "Specific_date_and_time",
+          "ty": 1
+        }
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "Carousel notification with demo images",
+          "subtitle": "",
+          "title": "Carousel - 250408190305"
+        },
+        "category": "SmartechCarouselLandscapeNotification",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "test1",
+        "app_inbox_ttl": "2026-07-19T06:03:40",
+        "attrParams": {
+          "__sta": "vhg.qhoxsfomnbf%7CBTJV",
+          "__stm_id": 2582,
+          "__stm_medium": "apn",
+          "__stm_source": "smartech"
+        },
+        "carousel": [
+          {
+            "callToAction": "",
+            "imgDeeplink": "",
+            "imgMsg": "Demo image 105",
+            "imgSource": "url",
+            "imgTitle": "Image 105",
+            "imgUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-105.png"
+          },
+          {
+            "callToAction": "",
+            "imgDeeplink": "",
+            "imgMsg": "Demo image 106",
+            "imgSource": "url",
+            "imgTitle": "Image 106",
+            "imgUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-106.png"
+          }
+        ],
+        "deeplink": "",
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "6B29002A-A7A9-4939-BC1E-709EE734418D"
+        },
+        "publishedDate": "2025-11-19T06:03:40",
+        "status": "sent",
+        "timestamp": "1763532220933",
+        "trid": "140578-2582-732-0-250408190305",
+        "type": "CarouselLandscape"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 101,
+        "lid": 101,
+        "tim": {
+          "bgc": "#FFCF5C",
+          "et": "2025-05-08T16:30:00",
+          "ft": "Sale is over",
+          "rel_val": [],
+          "tc": "#000000",
+          "timer": "Specific_date_and_time",
+          "ty": 1
+        }
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "Carousel notification with demo images",
+          "subtitle": "",
+          "title": "Carousel - 250408190407"
+        },
+        "category": "SmartechCarouselLandscapeNotification",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "test1",
+        "app_inbox_ttl": "2026-07-19T06:03:40",
+        "attrParams": {
+          "__sta": "vhg.qhoxsfomnbf%7CBUJV",
+          "__stm_id": 2583,
+          "__stm_medium": "apn",
+          "__stm_source": "smartech"
+        },
+        "carousel": [
+          {
+            "callToAction": "",
+            "imgDeeplink": "",
+            "imgMsg": "Demo image 107",
+            "imgSource": "url",
+            "imgTitle": "Image 107",
+            "imgUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-107.png"
+          },
+          {
+            "callToAction": "",
+            "imgDeeplink": "",
+            "imgMsg": "Demo image 108",
+            "imgSource": "url",
+            "imgTitle": "Image 108",
+            "imgUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-108.png"
+          }
+        ],
+        "deeplink": "",
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "6B29002A-A7A9-4939-BC1E-709EE734418D"
+        },
+        "publishedDate": "2025-11-19T06:03:40",
+        "status": "sent",
+        "timestamp": "1763532220934",
+        "trid": "140578-2583-732-0-250408190407",
+        "type": "CarouselLandscape"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 111,
+        "lid": 111,
+        "tim": {
+          "bgc": "#FFCF5C",
+          "et": "2025-05-08T17:00:00",
+          "ft": "Sale is over",
+          "rel_val": [],
+          "tc": "#000000",
+          "timer": "Specific_date_and_time",
+          "ty": 1
+        }
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "Carousel notification with demo images",
+          "subtitle": "",
+          "title": "Carousel - 250408190509"
+        },
+        "category": "SmartechCarouselLandscapeNotification",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "test1",
+        "app_inbox_ttl": "2026-07-19T06:03:40",
+        "attrParams": {
+          "__sta": "vhg.qhoxsfomnbf%7CBVJV",
+          "__stm_id": 2584,
+          "__stm_medium": "apn",
+          "__stm_source": "smartech"
+        },
+        "carousel": [
+          {
+            "callToAction": "",
+            "imgDeeplink": "",
+            "imgMsg": "Demo image 109",
+            "imgSource": "url",
