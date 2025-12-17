@@ -457,3 +457,46 @@
             "imgDeeplink": "",
             "imgMsg": "Demo image 109",
             "imgSource": "url",
+            "imgTitle": "Image 109",
+            "imgUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-109.png"
+          },
+          {
+            "callToAction": "",
+            "imgDeeplink": "",
+            "imgMsg": "Demo image 110",
+            "imgSource": "url",
+            "imgTitle": "Image 110",
+            "imgUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-110.png"
+          }
+        ],
+        "deeplink": "",
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "6B29002A-A7A9-4939-BC1E-709EE734418D"
+        },
+        "publishedDate": "2025-11-19T06:03:40",
+        "status": "sent",
+        "timestamp": "1763532220935",
+        "trid": "140578-2584-732-0-250408190509",
+        "type": "CarouselLandscape"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 121,
+        "lid": 121,
+        "tim": {
+          "bgc": "#FFCF5C",
+          "et": "2025-05-08T17:30:00",
+          "ft": "Sale is over",
+          "rel_val": [],
+          "tc": "#000000",
+          "timer": "Specific_date_and_time",
+          "ty": 1
+        }
+      }
+    }
+  ],
+  "inboxDeleted": [],
+  "message": "success",
+  "code": 200
+}
