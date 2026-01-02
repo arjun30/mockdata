@@ -185,6 +185,104 @@
         "flid": 1,
         "lid": 1
       }
+    },
+    {
+      "actionButton": [],
+      "app_inbox_category": "TestAk",
+      "app_inbox_ttl": "2026-01-27T12:03:48",
+      "attrParams": {},
+      "carousel": [
+        {
+          "callToAction": "deeplink",
+          "imgDeeplink": "1?__sta_linkid=79&__stm_id=3129&__sta=%7CBVIU&__stm_medium=apn&__stm_source=smartech",
+          "imgMsg": "",
+          "imgSource": "url",
+          "imgTitle": "1",
+          "imgUrl": "https://www.phonepe.com/webstatic/static/default-image-cf4bb5407be1a9d8c49eb9a502a245db.png"
+        },
+        {
+          "callToAction": "deeplink",
+          "imgDeeplink": "2?__sta_linkid=80&__stm_id=3129&__sta=%7CBVIU&__stm_medium=apn&__stm_source=smartech",
+          "imgMsg": "",
+          "imgSource": "url",
+          "imgTitle": "2",
+          "imgUrl": "https://images.unsplash.com/photo-1514449372970-c013485804bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2ltcGxlJTIwbGFuZHNjYXBlfGVufDB8fDB8fA%3D%3D&w=1000&q=80.jpg"
+        }
+      ],
+      "customPayload": {},
+      "deeplink": "",
+      "expiry": 1769515595,
+      "image": "",
+      "message": "android old",
+      "pnMeta": {
+        "guid": "ee82b02e-9432-4120-a747-cb487f72385d"
+      },
+      "publishedDate": "2025-12-30T12:12:18",
+      "smtCustomPayload": {},
+      "smtSrc": "Smartech",
+      "sound": true,
+      "status": "sent",
+      "subtitle": "",
+      "timestamp": "1767096773810",
+      "title": "android old1",
+      "trid": "140578-3129-661-0-251230174245",
+      "type": "CarouselLandscape"
+    },
+    {
+      "actionButton": [],
+      "app_inbox_category": "TestJR",
+      "app_inbox_ttl": "2026-01-27T11:50:19",
+      "attrParams": {},
+      "carousel": [],
+      "customPayload": {},
+      "deeplink": "",
+      "expiry": 1767115657,
+      "image": "",
+      "message": "android old",
+      "pnMeta": {
+        "guid": "ee82b02e-9432-4120-a747-cb487f72385d"
+      },
+      "publishedDate": "2025-12-30T12:11:45",
+      "smtCustomPayload": {},
+      "smtSrc": "Smartech",
+      "sound": true,
+      "status": "sent",
+      "subtitle": "",
+      "timestamp": "1767096742128",
+      "title": "android old2",
+      "trid": "140578-3130-661-0-251230174214",
+      "type": "Simple"
+    },
+    {
+      "expiry": 1767098687474,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "TestAk",
+        "app_inbox_ttl": "2026-01-27T12:03:48",
+        "attrParams": {},
+        "body": "android new",
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1769515399,
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "ee82b02e-9432-4120-a747-cb487f72385d"
+        },
+        "publishedDate": "2025-12-30T12:04:09",
+        "sound": true,
+        "status": "sent",
+        "subtitle": "",
+        "timestamp": "1767096268343",
+        "title": "Android new 1",
+        "trid": "140578-3122-661-0-251230173412",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
     }
   ],
   "message": "success",
