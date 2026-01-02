@@ -314,6 +314,31 @@
         "flid": 1,
         "lid": 1
       }
+    },
+    {
+      "actionButton": [],
+      "app_inbox_category": "TestJR",
+      "app_inbox_ttl": "2026-01-27T11:50:19",
+      "attrParams": {},
+      "carousel": [],
+      "customPayload": {},
+      "deeplink": "",
+      "expiry": 1767115657,
+      "image": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-118.png",
+      "message": "android old image",
+      "pnMeta": {
+        "guid": "ee82b02e-9432-4120-a747-cb487f72385d"
+      },
+      "publishedDate": "2025-12-30T12:11:45",
+      "smtCustomPayload": {},
+      "smtSrc": "Smartech",
+      "sound": true,
+      "status": "sent",
+      "subtitle": "",
+      "timestamp": "1767096742128",
+      "title": "android old2",
+      "trid": "140578-3130-661-0-251250174219",
+      "type": "Image"
     }
   ],
   "message": "success",
