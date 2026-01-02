@@ -1,0 +1,192 @@
+{
+  "inbox_count": 5,
+  "inbox": [
+    {
+      "aps": {
+        "alert": {
+          "body": "lorem ipsum",
+          "subtitle": "",
+          "title": "Old iOS 01"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "customPayload": {},
+      "expiry": 1767115657,
+      "payload": {
+        "actionButton": [],
+        "app_inbox_category": "TestJR",
+        "app_inbox_ttl": "2026-01-27T11:50:19",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1767115657,
+        "mediaurl": "",
+        "pnMeta": {
+          "guid": "7AE44C5E-DDF7-437B-8A35-52F8BE7478E1"
+        },
+        "publishedDate": "2025-12-30T12:11:45",
+        "status": "sent",
+        "timestamp": "1767096742109",
+        "trid": "140578-3130-774-0-251230174214",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "lorem ipsum",
+          "subtitle": "",
+          "title": "Old iOS 02"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "customPayload": {},
+      "expiry": 1767115659,
+      "payload": {
+        "actionButton": [],
+        "app_inbox_category": "TestJR",
+        "app_inbox_ttl": "2026-01-27T11:50:19",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1767115659,
+        "mediaurl": "",
+        "pnMeta": {
+          "guid": "7AE44C5E-DDF7-437B-8A35-52F8BE7478E1"
+        },
+        "publishedDate": "2025-12-30T12:11:11",
+        "status": "sent",
+        "timestamp": "1767096710562",
+        "trid": "140578-3128-774-0-251230174141",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "lorem ipsum",
+          "subtitle": "",
+          "title": "New iOS 01"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "expiry": 1767114836,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "TestJR",
+        "app_inbox_ttl": "2026-01-27T11:50:19",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1767114836,
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "7AE44C5E-DDF7-437B-8A35-52F8BE7478E1"
+        },
+        "publishedDate": "2025-12-30T11:54:28",
+        "status": "sent",
+        "timestamp": "1767095724006",
+        "trid": "140578-3121-774-0-251230172515",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "lorem ipsum",
+          "subtitle": "",
+          "title": "New iOS 02"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "expiry": 1767114884,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "TestJR",
+        "app_inbox_ttl": "2026-01-27T11:50:19",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1767114884,
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "7AE44C5E-DDF7-437B-8A35-52F8BE7478E1"
+        },
+        "publishedDate": "2025-12-30T11:53:42",
+        "status": "sent",
+        "timestamp": "1767095666689",
+        "trid": "140578-3120-774-0-251230172354",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "lorem ipsum",
+          "subtitle": "",
+          "title": "New iOS 03"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "expiry": 1767114805,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "TestJR",
+        "app_inbox_ttl": "2026-01-27T11:50:19",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1767114805,
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "7AE44C5E-DDF7-437B-8A35-52F8BE7478E1"
+        },
+        "publishedDate": "2025-12-30T11:53:06",
+        "status": "sent",
+        "timestamp": "1767095611892",
+        "trid": "140578-3119-774-0-251230172321",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    }
+  ],
+  "message": "success",
+  "code": 200
+}
