@@ -283,6 +283,37 @@
         "flid": 1,
         "lid": 1
       }
+    },
+    {
+      "expiry": 1767098687474,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "TestAk",
+        "app_inbox_ttl": "2026-01-27T12:03:48",
+        "attrParams": {},
+        "body": "android new",
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1769515399,
+        "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-117.png",
+        "pnMeta": {
+          "guid": "ee82b02e-9432-4120-a747-cb487f72385d"
+        },
+        "publishedDate": "2025-12-30T12:04:09",
+        "sound": true,
+        "status": "sent",
+        "subtitle": "",
+        "timestamp": "1767096268343",
+        "title": "Android new 1",
+        "trid": "140578-3122-661-0-251230173413",
+        "type": "Image"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
     }
   ],
   "message": "success",
