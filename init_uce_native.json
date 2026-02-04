@@ -102,7 +102,7 @@
         "position": "4",
         "trigger": {
           "eventId": 21,
-          "eventName": "App Launch",
+          "eventName": "expiry_cart",
           "delay": 2,
           "filterType": "all",
           "filters": []
@@ -110,7 +110,7 @@
         "multiTrigger": [
           {
             "eventId": 21,
-            "eventName": "App Launch",
+            "eventName": "expiry_cart",
             "delay": 2,
             "filterType": "all",
             "filters": []
