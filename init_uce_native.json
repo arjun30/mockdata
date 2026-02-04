@@ -91,12 +91,8 @@
       "whomTo": {
         "visitor": "all",
         "visitorType": "all",
-        "segIds": [
-          "2428"
-        ],
-        "eSegIds": [
-          "2083"
-        ]
+        "segIds": [],
+        "eSegIds": []
       },
       "whereTo": {
         "position": "4",
