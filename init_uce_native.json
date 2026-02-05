@@ -1,32 +1,7 @@
 {
-  "InAppRuleList": [
-    {
-      "id": "817",
-      "toDate": "2027-12-30T07:45:24",
-      "fromDate": "2026-02-04T10:33:10",
-      "whomTo": {
-        "everyone": "everyone",
-        "eventList": 101,
-        "eventDelay": 0
-      },
-      "whereTo": "4",
-      "whenTo": {
-        "campaign": {
-          "days": "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",
-          "from": "09:00",
-          "to": "21:00"
-        },
-        "spentTime": "0"
-      },
-      "whatTo": "clientid=140578&id=817",
-      "contentType": 1,
-      "controlGroup": 0
-    }
-  ],
-  "newInAppRules": [],
   "inAppRules": [
     {
-      "id": "817",
+      "id": "820",
       "toDate": "2027-12-30T07:45:24",
       "fromDate": "2026-02-04T10:33:10",
       "modifiedDate": "2026-02-04T10:33:17",
@@ -67,8 +42,64 @@
         ],
         "time": [
           {
-            "from": "09:00",
-            "to": "21:00"
+            "from": "00:00",
+            "to": "23:59"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdnt.netcoresmartech.com/smartechapp-sdk/smartech-ce/dev/index.html?v=1.0.0",
+        "useFullscreen": 1,
+        "smtCustomPayload": {},
+        "attrIds": []
+      },
+      "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "817",
+      "toDate": "2027-12-30T07:45:24",
+      "fromDate": "2026-02-04T10:33:10",
+      "modifiedDate": "2026-02-04T10:33:17",
+      "frequencyType": "",
+      "frequency": "0",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all"
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 101,
+          "eventName": "checkout",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 101,
+            "eventName": "checkout",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "00:00",
+            "to": "23:59"
           }
         ]
       },
@@ -81,7 +112,7 @@
       "contentType": 1,
       "controlGroup": 0
     },
-     {
+    {
       "id": "818",
       "toDate": "2027-12-30T07:45:24",
       "fromDate": "2026-02-04T10:33:10",
@@ -123,12 +154,12 @@
         ],
         "time": [
           {
-            "from": "09:00",
-            "to": "21:00"
+            "from": "00:00",
+            "to": "23:59"
           }
         ]
       },
-     "whatTo": {
+      "whatTo": {
         "url": "https://cdndc.netcoresmartech.com/128866/in-app-content/512.html?inappVer=1",
         "isNative": true,
         "useFullscreen": 0,
@@ -138,6 +169,63 @@
         "smtCustomPayload": {}
       },
       "contentType": 1,
+      "controlGroup": 0
+    },
+    {
+      "id": "819",
+      "toDate": "2026-02-05T16:55:00",
+      "fromDate": "2026-02-03T17:00:00",
+      "modifiedDate": "2026-02-03T04:29:31",
+      "frequencyType": "day",
+      "frequency": "1",
+      "whomTo": {
+        "visitor": "all",
+        "visitorType": "all",
+        "listIds": [],
+        "eListIds": []
+      },
+      "whereTo": {
+        "position": "4",
+        "trigger": {
+          "eventId": 530,
+          "eventName": "add_to_card",
+          "delay": 0,
+          "filterType": "all",
+          "filters": []
+        },
+        "multiTrigger": [
+          {
+            "eventId": 530,
+            "eventName": "add_to_card",
+            "delay": 0,
+            "filterType": "all",
+            "filters": []
+          }
+        ]
+      },
+      "whenTo": {
+        "days": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "time": [
+          {
+            "from": "00:00",
+            "to": "23:59"
+          }
+        ]
+      },
+      "whatTo": {
+        "url": "https://cdndc.netcoresmartech.com/120917/in-app-content/8972.html?inappVer=1",
+        "useFullscreen": 0,
+        "smtCustomPayload": {}
+      },
+      "contentType": 4,
       "controlGroup": 0
     }
   ],
