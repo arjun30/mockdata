@@ -188,7 +188,7 @@
         "position": "4",
         "trigger": {
           "eventId": 530,
-          "eventName": "add_to_card",
+          "eventName": "add_to_cart",
           "delay": 0,
           "filterType": "all",
           "filters": []
@@ -196,7 +196,7 @@
         "multiTrigger": [
           {
             "eventId": 530,
-            "eventName": "add_to_card",
+            "eventName": "add_to_cart",
             "delay": 0,
             "filterType": "all",
             "filters": []
