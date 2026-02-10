@@ -269,7 +269,7 @@
       "enable": 1,
       "month": 30,
       "week": 7,
-      "day": 1
+      "day": 4
     },
     "baseUrls": {
       "trackAppActUrl": "https://npn.netcoresmartech.com/",
