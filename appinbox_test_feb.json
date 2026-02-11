@@ -1,6 +1,45 @@
 {
-  "inbox_count": 21,
+  "inbox_count": 22,
   "inbox": [
+    {
+      "aps": {
+        "alert": {
+          "body": "test",
+          "subtitle": "",
+          "title": "Customize your template 15"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "expiry": 1773148811,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "Promo",
+        "app_inbox_ttl": "2026-03-06T07:03:09",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1773148811,
+        "htB": "<del class=\"strikethrough\">test</del>",
+        "htT": "<del class=\"strikethrough\"></del><strong class=\"bold\">Customize</strong> <span class=\"bgcolor\" style=\"background-color: #ffffff;\"><span class=\"color\" style=\"color: #ff0000;\">your</span></span> <del class=\"strikethrough\">template</del> 15<del class=\"strikethrough\"></del>",
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "A9884E17-E721-44D5-B765-D44070E14699"
+        },
+        "publishedDate": "2026-02-11T10:23:47",
+        "status": "sent",
+        "timestamp": "1770805438707",
+        "trid": "175567-645-13865-0-260211155350",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    },
     {
       "aps": {
         "alert": {
@@ -22,8 +61,8 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773148392,
-        "htB": "test",
-        "htT": "Customize your template 15",
+        "htB": "<del class=\"strikethrough\">test</del>",
+        "htT": "<del class=\"strikethrough\"></del><strong class=\"bold\">Customize</strong> <span class=\"bgcolor\" style=\"background-color: #ffffff;\"><span class=\"color\" style=\"color: #ff0000;\">your</span></span> <del class=\"strikethrough\">template</del> 15<del class=\"strikethrough\"></del>",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "627639BE-4569-45F8-A8D0-C923E80241F6"
@@ -61,8 +100,8 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773148332,
-        "htB": "test",
-        "htT": "Customize your template 15",
+        "htB": "<del class=\"strikethrough\">test</del>",
+        "htT": "<del class=\"strikethrough\"></del><strong class=\"bold\">Customize</strong> <span class=\"bgcolor\" style=\"background-color: #ffffff;\"><span class=\"color\" style=\"color: #ff0000;\">your</span></span> <del class=\"strikethrough\">template</del> 15<del class=\"strikethrough\"></del>",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "627639BE-4569-45F8-A8D0-C923E80241F6"
@@ -100,8 +139,8 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773148270,
-        "htB": "test",
-        "htT": "Customize your template 15",
+        "htB": "<del class=\"strikethrough\">test</del>",
+        "htT": "<del class=\"strikethrough\"></del><strong class=\"bold\">Customize</strong> <span class=\"bgcolor\" style=\"background-color: #ffffff;\"><span class=\"color\" style=\"color: #ff0000;\">your</span></span> <del class=\"strikethrough\">template</del> 15<del class=\"strikethrough\"></del>",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "A9884E17-E721-44D5-B765-D44070E14699"
@@ -139,8 +178,8 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773139150,
-        "htB": "test",
-        "htT": "Customize your template 13",
+        "htB": "<del class=\"strikethrough\">test</del>",
+        "htT": "<del class=\"strikethrough\"></del><strong class=\"bold\">Customize</strong> <span class=\"bgcolor\" style=\"background-color: #ffffff;\"><span class=\"color\" style=\"color: #ff0000;\">your</span></span> <del class=\"strikethrough\">template</del> 13<del class=\"strikethrough\"></del>",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "B2D07CF4-DE4E-4CE4-AF10-0893BFB04B01"
@@ -178,8 +217,8 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773139034,
-        "htB": "test",
-        "htT": "Customize your template 13",
+        "htB": "<del class=\"strikethrough\">test</del>",
+        "htT": "<del class=\"strikethrough\"></del><strong class=\"bold\">Customize</strong> <span class=\"bgcolor\" style=\"background-color: #ffffff;\"><span class=\"color\" style=\"color: #ff0000;\">your</span></span> <del class=\"strikethrough\">template</del> 13<del class=\"strikethrough\"></del>",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "B2D07CF4-DE4E-4CE4-AF10-0893BFB04B01"
@@ -201,7 +240,7 @@
         "alert": {
           "body": "test",
           "subtitle": "",
-          "title": "Bold Title and Italic 12"
+          "title": "<b>Bold Title</b> and <i>Italic</i> 12"
         },
         "category": "SmartechPN",
         "mutable-content": 1,
@@ -217,8 +256,8 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773069429,
-        "htB": "test",
-        "htT": "Bold Title and Italic 12",
+        "htB": "<del class=\"strikethrough\">test</del>",
+        "htT": "<del class=\"strikethrough\"></del><b>Bold Title</b> and <i>Italic</i> 12<del class=\"strikethrough\"></del>",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "B2D07CF4-DE4E-4CE4-AF10-0893BFB04B01"
@@ -240,7 +279,7 @@
         "alert": {
           "body": "test",
           "subtitle": "",
-          "title": "Bold Title and Italic 11"
+          "title": "<b>Bold Title</b> and <i>Italic</i> 11"
         },
         "category": "SmartechPN",
         "mutable-content": 1,
@@ -256,8 +295,8 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773069134,
-        "htB": "test",
-        "htT": "Bold Title and Italic 11",
+        "htB": "<del class=\"strikethrough\">test</del>",
+        "htT": "<del class=\"strikethrough\"></del><b>Bold Title</b> and <i>Italic</i> 11<del class=\"strikethrough\"></del>",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "B2D07CF4-DE4E-4CE4-AF10-0893BFB04B01"
@@ -279,7 +318,7 @@
         "alert": {
           "body": "test",
           "subtitle": "",
-          "title": "simple pn 6 Customize your template 10"
+          "title": "simple pn 6 Customize <del>your template</del> 10"
         },
         "category": "SmartechPN",
         "mutable-content": 1,
@@ -295,8 +334,8 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773068650,
-        "htB": "test",
-        "htT": "simple pn 6 Customize your template 10",
+        "htB": "<del class=\"strikethrough\">test</del>",
+        "htT": "<del class=\"strikethrough\"></del>simple pn 6 Customize <del>your template</del> 10<del class=\"strikethrough\"></del>",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "B2D07CF4-DE4E-4CE4-AF10-0893BFB04B01"
@@ -318,7 +357,7 @@
         "alert": {
           "body": "test",
           "subtitle": "",
-          "title": "simple pn 6 Customize your template 7"
+          "title": "simple pn 6 Customize <del>your template</del> 7"
         },
         "category": "SmartechPN",
         "mutable-content": 1,
@@ -334,8 +373,8 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773067931,
-        "htB": "test",
-        "htT": "simple pn 6 Customize your template 7",
+        "htB": "<del class=\"strikethrough\">test</del>",
+        "htT": "<del class=\"strikethrough\"></del>simple pn 6 Customize <del>your template</del> 7<del class=\"strikethrough\"></del>",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "B2D07CF4-DE4E-4CE4-AF10-0893BFB04B01"
@@ -373,8 +412,8 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773067931,
-        "htB": "test",
-        "htT": "simple pn 6 Customize your template",
+        "htB": "<del class=\"strikethrough\">test</del>",
+        "htT": "<del class=\"strikethrough\">simple</del> pn 6&nbsp;<strong class=\"bold\">Customiz</strong>e <del class=\"strikethrough\">your template</del>",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "B2D07CF4-DE4E-4CE4-AF10-0893BFB04B01"
@@ -412,7 +451,7 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773065290,
-        "htT": "simple pn 5",
+        "htT": "<del class=\"strikethrough\">simple</del> pn 5",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "B2D07CF4-DE4E-4CE4-AF10-0893BFB04B01"
@@ -450,7 +489,7 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773064637,
-        "htT": "simple pn 5",
+        "htT": "<del class=\"strikethrough\">simple</del> pn 5",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "B2D07CF4-DE4E-4CE4-AF10-0893BFB04B01"
@@ -488,7 +527,7 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773063251,
-        "htT": "simple pn 5",
+        "htT": "<del class=\"strikethrough\">simple</del> pn 5",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "B2D07CF4-DE4E-4CE4-AF10-0893BFB04B01"
@@ -526,7 +565,7 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773062950,
-        "htT": "simple pn 4",
+        "htT": "<del class=\"strikethrough\">simple</del> pn 4",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "B2D07CF4-DE4E-4CE4-AF10-0893BFB04B01"
@@ -564,7 +603,7 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773062890,
-        "htT": "simple pn 4",
+        "htT": "<del class=\"strikethrough\">simple</del> pn 4",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "B2D07CF4-DE4E-4CE4-AF10-0893BFB04B01"
@@ -602,7 +641,7 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773057310,
-        "htT": "simple pn 3",
+        "htT": "<del class=\"strikethrough\">simple</del> pn 3",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "C9814A49-A3FC-488B-8C21-82AECD003287"
@@ -640,7 +679,7 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773057071,
-        "htT": "simple pn",
+        "htT": "<del class=\"strikethrough\">simple</del> pn",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "B2D07CF4-DE4E-4CE4-AF10-0893BFB04B01"
@@ -678,7 +717,7 @@
         "carousel": [],
         "deeplink": "",
         "expiry": 1773056831,
-        "htT": "simple pn",
+        "htT": "<del class=\"strikethrough\">simple</del> pn",
         "mediaUrl": "",
         "pnMeta": {
           "guid": "C9814A49-A3FC-488B-8C21-82AECD003287"
