@@ -1,0 +1,82 @@
+{
+  "inbox_count": 2,
+  "inbox": [
+    {
+      "aps": {
+        "alert": {
+          "body": "Transfer money quickly and securely with TAJWay App.",
+          "subtitle": "",
+          "title": "No Delays, No Worries🚀"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "expiry": 1773139367,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "push",
+        "app_inbox_ttl": "2026-03-05T16:40:00",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1773139367,
+        "mediaUrl": "",
+        "pnMeta": {
+          "guid": "63591517-FFD9-4834-939E-5D68A68FE9A6"
+        },
+        "publishedDate": "2026-03-03T16:40:00",
+        "status": "sent",
+        "timestamp": "1772556467068",
+        "trid": "182788-719-13-0-260303221714",
+        "type": "Simple"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 1,
+        "lid": 1
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "body": "",
+          "subtitle": "",
+          "title": "Send Money Instantly With TAJWay☺️"
+        },
+        "category": "SmartechPN",
+        "mutable-content": 1,
+        "sound": ""
+      },
+      "expiry": 1773038264,
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "actionButton": [],
+        "app_inbox_category": "push",
+        "app_inbox_ttl": "2026-03-09T13:30:00",
+        "attrParams": {},
+        "carousel": [],
+        "deeplink": "",
+        "expiry": 1773038264,
+        "mediaUrl": "https://cdnt.netcoresmartech.com/182788/1770133331.jpeg",
+        "pnMeta": {
+          "guid": "63591517-FFD9-4834-939E-5D68A68FE9A6"
+        },
+        "publishedDate": "2026-03-02T13:30:00",
+        "status": "sent",
+        "timestamp": "1772458364182",
+        "trid": "182788-716-13-0-260302190213",
+        "type": "Image"
+      },
+      "smtSrc": "Smartech",
+      "smtUi": {
+        "flid": 21,
+        "lid": 21
+      }
+    }
+  ],
+  "inboxDeleted": null,
+  "message": "success",
+  "code": 200
+}
