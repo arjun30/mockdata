@@ -6,8 +6,8 @@
       "toDate": "2027-12-30T07:45:24",
       "fromDate": "2026-02-04T10:33:10",
       "modifiedDate": "2026-02-04T10:33:17",
-      "frequencyType": "",
-      "frequency": "0",
+      "frequencyType": "day",
+      "frequency": "10",
       "whomTo": {
         "visitor": "all",
         "visitorType": "all"
@@ -62,8 +62,8 @@
       "toDate": "2027-12-30T07:45:24",
       "fromDate": "2026-02-04T10:33:10",
       "modifiedDate": "2026-02-04T10:33:17",
-      "frequencyType": "",
-      "frequency": "0",
+      "frequencyType": "day",
+      "frequency": "2",
       "whomTo": {
         "visitor": "all",
         "visitorType": "all"
@@ -118,8 +118,8 @@
       "toDate": "2027-12-30T07:45:24",
       "fromDate": "2026-02-04T10:33:10",
       "modifiedDate": "2026-02-04T10:33:17",
-      "frequencyType": "",
-      "frequency": "0",
+      "frequencyType": "day",
+      "frequency": "1",
       "whomTo": {
         "visitor": "all",
         "visitorType": "all"
@@ -177,8 +177,8 @@
       "toDate": "2026-05-09T16:55:00",
       "fromDate": "2026-02-03T17:00:00",
       "modifiedDate": "2026-02-03T04:29:31",
-      "frequencyType": "",
-      "frequency": "0",
+      "frequencyType": "day",
+      "frequency": "5",
       "whomTo": {
         "visitor": "all",
         "visitorType": "all",
