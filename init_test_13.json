@@ -2,7 +2,6 @@
   "inAppRules": [
     {
       "id": "820",
-      "skipGlobalFreqCap": true,
       "toDate": "2027-12-30T07:45:24",
       "fromDate": "2026-02-04T10:33:10",
       "modifiedDate": "2026-02-04T10:33:17",
@@ -59,7 +58,6 @@
     },
     {
       "id": "817",
-      "skipGlobalFreqCap": true,
       "toDate": "2027-12-30T07:45:24",
       "fromDate": "2026-02-04T10:33:10",
       "modifiedDate": "2026-02-04T10:33:17",
