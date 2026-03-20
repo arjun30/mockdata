@@ -55,10 +55,10 @@
                   "value": "ios"
                 },
                 {
-                  "key": "size",
+                  "key": "company",
                   "operator": "is",
                   "dataType": "string",
-                  "value": "100"
+                  "value": "Apple"
                 }
               ]
             }
