@@ -49,13 +49,13 @@
               "filterType": "all",
               "filters": [
                 {
-                  "key": "name",
+                  "key": "product.name",
                   "operator": "is",
                   "dataType": "string",
                   "value": "ios"
                 },
                 {
-                  "key": "company",
+                  "key": "product.company",
                   "operator": "is",
                   "dataType": "string",
                   "value": "Apple"
