@@ -93,7 +93,13 @@
                 "operator": ">",
                 "dataType": "int",
                 "value": "100"
-              }
+              },
+              {
+                  "key": "size",
+                  "operator": "is",
+                  "dataType": "string",
+                  "value": "100"
+                }
             ]
           },
           {
@@ -106,7 +112,13 @@
                 "key": "product.name",
                 "operator": "contains",
                 "dataType": "string",
-                "value": "ios"
+                "value": "Pro"
+              },
+              {
+                "key": "product.brand",
+                "operator": "contains",
+                "dataType": "string",
+                "value": "Apple"
               }
             ]
           }
