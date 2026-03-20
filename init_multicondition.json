@@ -92,7 +92,7 @@
                 "key": "price",
                 "operator": ">",
                 "dataType": "int",
-                "value": "100"
+                "value": "10"
               },
               {
                   "key": "size",
