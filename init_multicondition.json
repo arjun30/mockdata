@@ -92,7 +92,7 @@
                   "key": "product.name",
                   "operator": "is",
                   "dataType": "string",
-                  "value": "ios"
+                  "value": "Apple iPhone X - 256 GB"
                 },
                 {
                   "key": "product.company",
