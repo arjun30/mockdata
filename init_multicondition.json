@@ -88,17 +88,17 @@
             "delay": 0,
             "filterType": "all",
             "filters": [
-              {
-                "key": "price",
-                "operator": ">",
-                "dataType": "int",
-                "value": "10"
-              },
-              {
-                  "key": "size",
+                             {
+                  "key": "product.name",
                   "operator": "is",
                   "dataType": "string",
-                  "value": "100"
+                  "value": "ios"
+                },
+                {
+                  "key": "product.company",
+                  "operator": "is",
+                  "dataType": "string",
+                  "value": "Apple"
                 }
             ]
           },
